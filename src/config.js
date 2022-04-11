@@ -40,10 +40,8 @@ const layerConfigurations = [
     growEditionSizeTo: 5,
     layersOrder: [
       { name: "Base Body" },
-      { name: "Base Secondary Male" },
-      { name: "Base Line Art" },
-      { name: "Face Male" },
-      { name: "Base Body" },
+      { name: "Base Secondary Female" },
+      { name: "Face Female" },
       { name: "Cloth" },
       { name: "EyeMsc" },
       { name: "FaceMsc" },
