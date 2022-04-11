@@ -37,24 +37,38 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
-    namePrefix: "Series 2", // Use to add a name to Metadata `name:`
+    growEditionSizeTo: 5,
     layersOrder: [
-      { name: "Background" },
-      {
-        name: "Back Accessory",
-        // options: {
-        //   bypassDNA: true,
-        // },
-      },
-      { name: "Head" },
-      { name: "Clothes" },
-      { name: "Eyes" },
-      { name: "Hair" },
-      { name: "Head Accessory" },
-      { name: "Shirt Accessories" },
+      { name: "Base Body" },
+      { name: "Base Secondary Male" },
+      { name: "Base Line Art" },
+      { name: "Face Male" },
+      { name: "Base Body" },
+      { name: "Cloth" },
+      { name: "EyeMsc" },
+      { name: "FaceMsc" },
+      { name: "Hat" },  
     ],
   },
+  // {
+  //   growEditionSizeTo: 10,
+  //   namePrefix: "Series 2", // Use to add a name to Metadata `name:`
+  //   layersOrder: [
+  //     { name: "Background" },
+  //     {
+  //       name: "Back Accessory",
+  //       // options: {
+  //       //   bypassDNA: true,
+  //       // },
+  //     },
+  //     { name: "Head" },
+  //     { name: "Clothes" },
+  //     { name: "Eyes" },
+  //     { name: "Hair" },
+  //     { name: "Head Accessory" },
+  //     { name: "Shirt Accessories" },
+  //   ],
+  // },
   // {
   //   growEditionSizeTo: 10,
   //   namePrefix: "Lion",

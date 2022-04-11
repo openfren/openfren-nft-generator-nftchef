@@ -25,6 +25,8 @@
     "update:metadata": "node utils/updateInfo.js",
     "update_info:tezos": "node tezos/updateInfo.js",
     "resize": "node utils/resize.js",
+    "clean" : "rm -rvf build",
+    "clean:solana" : "rm -rvf build/solana",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel Eugene Botha (HashLips), NFTChef",
