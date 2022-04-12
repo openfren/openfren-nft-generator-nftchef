@@ -25,13 +25,13 @@ const outputJPEG = false; // if false, the generator outputs png's
 const startIndex = 0;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 1748,
+  height: 2480,
   smoothing: true, // set to false when up-scaling pixel art.
 };
 
 const background = {
-  generate: true,
+  generate: false,
   brightness: "80%",
 };
 
@@ -42,10 +42,22 @@ const layerConfigurations = [
       { name: "Base Body" },
       { name: "Base Secondary Female" },
       { name: "Face Female" },
-      { name: "Cloth" },
-      { name: "EyeMsc" },
-      { name: "FaceMsc" },
-      { name: "Hat" },  
+      // { name: "Cloth" },
+      // { name: "EyeMsc" },
+      // { name: "FaceMsc" },
+      // { name: "Hat" },  
+    ],
+  },
+  {
+    growEditionSizeTo: 5,
+    layersOrder: [
+      { name: "Base Body" },
+      { name: "Base Secondary Male" },
+      { name: "Face Male" },
+      // { name: "Cloth" },
+      // { name: "EyeMsc" },
+      // { name: "FaceMsc" },
+      // { name: "Hat" },  
     ],
   },
   // {

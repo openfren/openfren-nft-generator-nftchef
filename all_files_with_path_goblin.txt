@@ -1,0 +1,821 @@
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary A3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary A2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/line art.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary A7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary B2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary B5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary B3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary B7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/line art.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary A4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary A3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary A5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary A2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary C5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary C3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary C7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary C6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary A6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary B6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary C2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary C4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/profile/secondary B4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/face/base male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/face/base female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary A5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary A4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary A6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary B2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary A7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary B4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary B3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary B5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary B7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary B6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary C2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary C3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary C4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary C5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary C7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//base body/secondary C6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suspiciouse/suspiciouse_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suspiciouse/suspiciouse_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suspiciouse/profile/suspiciouse_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suspiciouse/profile/suspiciouse_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_primary_3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_primary_2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_primary_1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_primary_4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_primary_7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_primary_5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_primary_6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_secondary_1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_secondary_2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_secondary_3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_secondary_4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_secondary_6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_secondary_5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/smug_overlay_secondary_7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_secondary_2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_primary_7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_secondary_4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_secondary_1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_secondary_5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_secondary_6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_secondary_7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_primary_5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_primary_6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_primary_4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_secondary_3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_primary_3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_primary_1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/smug/profile/smug_overlay_primary_2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_color_black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_color_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_color_green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_color_peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_color_pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_color_red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_color_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/optimist_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_color_peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_color_red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_color_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_color_pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_color_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_color_green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/optimist/profile/optimist_color_black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_overlay_black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_overlay_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_overlay_green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_overlay_peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_overlay_pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_overlay_red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/suprise_overlay_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_overlay_red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_overlay_green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_overlay_black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_overlay_peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_overlay_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_overlay_pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_overlay_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/suprise/profile/suprise_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_overlay_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_overlay_peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_overlay_green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_overlay_black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_overlay_red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_overlay_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/angry_overlay_pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_overlay_green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_overlay_peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_overlay_black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_overlay_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_overlay_pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_overlay_red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/angry/profile/angry_overlay_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/base/base_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/base/base_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/base/profile/base_male.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face expression/base/profile/base_female.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 primary blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/type 3 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 3/profile/type 3 primary blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 2/profile/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 primary blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/type 1 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 primary blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//female hair/type 1/profile/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 primary dark gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 primary soft brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 secondary dark blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 secondary dark brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 secondary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 secondary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 primary dark gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 primary soft brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 secondary dark brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 2/profile/type 2 secondary dark blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 secondary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 secondary white 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/type 1 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 secondary white 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 secondary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//hat/type 1/profile/type 1 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 2 black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 2 blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 1 grey.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 2 white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 2 brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 2 black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 2 blonde.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 grey.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 2 maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 2 orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/profile/type 1 orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 2 brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 2 maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 2 orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//male hair/type 2 white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 primary sea blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/type 3 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 primary sea blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 3/profile/type 3 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 primary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 underlay.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 primary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/profile/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 2/type 2 underlay.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/profile/type 4 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 4/type 4 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 secondary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 shade.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/profile/type 1 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 shade.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//eyewear/type 1/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 pattern blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 pattern gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 pattern pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 pattern white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 pattern yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 shadow 50 pls add multiply.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 third red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/type 7 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/Copy of type 7 shadow 50 pls add multiply.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 shadow 50 pls add multiply.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 third red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 pattern gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 pattern yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 pattern blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 pattern white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 7/profile/type 7 pattern pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 chain white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 chain yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 primary light black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 primary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 secondary dark clue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 secondary dark black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 secondary gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 third yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/type 6 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 third yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 secondary gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 secondary dark black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 primary light black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 primary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 primary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 secondary dark clue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 chain yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 6/profile/type 6 chain white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 secondary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 third brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 third cream.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 third pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 third green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/type 4 third dark brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 third pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 third cream.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 secondary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 third dark brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 third brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 4/profile/type 4 third green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary A green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary A blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary A black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary A orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary A pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary A red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary B black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary B white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 primary A yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary A blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary A black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary A peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary B blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary B pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary B black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary A yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary A red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary A white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary B light green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary B red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/type 3 secondary B yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary B light green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary B yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary B red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary B blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary B pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary B black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary B white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary A red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary A red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary A yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary B black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary A black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary A peach.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary A yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary A white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 secondary A blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary A orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary A pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary A blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary A black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 3/profile/type 3 primary A green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 secondary gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 secondary cky blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 secondary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 third brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/type 5 third orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 secondary gray.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 primary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 secondary cky blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 secondary maroon.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 third orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 5/profile/type 5 third brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 secondary line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/type 2 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 secondary pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 secondary line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 2/profile/type 2 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 third green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 third blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 third red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/type 1 third yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 third blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 third white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 third yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 third red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 third green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 secondary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 third black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 primary orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 primary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 secondary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 primary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 primary blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//clothes/type 1/profile/type 1 primary green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 coconut 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 coconut 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 straw 8.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/type 7 umbrella 8.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 8.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 8.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 straw 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 coconut 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 coconut 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 7/profile/type 7 umbrella 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/type 6 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/type 6 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/type 6 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/type 6 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/type 6 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/type 6 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/profile/type 6 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/profile/type 6 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/profile/type 6 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/profile/type 6 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/profile/type 6 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 6/profile/type 6 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/type 1 color black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/profile/type 1 color blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/profile/type 1 color yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/profile/type 1 color green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/profile/type 1 color black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/profile/type 1 color red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/profile/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/profile/type 1 color white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/type 1 color blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/type 1 color green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/type 1 color red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/type 1 color white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/type 1 color yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 1/type 1 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/type 3 color black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/type 3 color green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/type 3 color orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/type 3 color pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/type 3 color yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/type 3 color red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/profile/type 3 color green.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/profile/type 3 color black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/profile/type 3 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/profile/type 3 color red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/profile/type 3 color yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/profile/type 3 color pink.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 3/profile/type 3 color orange.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 primary jade.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 primary silver.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 secondary light blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 secondary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 primary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/profile/type 2 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 primary jade.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 primary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 secondary purple.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 secondary light blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 primary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 primary silver.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 secondary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 secondary red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 secondary white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 secondary yellow.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 primary black.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 2/type 2 primary brown.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 smoke 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 stick 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 stick 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 smoke 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 smoke 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 smoke 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 smoke 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 smoke 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 smoke 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 stick 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 stick 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/profile/type 4 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 smoke 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 smoke 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 smoke 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 smoke 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 4/type 4 smoke 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 primary 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 primary 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 primary 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 primary 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 primary 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 primary 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 primary 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 secondary 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 secondary 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 secondary 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 secondary 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 secondary 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 secondary 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/type 5 secondary 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 secondary 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 secondary 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 primary 7.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 secondary 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 primary 6.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 primary 3.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 primary 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 secondary 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 secondary 4.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 secondary 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 secondary 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 primary 2.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 primary 5.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//face accessories/type 5/profile/type 5 primary 1.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_earring_(blue) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_octopus_(blue) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_hat_(blue) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_beard_(blue) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_earring_(red) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_octopus_(red) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_hat_(red) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_beard_(red) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_earring_(white) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_hat_(white) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_beard_(white) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_octopus_(white) (1).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_octopus_(blue).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_octopus_(white).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_octopus_(red).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_beard_(blue).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_beard_(red).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_beard_(white).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_earring_(blue).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_earring_(red).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_earring_(white).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_hat_(blue).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_hat_(red).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_hat_(white).png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/head/pirate_mythical_head_line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/cloth/pirate_mythical_line.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/cloth/pirate_mythical_primary_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/cloth/pirate_mythical_primary_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/cloth/pirate_mythical_primary_red.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/cloth/pirate_mythical_secondary_blue.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/cloth/pirate_mythical_secondary_white.png
+/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final//mythical/cloth/pirate_mythical_secondary_red.png
