@@ -41,7 +41,7 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Base Body" },
       { name: "Base Secondary Female" },
-      { name: "Face Female" },
+      { name: "Face Female" , trait: "Personality" },
       // { name: "Cloth" },
       // { name: "EyeMsc" },
       // { name: "FaceMsc" },
@@ -49,12 +49,15 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 15,
     layersOrder: [
       { name: "Base Body" },
       { name: "Base Secondary Male" },
-      { name: "Face Male" },
-      // { name: "Cloth" },
+      { name: "Face Male" , trait: "Personality"},
+      { name: "Cloth/Cloth_01" },
+      { name: "Cloth/Cloth_01/LA" },
+      { name: "Cloth/Cloth_02" },
+      { name: "Cloth/Cloth_02/LA" },
       // { name: "EyeMsc" },
       // { name: "FaceMsc" },
       // { name: "Hat" },  
