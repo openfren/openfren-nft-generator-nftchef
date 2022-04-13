@@ -49,17 +49,58 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 15,
+    growEditionSizeTo: 45,
     layersOrder: [
       { name: "Base Body" },
       { name: "Base Secondary Male" },
       { name: "Face Male" , trait: "Personality"},
-      { name: "Cloth" },
+      { name: "Cloth/Cloth_03#15",
+    sublayerOptions: {
+      Cloth_03_Shadow_Multi : {
+        blend : MODE.overlay, multiply: 0.7
+      }
+    }, },
       // { name: "EyeMsc" },
       // { name: "FaceMsc" },
       // { name: "Hat" },  
     ],
   },
+  // {
+  //   growEditionSizeTo: 25,
+  //   layersOrder: [
+  //     { name: "Base Body" },
+  //     { name: "Base Secondary Male" },
+  //     { name: "Face Male" , trait: "Personality"},
+  //     { name: "Cloth/Cloth_02#15" },
+  //     // { name: "EyeMsc" },
+  //     // { name: "FaceMsc" },
+  //     // { name: "Hat" },  
+  //   ],
+  // },
+  // {
+  //   growEditionSizeTo: 35,
+  //   layersOrder: [
+  //     { name: "Base Body" },
+  //     { name: "Base Secondary Male" },
+  //     { name: "Face Male" , trait: "Personality"},
+  //     { name: "Cloth/Cloth_03#15" },
+  //     // { name: "EyeMsc" },
+  //     // { name: "FaceMsc" },
+  //     // { name: "Hat" },  
+  //   ],
+  // },
+  // {
+  //   growEditionSizeTo: 45,
+  //   layersOrder: [
+  //     { name: "Base Body" },
+  //     { name: "Base Secondary Male" },
+  //     { name: "Face Male" , trait: "Personality"},
+  //     { name: "Cloth/Cloth_04#15" },
+  //     // { name: "EyeMsc" },
+  //     // { name: "FaceMsc" },
+  //     // { name: "Hat" },  
+  //   ],
+  // },
   // {
   //   growEditionSizeTo: 10,
   //   namePrefix: "Series 2", // Use to add a name to Metadata `name:`
