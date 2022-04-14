@@ -61,6 +61,9 @@ const layerConfigurations = [
       { name: "Cloth/Cloth_03/Texture", blend: MODE.multiply},
       { name: "Cloth/Cloth_03/LA"},
       { name: "EyeMsc"},
+      { name: "Face/Face_06#15",
+      sublayerOptions: { "3-Multiply": { blend: "multiply" } },
+    }
       // { name: "EyeMsc" },
       // { name: "FaceMsc" },
       // { name: "Hat" },  
