@@ -12,7 +12,20 @@ Project Location: https://github.com/openfren/openfren-nft-generator-nftchef
   * Correct environment, solana addresses
 
 ### Nesting Folders
-The priority for nested folders appears to follow [0-9][a-z] with definite layers taking a priority.
+The priority for nested folders appears to follow [0-9][a-z] with definite layers taking a priority. E.g If you set your lineart.png to be last but it doesn't have a rarity
+it will be put on top of the layers with rarity.
+
+Working Structure
+
+Eyeware
+  1_Base
+    Base01#50.png
+  2_Secondary
+    Secondary01#50.png
+  3_Texture
+    Texture#100.png
+  4_LA
+    LineArt#100.png
 
 ## Creator Accounts
 

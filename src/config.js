@@ -60,7 +60,7 @@ const layerConfigurations = [
       { name: "Cloth/Cloth_03/Shade", blend: MODE.overlay },
       { name: "Cloth/Cloth_03/Texture", blend: MODE.multiply},
       { name: "Cloth/Cloth_03/LA"},
-      { name: "EyeMsc/Eyewear_01"},
+      { name: "EyeMsc"},
       // { name: "EyeMsc" },
       // { name: "FaceMsc" },
       // { name: "Hat" },  
