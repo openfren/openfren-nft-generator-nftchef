@@ -11,6 +11,9 @@ Project Location: https://github.com/openfren/openfren-nft-generator-nftchef
 * Update config.js with 
   * Correct environment, solana addresses
 
+### Nesting Folders
+The priority for nested folders appears to follow [0-9][a-z] with definite layers taking a priority.
+
 ## Creator Accounts
 
 ### Development
