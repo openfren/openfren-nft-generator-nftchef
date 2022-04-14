@@ -49,17 +49,17 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 45,
+    growEditionSizeTo: 25,
     layersOrder: [
       { name: "Base Body" },
       { name: "Base Secondary Male" },
+      { name: "Base Body LA" },
       { name: "Face Male" , trait: "Personality"},
-      { name: "Cloth/Cloth_03#15",
-    sublayerOptions: {
-      Cloth_03_Shadow_Multi : {
-        blend : MODE.overlay, multiply: 0.7
-      }
-    }, },
+      { name: "Cloth/Cloth_03#15/Base"},
+      { name: "Cloth/Cloth_03#15/Secondary"},
+      { name: "Cloth/Cloth_03#15/Shade", blend: MODE.overlay },
+      { name: "Cloth/Cloth_03#15/Texture", blend: MODE.multiply},
+      { name: "Cloth/Cloth_03#15/LA"},
       // { name: "EyeMsc" },
       // { name: "FaceMsc" },
       // { name: "Hat" },  
