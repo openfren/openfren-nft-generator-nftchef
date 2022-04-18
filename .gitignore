@@ -144,3 +144,7 @@ dist
 # OSX
 
 .DS_Store
+
+# Testing folder
+
+.test
