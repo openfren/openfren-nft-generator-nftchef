@@ -37,33 +37,19 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
-    layersOrder: [
-      { name: "Base Body" },
-      { name: "Gender" },
-      { name: "Base Body LA" },
-      // { name: "Cloth" },
-      // { name: "EyeMsc" },
-      // { name: "FaceMsc" },
-      // { name: "Hat" },  
-    ],
-  },
-  {
     growEditionSizeTo: 45,
     layersOrder: [
       { name: "Base Body" },
       { name: "Gender" },
       { name: "Base Body LA" },
-      { name: "Cloth/Cloth_03/Base"},
-      { name: "Cloth/Cloth_03/Secondary"},
-      { name: "Cloth/Cloth_03/Shade", blend: MODE.overlay },
-      { name: "Cloth/Cloth_03/Texture", blend: MODE.multiply},
-      { name: "Cloth/Cloth_03/LA"},
+      { name: "Cloth",
+      sublayerOptions: { "4_Multiply": { blend: "multiply" } },
+    },
       { name: "Hat",
       sublayerOptions: { "3_Multiply": { blend: "multiply" } },
     },
       { name: "Face",
-      sublayerOptions: { "3-Multiply": { blend: "multiply" } },
+      sublayerOptions: { "3_Multiply": { blend: "multiply" } },
     },
     { name: "EyeMsc"},
 

@@ -612,6 +612,8 @@ const sortLayers = (layers) => {
     // contat everything back to an ordered array
   }, stack);
 
+  stack.normal.sort();
+
   return sortByZ(stack.front).concat(stack.normal).concat(sortByZ(stack.end));
 };
 
