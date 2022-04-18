@@ -145,6 +145,6 @@ dist
 
 .DS_Store
 
-# Testing folder
+# Output of utility folder
 
-.test
+.utils_output
