@@ -7,24 +7,23 @@ import os, sys, getopt , shutil, fnmatch, csv, argparse
 goblin_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final/card/'
 canine_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Canine/Card Size Final Asset/'
 card_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Card/'
+background_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Background/'
 input_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/'
 output_path = os.getcwd() + '/.utils_output/'
 csv_card_path = './downloaded_files/Card_Map.csv'
+csv_background_path = './downloaded_files/Background_Map.csv'
 
 # There are a number of ways to copy files in python, see: https://stackoverflow.com/questions/123198/how-to-copy-files
 # Resource 2, https://www.geeksforgeeks.org/python-shutil-copy-method/
+# This alternative needs linux back slahes / escape characters to work dest = os.system(f'cp {source} {destination}')
 def copy_files(source, destination, destination_file_name):
     print(f'Copying from {source} to {destination}')
 
     if not os.path.exists(destination):
         os.makedirs(destination)
     
-    # This needs linux back slahes / escape characters to work 
-    # dest = os.system(f'cp {source} {destination}')
-
     # The below alternative is better as it is portable and a native library in python. Have to remove backslahes
     dest = shutil.copy(source, destination + destination_file_name, follow_symlinks=True)
-
     print(f'Files copied to {dest}')
 
     return
@@ -32,16 +31,11 @@ def copy_files(source, destination, destination_file_name):
 # Getting all files and subdirectories in a directory: https://stackoverflow.com/questions/2909975/python-list-directory-subdirectory-and-files
 # os.listdir only give files and folders on the current directory
 def list_directory(input_path):
-    # list_directory = os.listdir(input_path)
-    # for file_name in list_directory:
-    #     print(f'{file_name} in {input_path}')
     file_pattern = "*.png"
 
     for path, subdirs, files in os.walk(input_path):
         for name in files:
             if fnmatch.fnmatch(name, file_pattern):
-                # print(f'Name is {name}')
-                # print(f'Path is {path}')
                 print(os.path.join(path, name))
 
 def read_csv_input_files(input_path):
@@ -73,15 +67,9 @@ def create_csv_input_files(input_path, type=""):
     for path, subdirs, files in os.walk(input_path):
         for name in files:
             if fnmatch.fnmatch(name, file_pattern):
-                # print(f'Name is {name}')
-                # print(f'Path is {path}')
                 print(os.path.join(path, name))
                 data = [path, name]
                 writer.writerow(data)
-
-# 1. List files in Directory
-# 2. Iterate over files in Directory
-# 3. Move files in directory
 
 def main(argv):
     try:
@@ -104,9 +92,14 @@ def main(argv):
                 create_csv_input_files(card_path, 'card')
             elif arg == 'goblin':
                 create_csv_input_files(goblin_path, 'goblin')
+            elif arg == 'background':
+                create_csv_input_files(background_path, 'background')
         if opt in ['-c']:
             print('Creating layers for ', arg)
-            read_csv_input_files(csv_card_path)
+            if arg == 'background':
+                read_csv_input_files(csv_background_path)
+            if arg == 'card':
+                read_csv_input_files(csv_card_path)
         if opt in ['-t']:
             print('Testing')
 

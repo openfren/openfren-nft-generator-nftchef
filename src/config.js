@@ -37,8 +37,9 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 45,
+    growEditionSizeTo: 100,
     layersOrder: [
+      { name: "Background" },
       { name: "Base Body" },
       { name: "Gender" },
       { name: "Base Body LA" },
@@ -52,6 +53,8 @@ const layerConfigurations = [
       sublayerOptions: { "3_Multiply": { blend: "multiply" } },
     },
     { name: "EyeMsc"},
+    { name: "Card"},
+
 
       // { name: "EyeMsc" },
       // { name: "FaceMsc" },
