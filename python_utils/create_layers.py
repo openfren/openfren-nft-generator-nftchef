@@ -12,6 +12,7 @@ input_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/L
 output_path = os.getcwd() + '/.utils_output/'
 csv_card_path = './downloaded_files/Card_Map.csv'
 csv_background_path = './downloaded_files/Background_Map.csv'
+csv_goblin_path = './downloaded_files/Goblin_Map.csv'
 
 # There are a number of ways to copy files in python, see: https://stackoverflow.com/questions/123198/how-to-copy-files
 # Resource 2, https://www.geeksforgeeks.org/python-shutil-copy-method/
@@ -100,6 +101,8 @@ def main(argv):
                 read_csv_input_files(csv_background_path)
             if arg == 'card':
                 read_csv_input_files(csv_card_path)
+            if arg == 'goblin':
+                read_csv_input_files(csv_goblin_path)
         if opt in ['-t']:
             print('Testing')
 
