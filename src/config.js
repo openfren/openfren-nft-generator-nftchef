@@ -55,21 +55,23 @@ const layerConfigurations = [
     },
     { name: "Canine/EyeWear"},
     { name: "Card"},
+    { name: "Card_Occupation_Lawyer" },
     ],
   },
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 2,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
+    resetNameIndex: true,
     layersOrder: [
       { name: "Background" },
       { name: "Goblin/Base Body"},
       { name: "Goblin/Base Secondary"},
-      { name: "Goblin/Base La"},
-      { name: "Goblin/Personality",
-      sublayerOptions: { "2_Overlay": { blend: "overlay" } },
-    },
+      { name: "Goblin/Personality"},
+      { name: "Goblin/Base LA"},
       { name: "Goblin/Face" },
       { name: "Card" },
+      { name: "Card_Occupation_Investor" },
+
       // { name: "Clothes" },
       // { name: "Eyes" },
       // { name: "Hair" },
@@ -127,7 +129,19 @@ const incompatible = {
  * further in the stack
  */
 const forcedCombinations = {
-  // floral: ["MetallicShades", "Golden Sakura"],
+  // floral: ["MetallicShades", "Golden Sakura"],     
+  "Face_Great_M" : ["Optimistic"], 
+  "Face_Mad_M" : ["Annoyed"],   
+  "Face_Sad_M" : ["Dissapointed"],   
+  "Face_Shock_M" : ["Surprised"], 
+  "Face_Smirk_M" : ["Smug"], 
+  "Face_Sus_M" : ["Suspicious"],
+  "Face_Great_F" : ["Optimistic"], 
+  "Face_Mad_F" : ["Annoyed"],   
+  "Face_Sad_F" : ["Dissapointed"],   
+  "Face_Shock_F" : ["Surprised"], 
+  "Face_Smirk_F" : ["Smug"], 
+  "Face_Sus_F" : ["Suspicious"],
 };
 
 /**

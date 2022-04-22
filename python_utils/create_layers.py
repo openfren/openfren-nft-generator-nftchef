@@ -7,11 +7,12 @@ import os, sys, getopt , shutil, fnmatch, csv, argparse
 goblin_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Goblin/latest final/card/'
 canine_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Canine/Card Size Final Asset/'
 card_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Card/'
-background_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Background/'
+background_path_sharp = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/Background/'
+background_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/card/Card BG/'
 input_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/'
 output_path = os.getcwd() + '/.utils_output/'
 csv_card_path = './downloaded_files/Card_Map.csv'
-csv_background_path = './downloaded_files/Background_Map.csv'
+csv_background_path = './downloaded_files/Background_Update.csv'
 csv_goblin_path = './downloaded_files/Goblin_Map.csv'
 
 # There are a number of ways to copy files in python, see: https://stackoverflow.com/questions/123198/how-to-copy-files
@@ -24,7 +25,7 @@ def copy_files(source, destination, destination_file_name):
         os.makedirs(destination)
     
     # The below alternative is better as it is portable and a native library in python. Have to remove backslahes
-    dest = shutil.copy(source, destination + destination_file_name, follow_symlinks=True)
+    dest = shutil.copy(source, destination + '/' + destination_file_name, follow_symlinks=True)
     print(f'Files copied to {dest}')
 
     return
@@ -44,11 +45,16 @@ def read_csv_input_files(input_path):
     reader = csv.reader(f)
     header = []
     header = next(reader)
+    source_path_index = header.index('Source')
+    source_file_name_index = header.index('File Name')
+    destination_folder_index = header.index('Destination')
+    destination_file_index = header.index('Destination Final Name')
+    
     for row in reader:
-        source_file = row[0] + '/' + row[1]
-        destination_folder = output_path + 'layers/' + row[7]
-        destination_file = row[8]
-        print('Copying ', row[1] , 'to' , destination_file)
+        source_file = row[source_path_index] + row[source_file_name_index]
+        destination_folder = output_path + 'layers/' + row[destination_folder_index] 
+        destination_file = row[destination_file_index]
+        print('Copying ', row[source_file_name_index] , 'to' , destination_file)
         copy_files(source_file, destination_folder,destination_file)
 
 def read_spreadsheet(input_path):
@@ -116,3 +122,5 @@ if __name__ == "__main__":
 # copy_files(s,d,f)
 
 # read_csv_input_files(csv_card_path)
+# read_csv_input_files(csv_background_path)
+# read_csv_input_files(csv_background_path)

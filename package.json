@@ -25,8 +25,9 @@
     "update:metadata": "node utils/updateInfo.js",
     "update_info:tezos": "node tezos/updateInfo.js",
     "resize": "node utils/resize.js",
-    "clean" : "rm -rvf build",
-    "clean:solana" : "rm -rvf build/solana",
+    "clean": "rm -rvf build",
+    "clean:solana": "rm -rvf build/solana",
+    "rarity": "node utils/rarity.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel Eugene Botha (HashLips), NFTChef",
@@ -36,8 +37,11 @@
     "chalk": "^4.1.2",
     "commander": "^8.2.0",
     "eslint-plugin-node": "^11.1.0",
+    "gif-encoder-2": "^1.0.5",
     "keccak256": "^1.0.3",
-    "sharp": "^0.30.2",
-    "gif-encoder-2": "^1.0.5"
+    "sharp": "^0.30.2"
+  },
+  "devDependencies": {
+    "csv-writer": "^1.6.0"
   }
 }

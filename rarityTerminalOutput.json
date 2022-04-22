@@ -1,0 +1,129 @@
+/Users/mo/code/openfren/openfren-nft-generator-nftchef/src/config.js
+/Users/mo/code/openfren/openfren-nft-generator-nftchef/src/config.js
+how many attributes: 16
+how many attributes: 13
+attributeCounts 13
+attributeCounts 16
+{ count: 2 }
+{
+  '1_Background': { 'Text Background': { count: 2, percentage: '100.0000' } },
+  '1_Base': {
+    Cloth_02_Base_B: { count: 1, percentage: '50.0000' },
+    'smug_overlay_primary_6.png': { count: 1, percentage: '50.0000' }
+  },
+  '1_Body': { Secondary_02: { count: 1, percentage: '50.0000' } },
+  '2_Personality': { Face_Mad_F: { count: 1, percentage: '50.0000' } },
+  '2_Secondary': {
+    Cloth_02_Second_A: { count: 1, percentage: '50.0000' },
+    'smug_overlay_secondary_6.png': { count: 1, percentage: '50.0000' }
+  },
+  '3_Gender': { 'smug_male.png': { count: 1, percentage: '50.0000' } },
+  '3_LA': {
+    EyeMsc_02LA: { count: 1, percentage: '50.0000' },
+    'type 2 line.png': { count: 1, percentage: '50.0000' }
+  },
+  '3_Rarity': {
+    Legendary: { count: 1, percentage: '50.0000' },
+    UnCommon: { count: 1, percentage: '50.0000' }
+  },
+  '3_Tertiary': { Cloth_02_Third: { count: 1, percentage: '50.0000' } },
+  '4_LA': { Cloth_02_LA: { count: 1, percentage: '50.0000' } },
+  Background: {
+    Rare13: { count: 1, percentage: '50.0000' },
+    Rare28: { count: 1, percentage: '50.0000' }
+  },
+  'Base Body': {
+    '01_Base_05': { count: 1, percentage: '50.0000' },
+    'primary white.png': { count: 1, percentage: '50.0000' }
+  },
+  'Base LA': { 'line art.png': { count: 1, percentage: '50.0000' } },
+  'Base Secondary': { 'secondary B3.png': { count: 1, percentage: '50.0000' } },
+  Canine: { 'Base Body LA': { count: 1, percentage: '50.0000' } },
+  Card_Occupation_Investor: { Investor: { count: 1, percentage: '50.0000' } },
+  Card_Occupation_Lawyer: { Lawyer: { count: 1, percentage: '50.0000' } },
+  Hat: { Wig_01_E: { count: 1, percentage: '50.0000' } },
+  Personality: { Annoyed: { count: 2, percentage: '100.0000' } },
+  Seniority: { Analyst: { count: 2, percentage: '100.0000' } },
+  'Attribute Count': {
+    '13 Attributes': { count: 1, percentage: 50 },
+    '16 Attributes': { count: 1, percentage: 50 }
+  }
+}
+{ '13': 1, '16': 1 }
+┌─────────┬───────────────┬───────────┐
+│ (index) │     name      │ raritySum │
+├─────────┼───────────────┼───────────┤
+│    0    │ 'Investor #0' │    800    │
+│    1    │  'Lawyer #0'  │    950    │
+└─────────┴───────────────┴───────────┘
+{ trait: '1_Background' }
+[ { name: 'Text Background', count: 2, percentage: '100.0000' } ]
+{ trait: '1_Base' }
+[
+  { name: 'Cloth_02_Base_B', count: 1, percentage: '50.0000' },
+  {
+    name: 'smug_overlay_primary_6.png',
+    count: 1,
+    percentage: '50.0000'
+  }
+]
+{ trait: '1_Body' }
+[ { name: 'Secondary_02', count: 1, percentage: '50.0000' } ]
+{ trait: '2_Personality' }
+[ { name: 'Face_Mad_F', count: 1, percentage: '50.0000' } ]
+{ trait: '2_Secondary' }
+[
+  { name: 'Cloth_02_Second_A', count: 1, percentage: '50.0000' },
+  {
+    name: 'smug_overlay_secondary_6.png',
+    count: 1,
+    percentage: '50.0000'
+  }
+]
+{ trait: '3_Gender' }
+[ { name: 'smug_male.png', count: 1, percentage: '50.0000' } ]
+{ trait: '3_LA' }
+[
+  { name: 'EyeMsc_02LA', count: 1, percentage: '50.0000' },
+  { name: 'type 2 line.png', count: 1, percentage: '50.0000' }
+]
+{ trait: '3_Rarity' }
+[
+  { name: 'Legendary', count: 1, percentage: '50.0000' },
+  { name: 'UnCommon', count: 1, percentage: '50.0000' }
+]
+{ trait: '3_Tertiary' }
+[ { name: 'Cloth_02_Third', count: 1, percentage: '50.0000' } ]
+{ trait: '4_LA' }
+[ { name: 'Cloth_02_LA', count: 1, percentage: '50.0000' } ]
+{ trait: 'Background' }
+[
+  { name: 'Rare13', count: 1, percentage: '50.0000' },
+  { name: 'Rare28', count: 1, percentage: '50.0000' }
+]
+{ trait: 'Base Body' }
+[
+  { name: '01_Base_05', count: 1, percentage: '50.0000' },
+  { name: 'primary white.png', count: 1, percentage: '50.0000' }
+]
+{ trait: 'Base LA' }
+[ { name: 'line art.png', count: 1, percentage: '50.0000' } ]
+{ trait: 'Base Secondary' }
+[ { name: 'secondary B3.png', count: 1, percentage: '50.0000' } ]
+{ trait: 'Canine' }
+[ { name: 'Base Body LA', count: 1, percentage: '50.0000' } ]
+{ trait: 'Card_Occupation_Investor' }
+[ { name: 'Investor', count: 1, percentage: '50.0000' } ]
+{ trait: 'Card_Occupation_Lawyer' }
+[ { name: 'Lawyer', count: 1, percentage: '50.0000' } ]
+{ trait: 'Hat' }
+[ { name: 'Wig_01_E', count: 1, percentage: '50.0000' } ]
+{ trait: 'Personality' }
+[ { name: 'Annoyed', count: 2, percentage: '100.0000' } ]
+{ trait: 'Seniority' }
+[ { name: 'Analyst', count: 2, percentage: '100.0000' } ]
+{ trait: 'Attribute Count' }
+[
+  { name: '13 Attributes', count: 1, percentage: 50 },
+  { name: '16 Attributes', count: 1, percentage: 50 }
+]
