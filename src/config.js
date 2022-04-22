@@ -13,7 +13,7 @@ const layersDir = path.join(basePath, "/layers");
  ***********************/
 
 const description =
-  "This is the description of your NFT project, remember to replace this";
+  "The founding frens collections contains 1700 hand crafted NFTs of Investors & Lawyers in the OpenFren ecosystem";
 const baseUri = "ipfs://NewUriToReplace";
 
 const outputJPEG = false; // if false, the generator outputs png's
@@ -37,37 +37,50 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1,
+    growEditionSizeTo: 10,
     namePrefix: "Lawyer",
     layersOrder: [
       { name: "Background" },
-      { name: "Canine/Base Body" },
-      { name: "Canine/Gender" },
-      { name: "Canine/Base Body LA" },
-      { name: "Canine/Cloth",
-      sublayerOptions: { "4_Multiply": { blend: "multiply" } },
-    },
-      { name: "Canine/Hat",
-      sublayerOptions: { "3_Multiply": { blend: "multiply" } },
-    },
-      { name: "Canine/Face",
-      sublayerOptions: { "3_Multiply": { blend: "multiply" } },
-    },
-    { name: "Canine/EyeWear"},
-    { name: "Card"},
-    { name: "Card_Occupation_Lawyer" },
+      { name: "Canine/Base Body", trait: "Primary Coat" },
+      {
+        name: "Canine/Gender",
+        sublayerOptions: {
+          "1_Body": { trait: "Secondary Coat" },
+          "2_Personality": { trait: "Expression" },
+        },
+      },
+      {
+        name: "Canine/Cloth", trait: "Cloth",
+        sublayerOptions: { 
+          "4_Multiply": { blend: "multiply" } },
+      },
+      {
+        name: "Canine/Hat", trait: "Headwear",
+        sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+      },
+      {
+        name: "Canine/Face", trait: "Accessory",
+        sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+      },
+      { name: "Canine/EyeWear", trait: "Eyewear" },
+      { name: "Card" , 
+        sublayerOptions: {
+
+          "1_Background" : {bypassDNA : true }
+      }},
+      { name: "Card_Occupation_Lawyer", trait: "Occupation" },
     ],
   },
   {
-    growEditionSizeTo: 2,
+    growEditionSizeTo: 15,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     resetNameIndex: true,
     layersOrder: [
       { name: "Background" },
-      { name: "Goblin/Base Body"},
-      { name: "Goblin/Base Secondary"},
-      { name: "Goblin/Personality"},
-      { name: "Goblin/Base LA"},
+      { name: "Goblin/Base Body" },
+      { name: "Goblin/Base Secondary" },
+      { name: "Goblin/Personality" },
+      { name: "Goblin/Base LA" },
       { name: "Goblin/Face" },
       { name: "Card" },
       { name: "Card_Occupation_Investor" },
@@ -129,19 +142,19 @@ const incompatible = {
  * further in the stack
  */
 const forcedCombinations = {
-  // floral: ["MetallicShades", "Golden Sakura"],     
-  "Face_Great_M" : ["Optimistic"], 
-  "Face_Mad_M" : ["Annoyed"],   
-  "Face_Sad_M" : ["Dissapointed"],   
-  "Face_Shock_M" : ["Surprised"], 
-  "Face_Smirk_M" : ["Smug"], 
-  "Face_Sus_M" : ["Suspicious"],
-  "Face_Great_F" : ["Optimistic"], 
-  "Face_Mad_F" : ["Annoyed"],   
-  "Face_Sad_F" : ["Dissapointed"],   
-  "Face_Shock_F" : ["Surprised"], 
-  "Face_Smirk_F" : ["Smug"], 
-  "Face_Sus_F" : ["Suspicious"],
+  // floral: ["MetallicShades", "Golden Sakura"],
+  Face_Great_M: ["Optimistic"],
+  Face_Mad_M: ["Annoyed"],
+  Face_Sad_M: ["Dissapointed"],
+  Face_Shock_M: ["Surprised"],
+  Face_Smirk_M: ["Smug"],
+  Face_Sus_M: ["Suspicious"],
+  Face_Great_F: ["Optimistic"],
+  Face_Mad_F: ["Annoyed"],
+  Face_Sad_F: ["Dissapointed"],
+  Face_Shock_F: ["Surprised"],
+  Face_Smirk_F: ["Smug"],
+  Face_Sus_F: ["Suspicious"],
 };
 
 /**

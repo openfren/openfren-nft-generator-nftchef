@@ -40,7 +40,7 @@ def list_directory(input_path):
             if fnmatch.fnmatch(name, file_pattern):
                 print(os.path.join(path, name))
 
-def read_csv_input_files(input_path):
+def create_layers(input_path):
     f = open(input_path, 'r')
     reader = csv.reader(f)
     header = []
@@ -60,7 +60,7 @@ def read_csv_input_files(input_path):
 def read_spreadsheet(input_path):
     return 
 
-def create_csv_input_files(input_path, type=""):
+def generate_list_of_files(input_path, type=""):
     file_pattern = "*.png"
     working_path = output_path + type + ".csv"
     if not os.path.exists(output_path):
@@ -94,21 +94,21 @@ def main(argv):
         if opt in ['-l']:
             print('Running list generation for ', arg)
             if arg == 'canine':
-                create_csv_input_files(canine_path, 'canine')
+                generate_list_of_files(canine_path, 'canine')
             elif arg == 'card':
-                create_csv_input_files(card_path, 'card')
+                generate_list_of_files(card_path, 'card')
             elif arg == 'goblin':
-                create_csv_input_files(goblin_path, 'goblin')
+                generate_list_of_files(goblin_path, 'goblin')
             elif arg == 'background':
-                create_csv_input_files(background_path, 'background')
+                generate_list_of_files(background_path, 'background')
         if opt in ['-c']:
             print('Creating layers for ', arg)
             if arg == 'background':
-                read_csv_input_files(csv_background_path)
+                create_layers(csv_background_path)
             if arg == 'card':
-                read_csv_input_files(csv_card_path)
+                create_layers(csv_card_path)
             if arg == 'goblin':
-                read_csv_input_files(csv_goblin_path)
+                create_layers(csv_goblin_path)
         if opt in ['-t']:
             print('Testing')
 
