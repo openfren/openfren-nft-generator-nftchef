@@ -27,6 +27,7 @@
     "resize": "node utils/resize.js",
     "clean": "rm -rvf build",
     "clean:solana": "rm -rvf build/solana",
+    "clean:utils": "rm -rvf .utils_output/layers",
     "rarity": "node utils/rarity.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

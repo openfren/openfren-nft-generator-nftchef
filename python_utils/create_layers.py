@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+from ast import Try
 import os, sys, getopt , shutil, fnmatch, csv, argparse
 
 
@@ -14,6 +15,7 @@ output_path = os.getcwd() + '/.utils_output/'
 csv_card_path = './downloaded_files/Card_Map.csv'
 csv_background_path = './downloaded_files/Background_Update.csv'
 csv_goblin_path = './downloaded_files/Goblin_Map.csv'
+csv_canine_path = './downloaded_files/Canine_Map.csv'
 
 # There are a number of ways to copy files in python, see: https://stackoverflow.com/questions/123198/how-to-copy-files
 # Resource 2, https://www.geeksforgeeks.org/python-shutil-copy-method/
@@ -21,11 +23,14 @@ csv_goblin_path = './downloaded_files/Goblin_Map.csv'
 def copy_files(source, destination, destination_file_name):
     print(f'Copying from {source} to {destination}')
 
+    if not destination.endswith('/'):
+        destination = destination + '/'
+
     if not os.path.exists(destination):
         os.makedirs(destination)
     
     # The below alternative is better as it is portable and a native library in python. Have to remove backslahes
-    dest = shutil.copy(source, destination + '/' + destination_file_name, follow_symlinks=True)
+    dest = shutil.copy(source, destination + destination_file_name, follow_symlinks=True)
     print(f'Files copied to {dest}')
 
     return
@@ -47,15 +52,46 @@ def create_layers(input_path):
     header = next(reader)
     source_path_index = header.index('Source')
     source_file_name_index = header.index('File Name')
-    destination_folder_index = header.index('Destination')
+    destination_path_index = header.index('Destination')
     destination_file_index = header.index('Destination Final Name')
-    
+
+    construct_and_copy(reader,source_path_index, source_file_name_index, destination_path_index, destination_file_index)
+
+    # Copy to second destination if destination 2 exists
+    if 'Destination_2' in header:
+        destination_path_index = header.index('Destination_2')
+
+def construct_and_copy(reader, source_path_index, source_file_name_index, destination_path_index, destination_file_index):
+    skipped_files = []
     for row in reader:
-        source_file = row[source_path_index] + row[source_file_name_index]
-        destination_folder = output_path + 'layers/' + row[destination_folder_index] 
-        destination_file = row[destination_file_index]
-        print('Copying ', row[source_file_name_index] , 'to' , destination_file)
-        copy_files(source_file, destination_folder,destination_file)
+        try:
+            source_path = row[source_path_index] 
+            if not source_path.endswith('/'):
+                source_path = source_path + '/'
+
+            source_file = source_path + row[source_file_name_index]
+            destination_folder = output_path + 'layers/' + row[destination_path_index] 
+            destination_file = row[destination_file_index]
+            print('Copying ', row[source_file_name_index] , 'to' , destination_file)
+            copy_files(source_file, destination_folder,destination_file)            
+        except:
+            print("skipping file ", source_file)
+            skipped_files.append(source_file)
+
+    write_skipped_files(skipped_files)
+    
+
+def write_skipped_files(skipped_files):
+    working_path = output_path + "skipped_files" + ".csv"
+    f = open(working_path, 'w')
+    writer = csv.writer(f)
+    header = ['File Name']
+    writer.writerow(header)
+    for name in skipped_files:
+        writer.writerow([name])
+
+
+
 
 def read_spreadsheet(input_path):
     return 
@@ -109,6 +145,8 @@ def main(argv):
                 create_layers(csv_card_path)
             if arg == 'goblin':
                 create_layers(csv_goblin_path)
+            if arg == 'canine':
+                create_layers(csv_canine_path)
         if opt in ['-t']:
             print('Testing')
 
@@ -124,3 +162,4 @@ if __name__ == "__main__":
 # read_csv_input_files(csv_card_path)
 # read_csv_input_files(csv_background_path)
 # read_csv_input_files(csv_background_path)
+# create_layers(csv_canine_path)

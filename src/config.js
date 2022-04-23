@@ -63,7 +63,7 @@ const layerConfigurations = [
         sublayerOptions: { "3_Multiply": { blend: "multiply" } },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
-      { name: "Card" , 
+      { name: "Lawyer Card" , trait: "Card", 
         sublayerOptions: {
 
           "1_Background" : {bypassDNA : true }
