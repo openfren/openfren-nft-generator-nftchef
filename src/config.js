@@ -41,7 +41,7 @@ const layerConfigurations = [
     namePrefix: "Lawyer",
     layersOrder: [
       { name: "Background" },
-      { name: "Canine/Base Body", trait: "Primary Coat" },
+      { name: "Canine/Body", trait: "Primary Coat" },
       {
         name: "Canine/Gender",
         sublayerOptions: {
@@ -49,49 +49,81 @@ const layerConfigurations = [
           "2_Personality": { trait: "Expression" },
         },
       },
+      { name: "Canine/Body_LA", bypassDNA: true },
       {
-        name: "Canine/Cloth", trait: "Cloth",
+        name: "Canine/Clothing", trait: "Clothing",
         sublayerOptions: { 
           "4_Multiply": { blend: "multiply" } },
       },
       {
-        name: "Canine/Hat", trait: "Headwear",
+        name: "Canine/Headwear", trait: "Headwear",
         sublayerOptions: { "3_Multiply": { blend: "multiply" } },
       },
       {
-        name: "Canine/Face", trait: "Accessory",
+        name: "Canine/Accessory", trait: "Accessory",
         sublayerOptions: { "3_Multiply": { blend: "multiply" } },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
-      { name: "Lawyer Card" , trait: "Card", 
-        sublayerOptions: {
-
-          "1_Background" : {bypassDNA : true }
-      }},
-      { name: "Card_Occupation_Lawyer", trait: "Occupation" },
+      { name: "Lawyer Card" , trait: "Card"},
+      // { name: "Card_Occupation_Lawyer", trait: "Occupation" },
     ],
   },
-  {
-    growEditionSizeTo: 15,
-    namePrefix: "Investor", // Use to add a name to Metadata `name:`
-    resetNameIndex: true,
-    layersOrder: [
-      { name: "Background" },
-      { name: "Goblin/Base Body" },
-      { name: "Goblin/Base Secondary" },
-      { name: "Goblin/Personality" },
-      { name: "Goblin/Base LA" },
-      { name: "Goblin/Face" },
-      { name: "Card" },
-      { name: "Card_Occupation_Investor" },
+  // {
+  //   growEditionSizeTo: 10,
+  //   namePrefix: "Lawyer",
+  //   layersOrder: [
+  //     { name: "Background" },
+  //     { name: "Canine/Base Body", trait: "Primary Coat" },
+  //     {
+  //       name: "Canine/Gender",
+  //       sublayerOptions: {
+  //         "1_Body": { trait: "Secondary Coat" },
+  //         "2_Personality": { trait: "Expression" },
+  //       },
+  //     },
+  //     {
+  //       name: "Canine/Cloth", trait: "Cloth",
+  //       sublayerOptions: { 
+  //         "4_Multiply": { blend: "multiply" } },
+  //     },
+  //     {
+  //       name: "Canine/Hat", trait: "Headwear",
+  //       sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+  //     },
+  //     {
+  //       name: "Canine/Face", trait: "Accessory",
+  //       sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+  //     },
+  //     { name: "Canine/EyeWear", trait: "Eyewear" },
+  //     { name: "Lawyer Card" , trait: "Card", 
+  //       sublayerOptions: {
 
-      // { name: "Clothes" },
-      // { name: "Eyes" },
-      // { name: "Hair" },
-      // { name: "Head Accessory" },
-      // { name: "Shirt Accessories" },
-    ],
-  },
+  //         "1_Background" : {bypassDNA : true }
+  //     }},
+  //     { name: "Card_Occupation_Lawyer", trait: "Occupation" },
+  //   ],
+  // },
+  // {
+  //   growEditionSizeTo: 15,
+  //   namePrefix: "Investor", // Use to add a name to Metadata `name:`
+  //   resetNameIndex: true,
+  //   layersOrder: [
+  //     { name: "Background" },
+  //     { name: "Goblin/Base Body" },
+  //     { name: "Goblin/Base Secondary" },
+  //     { name: "Goblin/Personality" },
+  //     { name: "Goblin/Base LA" },
+  //     { name: "Goblin/Face" },
+  //     { name: "Card" },
+  //     { name: "Card_Occupation_Investor" },
+
+  //     // { name: "Clothes" },
+  //     // { name: "Eyes" },
+  //     // { name: "Hair" },
+  //     // { name: "Head Accessory" },
+  //     // { name: "Shirt Accessories" },
+  //   ],
+  // },
   // {
   //   growEditionSizeTo: 10,
   //   namePrefix: "Lion",
@@ -143,18 +175,18 @@ const incompatible = {
  */
 const forcedCombinations = {
   // floral: ["MetallicShades", "Golden Sakura"],
-  Face_Great_M: ["Optimistic"],
-  Face_Mad_M: ["Annoyed"],
-  Face_Sad_M: ["Dissapointed"],
-  Face_Shock_M: ["Surprised"],
-  Face_Smirk_M: ["Smug"],
-  Face_Sus_M: ["Suspicious"],
-  Face_Great_F: ["Optimistic"],
-  Face_Mad_F: ["Annoyed"],
-  Face_Sad_F: ["Dissapointed"],
-  Face_Shock_F: ["Surprised"],
-  Face_Smirk_F: ["Smug"],
-  Face_Sus_F: ["Suspicious"],
+  // Face_Great_M: ["Devious"],
+  // Face_Mad_M: ["Aggressive"],
+  // Face_Sad_M: ["Regretful"],
+  // Face_Shock_M: ["Optimistic"],
+  // Face_Smirk_M: ["Smug"],
+  // Face_Sus_M: ["Skeptical"],
+  // Face_Great_F: ["Devious"],
+  // Face_Mad_F: ["Aggressive"],
+  // Face_Sad_F: ["Regretful"],
+  // Face_Shock_F: ["Optimistic"],
+  // Face_Smirk_F: ["Smug"],
+  // Face_Sus_F: ["Skeptical"],
 };
 
 /**
