@@ -37,7 +37,7 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 100,
     namePrefix: "Lawyer",
     layersOrder: [
       { name: "Background" },
@@ -51,20 +51,24 @@ const layerConfigurations = [
       },
       { name: "Canine/Body_LA", bypassDNA: true },
       {
-        name: "Canine/Clothing", trait: "Clothing",
-        sublayerOptions: { 
-          "4_Multiply": { blend: "multiply" } },
+        name: "Canine/Clothing",
+        trait: "Clothing",
+        sublayerOptions: {
+          "4_Multiply": { blend: "multiply" },
+        },
       },
       {
-        name: "Canine/Headwear", trait: "Headwear",
+        name: "Canine/Headwear",
+        trait: "Headwear",
         sublayerOptions: { "3_Multiply": { blend: "multiply" } },
       },
       {
-        name: "Canine/Accessory", trait: "Accessory",
+        name: "Canine/Accessory",
+        trait: "Accessory",
         sublayerOptions: { "3_Multiply": { blend: "multiply" } },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
-      { name: "Lawyer Card" , trait: "Card"},
+      { name: "Lawyer Card", trait: "Card" },
       // { name: "Card_Occupation_Lawyer", trait: "Occupation" },
     ],
   },
@@ -83,7 +87,7 @@ const layerConfigurations = [
   //     },
   //     {
   //       name: "Canine/Cloth", trait: "Cloth",
-  //       sublayerOptions: { 
+  //       sublayerOptions: {
   //         "4_Multiply": { blend: "multiply" } },
   //     },
   //     {
@@ -95,7 +99,7 @@ const layerConfigurations = [
   //       sublayerOptions: { "3_Multiply": { blend: "multiply" } },
   //     },
   //     { name: "Canine/EyeWear", trait: "Eyewear" },
-  //     { name: "Lawyer Card" , trait: "Card", 
+  //     { name: "Lawyer Card" , trait: "Card",
   //       sublayerOptions: {
 
   //         "1_Background" : {bypassDNA : true }
@@ -175,18 +179,46 @@ const incompatible = {
  */
 const forcedCombinations = {
   // floral: ["MetallicShades", "Golden Sakura"],
-  Face_Great_M: ["Devious", "Lawyer_Devious_1"],
-  Face_Mad_M: ["Aggressive", "Lawyer_Aggressive_1"],
-  Face_Sad_M: ["Regretful", "Lawyer_Regretful_1"],
-  Face_Shock_M: ["Optimistic", "Lawyer_Optimistic_1"],
+  Face_Mad_M: ["Aggressive","Lawyer_Aggressive_1"],
+  Face_Mad_M: ["Aggressive","Lawyer_Aggressive_2"],
+  Face_Great_M: [  "Devious","Lawyer_Devious_1" ],
+  Face_Great_M: [  "Devious","Lawyer_Devious_2" ],
+  Face_Great_M: [  "Devious","Lawyer_Devious_3" ],
+  Face_Great_M: [  "Devious","Lawyer_Devious_4" ],
+  Face_Great_M: [  "Devious","Lawyer_Devious_5" ],
+  Face_Great_M: [  "Devious","Lawyer_Devious_6" ],
+  Face_Shock_M: [ "Optimistic","Lawyer_Optimistic_1"],
+  Face_Shock_M: [ "Optimistic","Lawyer_Optimistic_2"],
+  Face_Shock_M: [ "Optimistic","Lawyer_Optimistic_3"],
+  Face_Shock_M: [ "Optimistic","Lawyer_Optimistic_4"],
+  Face_Shock_M: [ "Optimistic","Lawyer_Optimistic_5"],
+  Face_Sad_M: ["Regretful","Lawyer_Regretful_1"],
+  Face_Sus_M: ["Skeptical","Lawyer_Skeptical_1"],
+  Face_Sus_M: ["Skeptical","Lawyer_Skeptical_2"],
   Face_Smirk_M: ["Smug","Lawyer_Smug_1"],
-  Face_Sus_M: ["Skeptical", "Lawyer_Skeptical_1"],
-  Face_Great_F: ["Devious", "Lawyer_Devious_1"],
+  Face_Smirk_M: ["Smug","Lawyer_Smug_2"],
+  Face_Smirk_M: ["Smug","Lawyer_Smug_3"],
+  
+  // Canine Female
   Face_Mad_F: ["Aggressive","Lawyer_Aggressive_1"],
-  Face_Sad_F: ["Regretful", "Lawyer_Regretful_1"],
-  Face_Shock_F: ["Optimistic", "Lawyer_Optimistic_1"],
-  Face_Smirk_F: ["Smug", "Lawyer_Smug_1"],
-  Face_Sus_F: ["Skeptical", "Laywer_Skeptical_1"],
+  Face_Mad_F: ["Aggressive","Lawyer_Aggressive_2"],
+  Face_Great_F: [  "Devious","Lawyer_Devious_1" ],
+  Face_Great_F: [  "Devious","Lawyer_Devious_2" ],
+  Face_Great_F: [  "Devious","Lawyer_Devious_3" ],
+  Face_Great_F: [  "Devious","Lawyer_Devious_4" ],
+  Face_Great_F: [  "Devious","Lawyer_Devious_5" ],
+  Face_Great_F: [  "Devious","Lawyer_Devious_6" ],
+  Face_Shock_F: [ "Optimistic","Lawyer_Optimistic_1"],
+  Face_Shock_F: [ "Optimistic","Lawyer_Optimistic_2"],
+  Face_Shock_F: [ "Optimistic","Lawyer_Optimistic_3"],
+  Face_Shock_F: [ "Optimistic","Lawyer_Optimistic_4"],
+  Face_Shock_F: [ "Optimistic","Lawyer_Optimistic_5"],
+  Face_Sad_F: ["Regretful","Lawyer_Regretful_1"],
+  Face_Sus_F: ["Skeptical","Lawyer_Skeptical_1"],
+  Face_Sus_F: ["Skeptical","Lawyer_Skeptical_2"],
+  Face_Smirk_F: ["Smug","Lawyer_Smug_1"],
+  Face_Smirk_F: ["Smug","Lawyer_Smug_2"],
+  Face_Smirk_F: ["Smug","Lawyer_Smug_3"],
 };
 
 /**
