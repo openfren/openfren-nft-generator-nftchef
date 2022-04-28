@@ -57,9 +57,6 @@ def create_layers(input_path):
 
     construct_and_copy(reader,source_path_index, source_file_name_index, destination_path_index, destination_file_index)
 
-    # Copy to second destination if destination 2 exists
-    if 'Destination_2' in header:
-        destination_path_index = header.index('Destination_2')
 
 def construct_and_copy(reader, source_path_index, source_file_name_index, destination_path_index, destination_file_index):
     skipped_files = []
