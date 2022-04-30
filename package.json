@@ -28,6 +28,7 @@
     "clean": "rm -rvf build",
     "clean:solana": "rm -rvf build/solana",
     "clean:utils": "rm -rvf .utils_output/layers",
+    "copy:goblin": "rm -rvf ./layers/Goblin | mv .utils_output/layers/Goblin layers/Goblin",
     "rarity": "node utils/rarity.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
