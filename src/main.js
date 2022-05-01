@@ -459,9 +459,18 @@ function pickRandomElement(
 ) {
   let totalWeight = 0;
   // Does this layer include a forcedDNA item? ya? just return it.
-  const forcedPick = layer.elements.find((element) =>
+  // const forcedPick = layer.elements.find((element) =>
+  //   forcedDNA.includes(element.name)
+  // );
+
+  const pickRandomArrayItem = (items) => {
+    let item = items[Math.floor(Math.random() * items.length)]
+    return item
+  }
+
+  const forcedPick = pickRandomArrayItem(layer.elements.filter((element) =>
     forcedDNA.includes(element.name)
-  );
+  ));
   if (forcedPick) {
     debugLogs
       ? console.log(chalk.yellowBright(`Force picking ${forcedPick.name}/n`))
