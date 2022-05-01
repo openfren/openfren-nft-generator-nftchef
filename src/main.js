@@ -463,6 +463,9 @@ function pickRandomElement(
   //   forcedDNA.includes(element.name)
   // );
 
+  // Below is an updated forcedDNA implementation , that picks a random element
+  // from the forced combinations, i.e. you can use more than 1 forced item
+
   const pickRandomArrayItem = (items) => {
     let item = items[Math.floor(Math.random() * items.length)]
     return item
