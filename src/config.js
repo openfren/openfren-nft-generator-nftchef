@@ -74,7 +74,16 @@ const layerConfigurations = [
         sublayerOptions: { "3_Multiply": { blend: "multiply" } },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
-      { name: "Lawyer Card", trait: "Card" },
+      { name: "Lawyer Card", trait: "Profession",
+      sublayerOptions: {
+        "1_Background": { bypassDNA: true },
+        "2_Personality": { trait: "Personality" },
+        "3_Quote": { trait: "Quote" },
+        "Seniority": { trait: "Seniority" },
+        "5_Rarity" : {trait: "Rarity"}
+      },
+    
+    },
       // { name: "Card_Occupation_Lawyer", trait: "Occupation" },
     ],
   },
