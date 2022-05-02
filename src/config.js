@@ -45,11 +45,17 @@ const layerConfigurations = [
       {
         name: "Canine/Gender",
         sublayerOptions: {
-          "1_Body": { trait: "Secondary Coat" },
-          "2_Personality": { trait: "Expression" },
+          "2_Secondary": { trait: "Secondary Coat" },
+          "1_Primary": { trait: "Expression" },
         },
       },
-      { name: "Canine/Body_LA", bypassDNA: true },
+      {
+        name: "Canine/Body_LA",
+        sublayerOptions: {
+          "1_Ear_LA": { bypassDNA: true },
+          "2_Body_LA": { bypassDNA: true },
+        },
+      },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
@@ -73,18 +79,19 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 1,
+    growEditionSizeTo: 6,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     resetNameIndex: true,
     layersOrder: [
       { name: "Background" },
       { name: "Goblin/Body" },
       { name: "Goblin/Expression" },
+      { name: "Goblin/Body Art" },
       { name: "Goblin/Hair" },
       {
         name: "Goblin/Clothing",
         sublayerOptions: {
-          "5_Multiply": { blend: "multiply" },
+          "5_Mulitply": { blend: "multiply" },
         },
       },
       { name: "Goblin/Accessory" },
@@ -103,10 +110,11 @@ const layerConfigurations = [
       { name: "Background" },
       { name: "Goblin/Body" },
       { name: "Goblin/Expression" },
+      { name: "Goblin/Body Art" },
       {
         name: "Goblin/Clothing",
         sublayerOptions: {
-          "5_Multiply": { blend: "multiply" },
+          "5_Mulitply": { blend: "multiply" },
         },
       },
       { name: "Goblin/Accessory" },
@@ -222,20 +230,50 @@ const incompatible = {
  */
 const forcedCombinations = {
   // floral: ["MetallicShades", "Golden Sakura"],
-  Face_Mad_M: ["Aggressive", "Lawyer_Aggressive_1","Lawyer_Aggressive_2"],
-  Face_Great_M: ["Devious", "Lawyer_Devious_1","Lawyer_Devious_2","Lawyer_Devious_3","Lawyer_Devious_4","Lawyer_Devious_5","Lawyer_Devious_6"],
-  Face_Shock_M: ["Optimistic", "Lawyer_Optimistic_1","Lawyer_Optimistic_2","Lawyer_Optimistic_3","Lawyer_Optimistic_4","Lawyer_Optimistic_5"],
+  Face_Mad_M: ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
+  Face_Great_M: [
+    "Devious",
+    "Lawyer_Devious_1",
+    "Lawyer_Devious_2",
+    "Lawyer_Devious_3",
+    "Lawyer_Devious_4",
+    "Lawyer_Devious_5",
+    "Lawyer_Devious_6",
+  ],
+  Face_Shock_M: [
+    "Optimistic",
+    "Lawyer_Optimistic_1",
+    "Lawyer_Optimistic_2",
+    "Lawyer_Optimistic_3",
+    "Lawyer_Optimistic_4",
+    "Lawyer_Optimistic_5",
+  ],
   Face_Sad_M: ["Regretful", "Lawyer_Regretful_1"],
-  Face_Sus_M: ["Skeptical", "Lawyer_Skeptical_1","Lawyer_Skeptical_2"],
-  Face_Smirk_M: ["Smug", "Lawyer_Smug_1","Lawyer_Smug_2","Lawyer_Smug_3"],
+  Face_Sus_M: ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
+  Face_Smirk_M: ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
 
   // Canine Female
-  Face_Mad_F: ["Aggressive", "Lawyer_Aggressive_1","Lawyer_Aggressive_2"],
-  Face_Great_F: ["Devious", "Lawyer_Devious_1","Lawyer_Devious_2","Lawyer_Devious_3","Lawyer_Devious_4","Lawyer_Devious_5","Lawyer_Devious_6"],
-  Face_Shock_F: ["Optimistic", "Lawyer_Optimistic_1","Lawyer_Optimistic_2","Lawyer_Optimistic_3","Lawyer_Optimistic_4","Lawyer_Optimistic_5"],
+  Face_Mad_F: ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
+  Face_Great_F: [
+    "Devious",
+    "Lawyer_Devious_1",
+    "Lawyer_Devious_2",
+    "Lawyer_Devious_3",
+    "Lawyer_Devious_4",
+    "Lawyer_Devious_5",
+    "Lawyer_Devious_6",
+  ],
+  Face_Shock_F: [
+    "Optimistic",
+    "Lawyer_Optimistic_1",
+    "Lawyer_Optimistic_2",
+    "Lawyer_Optimistic_3",
+    "Lawyer_Optimistic_4",
+    "Lawyer_Optimistic_5",
+  ],
   Face_Sad_F: ["Regretful", "Lawyer_Regretful_1"],
-  Face_Sus_F: ["Skeptical", "Lawyer_Skeptical_1","Lawyer_Skeptical_2"],
-  Face_Smirk_F: ["Smug", "Lawyer_Smug_1","Lawyer_Smug_2","Lawyer_Smug_3"],
+  Face_Sus_F: ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
+  Face_Smirk_F: ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
 
   // Goclin Forced combinations
 
@@ -313,18 +351,90 @@ const forcedCombinations = {
 
   // Goblin Personality
 
-  FaceAggressiveMale_aggressive_: ["Aggressive", "Investor_Aggressive_1", "Investor_Aggressive_2", "Investor_Agressive_3"],
-  FaceAggressiveFemale_aggressive_: ["Aggressive", "Investor_Aggressive_1", "Investor_Aggressive_2", "Investor_Agressive_3"],
-  FaceDeviousMale_devious_: ["Devious"],
-  FaceDeviousFemale_devious_: ["Devious"],
-  FaceRegretfulMale_02_regretful_2_: ["Regretful"],
-  FaceRegretfulFemale_02_regretful_2_: ["Regretful"],
-  FaceSmugMale_smug_: ["Smug"],
-  FaceSmugFemale_smug_: ["Smug"],
-  FaceOptimisticMale_02_optimistic_2_: ["Optimistic"],
-  FaceOptimisticFemale_02_optimistic_2_: ["Optimistic"],
-  FaceSkepticalMale_skeptical_: ["Skeptical"],
-  FaceSkepticalFemale_skeptical_: ["Skeptical"],
+  FaceAggressiveMale_aggressive_: [
+    "Aggressive",
+    "Investor_Aggressive_1",
+    "Investor_Aggressive_2",
+    "Investor_Agressive_3",
+  ],
+  FaceAggressiveFemale_aggressive_: [
+    "Aggressive",
+    "Investor_Aggressive_1",
+    "Investor_Aggressive_2",
+    "Investor_Agressive_3",
+  ],
+  FaceDeviousMale_devious_: [
+    "Devious",
+    "Investor_Devious_1",
+    "Investor_Devious_2",
+    "Investor_Devious_3",
+    "Investor_Devious_4",
+    "Investor_Devious_5",
+  ],
+  FaceDeviousFemale_devious_: [
+    "Devious",
+    "Investor_Devious_1",
+    "Investor_Devious_2",
+    "Investor_Devious_3",
+    "Investor_Devious_4",
+    "Investor_Devious_5",
+  ],
+  FaceRegretfulMale_02_regretful_2_: [
+    "Regretful",
+    "Investor_Regretful_1",
+    "Investor_Regretful_2",
+  ],
+  FaceRegretfulFemale_02_regretful_2_: [
+    "Regretful",
+    "Investor_Regretful_1",
+    "Investor_Regretful_2",
+  ],
+  FaceSmugMale_smug_: [
+    "Smug",
+    "Investor_Smug_1",
+    "Investor_Smug_2",
+    "Investor_Smug_3",
+    "Investor_Smug_4",
+    "Investor_Smug_5",
+    "Investor_Smug_6",
+  ],
+  FaceSmugFemale_smug_: [
+    "Smug",
+    "Investor_Smug_1",
+    "Investor_Smug_2",
+    "Investor_Smug_3",
+    "Investor_Smug_4",
+    "Investor_Smug_5",
+    "Investor_Smug_6",
+  ],
+  FaceOptimisticMale_02_optimistic_2_: [
+    "Optimistic",
+    "Investor_Optimistic_1",
+    "Investor_Optimistic_2",
+    "Investor_Optimistic_3",
+    "Investor_Optimistic_4",
+    "Investor_Optimistic_5",
+    "Investor_Optimistic_6",
+  ],
+  FaceOptimisticFemale_02_optimistic_2_: [
+    "Optimistic",
+    "Investor_Optimistic_1",
+    "Investor_Optimistic_2",
+    "Investor_Optimistic_3",
+    "Investor_Optimistic_4",
+    "Investor_Optimistic_5",
+    "Investor_Optimistic_6",
+  ],
+  FaceSkepticalMale_skeptical_: [
+    "Skeptical",
+    "Investor_Skeptical_1",
+    "Investor_Skeptical_2",
+  ],
+  FaceSkepticalFemale_skeptical_: [
+    "Skeptical",
+    "Investor_Skeptical_1",
+    "Investor_Skeptical_2",
+  ],
 };
 
 /**
