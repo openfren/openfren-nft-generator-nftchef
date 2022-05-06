@@ -13,7 +13,7 @@ background_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character 
 input_path = '/Volumes/GoogleDrive/Shared drives/DESIGN/OpenFren/Character Art/Layering/'
 output_path = os.getcwd() + '/.utils_output/'
 csv_card_path = './downloaded_files/Card_Map.csv'
-csv_background_path = './downloaded_files/Background_Update.csv'
+csv_background_path = './downloaded_files/Background_Map.csv'
 csv_goblin_path = './downloaded_files/Goblin_Map.csv'
 csv_canine_path = './downloaded_files/Canine_Map.csv'
 

@@ -36,6 +36,8 @@ const background = {
 };
 
 const layerConfigurations = [
+
+  // Canine Hat
   {
     growEditionSizeTo: 9,
     namePrefix: "Lawyer",
@@ -45,26 +47,27 @@ const layerConfigurations = [
       {
         name: "Canine/Gender",
         sublayerOptions: {
-          "Gender": {trait: "Gender"},
           "2_Secondary": { trait: "Secondary Coat" },
           "1_Primary": { trait: "Expression" },
         },
       },
       {
-        name: "Canine/Body_LA", options: {bypassDNA: false}
+        name: "Canine/Body_LA",
+        options: { bypassDNA: false },
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
           "4_Multiply": { blend: "multiply" },
-          options: {bypassDNA: false}
+          options: { bypassDNA: false },
         },
       },
       {
-        name: "Canine/Headwear",
+        name: "Canine/Hat", trait: "Hat",
         sublayerOptions: {
-          "3_Multiply": { blend: "multiply" } },
+          "3_Multiply": { blend: "multiply" },
+        },
       },
       {
         name: "Canine/Accessory",
@@ -72,98 +75,154 @@ const layerConfigurations = [
         sublayerOptions: { "3_Multiply": { blend: "multiply" } },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
-      { name: "Lawyer Card", trait: "Profession",
-      sublayerOptions: {
-        "2_Personality": { trait: "Personality" },
-        "3_Quote": { trait: "Character Quote" },
-        "Seniority": { trait: "Seniority" },
-        "5_Rarity" : {trait: "Rarity"}
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Character Quote" },
+          Seniority: { trait: "Seniority" },
+        },
       },
-    
-    },
-      // { name: "Card_Occupation_Lawyer", trait: "Occupation" },
+      { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
     ],
   },
 
+
+  // Canine Hair
   {
-      growEditionSizeTo: 10,
-      namePrefix: "Lawyer",
-    //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
-      layersOrder: [
-        { name: "Canine/Mythic A1/BG" },
-        { name: "Canine/Mythic A1/Base" },
-        { name: "Canine/Mythic A1/Body" },
-        { name: "Canine/Mythic A1/Head" },
-        { name: "Canine/Mythic A1/VFX" },
-        { name: "Lawyer Card", trait: "Profession",
+    growEditionSizeTo: 19,
+    namePrefix: "Lawyer",
+    layersOrder: [
+      { name: "Background" },
+      { name: "Canine/Body", trait: "Primary Coat" },
+      {
+        name: "Canine/Gender",
+        sublayerOptions: {
+          "2_Secondary": { trait: "Secondary Coat" },
+          "1_Primary": { trait: "Expression" },
+        },
+      },
+      {
+        name: "Canine/Body_LA",
+        options: { bypassDNA: false },
+      },
+      {
+        name: "Canine/Clothing",
+        trait: "Clothing",
+        sublayerOptions: {
+          "4_Multiply": { blend: "multiply" },
+          options: { bypassDNA: false },
+        },
+      },
+      {
+        name: "Canine/Hair", trait: "Hair",
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply" },
+        },
+      },
+      {
+        name: "Canine/Accessory",
+        trait: "Accessory",
+        sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+      },
+      { name: "Canine/EyeWear", trait: "Eyewear" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Character Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
+    ],
+  },
+
+  // CANINE MYTHIC
+
+  {
+    growEditionSizeTo: 20,
+    namePrefix: "Lawyer",
+    layersOrder: [
+      { name: "Canine/Mythic A1/BG" },
+      { name: "Canine/Mythic A1/Base" },
+      { name: "Canine/Mythic A1/Body" },
+      { name: "Canine/Mythic A1/Head" },
+      { name: "Canine/Mythic A1/VFX" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
         sublayerOptions: {
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
-          "Seniority": { trait: "Seniority" },
-          "5_Rarity" : {trait: "Rarity"}
+          Seniority: { trait: "Seniority" },
         },
-      
       },
-        
-      ],
-    },
-    {
-      growEditionSizeTo: 11,
-      namePrefix: "Lawyer",
+      { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+    ],
+  },
+  {
+    growEditionSizeTo: 21,
+    namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
-      layersOrder: [
-        { name: "Canine/Mythic A2/BG" },
-        { name: "Canine/Mythic A2/Base" },
-        { name: "Canine/Mythic A2/Body" },
-        { name: "Canine/Mythic A2/Head" },
-        { name: "Canine/Mythic A2/VFX" },
-        { name: "Lawyer Card", trait: "Profession",
+    layersOrder: [
+      { name: "Canine/Mythic A2/BG" },
+      { name: "Canine/Mythic A2/Base" },
+      { name: "Canine/Mythic A2/Body" },
+      { name: "Canine/Mythic A2/Head" },
+      { name: "Canine/Mythic A2/VFX" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
         sublayerOptions: {
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
-          "Seniority": { trait: "Seniority" },
-          "5_Rarity" : {trait: "Rarity"}
+          Seniority: { trait: "Seniority" }
         },
-      
       },
-        
-      ],
-    },
-    {
-      growEditionSizeTo: 12,
-      namePrefix: "Lawyer",
+      { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+    ],
+  },
+  {
+    growEditionSizeTo: 22,
+    namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
-      layersOrder: [
-        { name: "Canine/Mythic A3/BG" },
-        { name: "Canine/Mythic A3/Base" },
-        { name: "Canine/Mythic A3/Body" },
-        { name: "Canine/Mythic A3/Head" },
-        { name: "Canine/Mythic A3/VFX" },
-        { name: "Lawyer Card", trait: "Profession",
+    layersOrder: [
+      { name: "Canine/Mythic A3/BG" },
+      { name: "Canine/Mythic A3/Base" },
+      { name: "Canine/Mythic A3/Body" },
+      { name: "Canine/Mythic A3/Head" },
+      { name: "Canine/Mythic A3/VFX" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
         sublayerOptions: {
           // "1_Background": { bypassDNA: true },
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
-          "Seniority": { trait: "Seniority" },
-          "5_Rarity" : {trait: "Rarity"}
+          Seniority: { trait: "Seniority" }
         },
-      
       },
-        
-      ],
-    },
+      { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+    ],
+  },
+
+  // Goblin Investor
+
   {
-    growEditionSizeTo: 13,
+    growEditionSizeTo: 23,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     resetNameIndex: true,
     layersOrder: [
       { name: "Background" },
       { name: "Goblin/Body" },
-      { name: "Goblin/Expression/Smug#10" },
+      { name: "Goblin/Expression" },
       { name: "Goblin/Body Art" },
       { name: "Goblin/Hair" },
       {
-        name: "Goblin/Clothing/Open Shoulder Dress#10",
+        name: "Goblin/Clothing",
         sublayerOptions: {
           "5_Mulitply": { blend: "multiply" },
         },
@@ -171,13 +230,14 @@ const layerConfigurations = [
       { name: "Goblin/Accessory" },
       { name: "Goblin/Eyewear" },
       { name: "Investor Card", trait: "Card" },
+      { name: "Investor Card Rarity/Premium", trait: "Rarity" },
     ],
   },
 
   // Hat combinations (hats go on top), we wont reset the index
 
   {
-    growEditionSizeTo: 14,
+    growEditionSizeTo: 24,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -195,12 +255,13 @@ const layerConfigurations = [
       { name: "Goblin/Eyewear" },
       { name: "Goblin/Hat" },
       { name: "Investor Card", trait: "Card" },
+      { name: "Investor Card Rarity/Premium", trait: "Rarity" },
     ],
   },
-  // mythical goblin 
+  // Goblin Mythic
 
   {
-    growEditionSizeTo: 15,
+    growEditionSizeTo: 25,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -209,10 +270,11 @@ const layerConfigurations = [
       { name: "Goblin/Mythical A1/Body" },
       { name: "Goblin/Mythical A1/Head" },
       { name: "Investor Card", trait: "Card" },
+      { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
     ],
   },
   {
-    growEditionSizeTo: 16,
+    growEditionSizeTo: 26,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -221,11 +283,13 @@ const layerConfigurations = [
       { name: "Goblin/Mythical A2/Body" },
       { name: "Goblin/Mythical A2/Head" },
       { name: "Investor Card", trait: "Card" },
+      { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
+
     ],
   },
 
   {
-    growEditionSizeTo: 17,
+    growEditionSizeTo: 27,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -234,6 +298,8 @@ const layerConfigurations = [
       { name: "Goblin/Mythical A3/Body" },
       { name: "Goblin/Mythical A3/Head" },
       { name: "Investor Card", trait: "Card" },
+      { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
+
     ],
   },
   // {
@@ -287,8 +353,8 @@ const incompatible = {
  */
 const forcedCombinations = {
   // floral: ["MetallicShades", "Golden Sakura"],
-  Face_Mad_M: ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
-  Face_Great_M: [
+  "Aggresive Masculine": ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
+  "Devious Masculine": [
     "Devious",
     "Lawyer_Devious_1",
     "Lawyer_Devious_2",
@@ -297,7 +363,7 @@ const forcedCombinations = {
     "Lawyer_Devious_5",
     "Lawyer_Devious_6",
   ],
-  Face_Shock_M: [
+  "Optimistic Masculine": [
     "Optimistic",
     "Lawyer_Optimistic_1",
     "Lawyer_Optimistic_2",
@@ -305,13 +371,13 @@ const forcedCombinations = {
     "Lawyer_Optimistic_4",
     "Lawyer_Optimistic_5",
   ],
-  Face_Sad_M: ["Regretful", "Lawyer_Regretful_1"],
-  Face_Sus_M: ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
-  Face_Smirk_M: ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
+  "Regretful Masculine": ["Regretful", "Lawyer_Regretful_1"],
+  "Skeptical Masculine": ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
+  "Smug Masculine": ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
 
   // Canine Female
-  Face_Mad_F: ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
-  Face_Great_F: [
+  "Aggresive Feminine": ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
+  "Devious Feminine": [
     "Devious",
     "Lawyer_Devious_1",
     "Lawyer_Devious_2",
@@ -320,7 +386,7 @@ const forcedCombinations = {
     "Lawyer_Devious_5",
     "Lawyer_Devious_6",
   ],
-  Face_Shock_F: [
+  "Optimistic Feminine": [
     "Optimistic",
     "Lawyer_Optimistic_1",
     "Lawyer_Optimistic_2",
@@ -328,9 +394,9 @@ const forcedCombinations = {
     "Lawyer_Optimistic_4",
     "Lawyer_Optimistic_5",
   ],
-  Face_Sad_F: ["Regretful", "Lawyer_Regretful_1"],
-  Face_Sus_F: ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
-  Face_Smirk_F: ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
+  "Regretful Feminine": ["Regretful", "Lawyer_Regretful_1"],
+  "Skeptical Feminine": ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
+  "Smug Feminine": ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
 
   // Goclin Forced combinations
 
