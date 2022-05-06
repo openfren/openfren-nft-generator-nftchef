@@ -37,7 +37,7 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1,
+    growEditionSizeTo: 9,
     namePrefix: "Lawyer",
     layersOrder: [
       { name: "Background" },
@@ -51,19 +51,20 @@ const layerConfigurations = [
         },
       },
       {
-        name: "Canine/Body_LA", bypassDNA: true
+        name: "Canine/Body_LA", options: {bypassDNA: false}
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "4_Multiply": { blend: "multiply" , bypassDNA: true},
+          "4_Multiply": { blend: "multiply" },
+          options: {bypassDNA: false}
         },
       },
       {
         name: "Canine/Headwear",
-        trait: "Headwear",
-        sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply" } },
       },
       {
         name: "Canine/Accessory",
@@ -73,9 +74,8 @@ const layerConfigurations = [
       { name: "Canine/EyeWear", trait: "Eyewear" },
       { name: "Lawyer Card", trait: "Profession",
       sublayerOptions: {
-        // "1_Background": { bypassDNA: true },
         "2_Personality": { trait: "Personality" },
-        "3_Quote": { trait: "Quote" },
+        "3_Quote": { trait: "Character Quote" },
         "Seniority": { trait: "Seniority" },
         "5_Rarity" : {trait: "Rarity"}
       },
@@ -86,7 +86,7 @@ const layerConfigurations = [
   },
 
   {
-      growEditionSizeTo: 2,
+      growEditionSizeTo: 10,
       namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
       layersOrder: [
@@ -97,7 +97,6 @@ const layerConfigurations = [
         { name: "Canine/Mythic A1/VFX" },
         { name: "Lawyer Card", trait: "Profession",
         sublayerOptions: {
-          // "1_Background": { bypassDNA: true },
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
           "Seniority": { trait: "Seniority" },
@@ -109,7 +108,7 @@ const layerConfigurations = [
       ],
     },
     {
-      growEditionSizeTo: 3,
+      growEditionSizeTo: 11,
       namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
       layersOrder: [
@@ -120,7 +119,6 @@ const layerConfigurations = [
         { name: "Canine/Mythic A2/VFX" },
         { name: "Lawyer Card", trait: "Profession",
         sublayerOptions: {
-          // "1_Background": { bypassDNA: true },
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
           "Seniority": { trait: "Seniority" },
@@ -132,7 +130,7 @@ const layerConfigurations = [
       ],
     },
     {
-      growEditionSizeTo: 4,
+      growEditionSizeTo: 12,
       namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
       layersOrder: [
@@ -155,7 +153,7 @@ const layerConfigurations = [
       ],
     },
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 13,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     resetNameIndex: true,
     layersOrder: [
@@ -179,7 +177,7 @@ const layerConfigurations = [
   // Hat combinations (hats go on top), we wont reset the index
 
   {
-    growEditionSizeTo: 21,
+    growEditionSizeTo: 14,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -199,62 +197,45 @@ const layerConfigurations = [
       { name: "Investor Card", trait: "Card" },
     ],
   },
-  // {
-  //   growEditionSizeTo: 10,
-  //   namePrefix: "Lawyer",
-  //   layersOrder: [
-  //     { name: "Background" },
-  //     { name: "Canine/Base Body", trait: "Primary Coat" },
-  //     {
-  //       name: "Canine/Gender",
-  //       sublayerOptions: {
-  //         "1_Body": { trait: "Secondary Coat" },
-  //         "2_Personality": { trait: "Expression" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Cloth", trait: "Cloth",
-  //       sublayerOptions: {
-  //         "4_Multiply": { blend: "multiply" } },
-  //     },
-  //     {
-  //       name: "Canine/Hat", trait: "Headwear",
-  //       sublayerOptions: { "3_Multiply": { blend: "multiply" } },
-  //     },
-  //     {
-  //       name: "Canine/Face", trait: "Accessory",
-  //       sublayerOptions: { "3_Multiply": { blend: "multiply" } },
-  //     },
-  //     { name: "Canine/EyeWear", trait: "Eyewear" },
-  //     { name: "Lawyer Card" , trait: "Card",
-  //       sublayerOptions: {
+  // mythical goblin 
 
-  //         "1_Background" : {bypassDNA : true }
-  //     }},
-  //     { name: "Card_Occupation_Lawyer", trait: "Occupation" },
-  //   ],
-  // },
-  // {
-  //   growEditionSizeTo: 15,
-  //   namePrefix: "Investor", // Use to add a name to Metadata `name:`
-  //   resetNameIndex: true,
-  //   layersOrder: [
-  //     { name: "Background" },
-  //     { name: "Goblin/Base Body" },
-  //     { name: "Goblin/Base Secondary" },
-  //     { name: "Goblin/Personality" },
-  //     { name: "Goblin/Base LA" },
-  //     { name: "Goblin/Face" },
-  //     { name: "Card" },
-  //     { name: "Card_Occupation_Investor" },
+  {
+    growEditionSizeTo: 15,
+    namePrefix: "Investor", // Use to add a name to Metadata `name:`
+    // resetNameIndex: true,
+    layersOrder: [
+      { name: "Goblin/Mythical A1/Background" },
+      { name: "Goblin/Mythical A1/Base" },
+      { name: "Goblin/Mythical A1/Body" },
+      { name: "Goblin/Mythical A1/Head" },
+      { name: "Investor Card", trait: "Card" },
+    ],
+  },
+  {
+    growEditionSizeTo: 16,
+    namePrefix: "Investor", // Use to add a name to Metadata `name:`
+    // resetNameIndex: true,
+    layersOrder: [
+      { name: "Goblin/Mythical A2/Background" },
+      { name: "Goblin/Mythical A2/Base" },
+      { name: "Goblin/Mythical A2/Body" },
+      { name: "Goblin/Mythical A2/Head" },
+      { name: "Investor Card", trait: "Card" },
+    ],
+  },
 
-  //     // { name: "Clothes" },
-  //     // { name: "Eyes" },
-  //     // { name: "Hair" },
-  //     // { name: "Head Accessory" },
-  //     // { name: "Shirt Accessories" },
-  //   ],
-  // },
+  {
+    growEditionSizeTo: 17,
+    namePrefix: "Investor", // Use to add a name to Metadata `name:`
+    // resetNameIndex: true,
+    layersOrder: [
+      { name: "Goblin/Mythical A3/Background" },
+      { name: "Goblin/Mythical A3/Base" },
+      { name: "Goblin/Mythical A3/Body" },
+      { name: "Goblin/Mythical A3/Head" },
+      { name: "Investor Card", trait: "Card" },
+    ],
+  },
   // {
   //   growEditionSizeTo: 10,
   //   namePrefix: "Lion",
