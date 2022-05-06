@@ -45,22 +45,19 @@ const layerConfigurations = [
       {
         name: "Canine/Gender",
         sublayerOptions: {
+          "Gender": {trait: "Gender"},
           "2_Secondary": { trait: "Secondary Coat" },
           "1_Primary": { trait: "Expression" },
         },
       },
       {
-        name: "Canine/Body_LA",
-        sublayerOptions: {
-          "1_Ear_LA": { bypassDNA: true },
-          "2_Body_LA": { bypassDNA: true },
-        },
+        name: "Canine/Body_LA", bypassDNA: true
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "4_Multiply": { blend: "multiply" },
+          "4_Multiply": { blend: "multiply" , bypassDNA: true},
         },
       },
       {
@@ -76,7 +73,7 @@ const layerConfigurations = [
       { name: "Canine/EyeWear", trait: "Eyewear" },
       { name: "Lawyer Card", trait: "Profession",
       sublayerOptions: {
-        "1_Background": { bypassDNA: true },
+        // "1_Background": { bypassDNA: true },
         "2_Personality": { trait: "Personality" },
         "3_Quote": { trait: "Quote" },
         "Seniority": { trait: "Seniority" },
@@ -87,18 +84,88 @@ const layerConfigurations = [
       // { name: "Card_Occupation_Lawyer", trait: "Occupation" },
     ],
   },
+
   {
-    growEditionSizeTo: 6,
+      growEditionSizeTo: 2,
+      namePrefix: "Lawyer",
+    //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
+      layersOrder: [
+        { name: "Canine/Mythic A1/BG" },
+        { name: "Canine/Mythic A1/Base" },
+        { name: "Canine/Mythic A1/Body" },
+        { name: "Canine/Mythic A1/Head" },
+        { name: "Canine/Mythic A1/VFX" },
+        { name: "Lawyer Card", trait: "Profession",
+        sublayerOptions: {
+          // "1_Background": { bypassDNA: true },
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          "Seniority": { trait: "Seniority" },
+          "5_Rarity" : {trait: "Rarity"}
+        },
+      
+      },
+        
+      ],
+    },
+    {
+      growEditionSizeTo: 3,
+      namePrefix: "Lawyer",
+    //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
+      layersOrder: [
+        { name: "Canine/Mythic A2/BG" },
+        { name: "Canine/Mythic A2/Base" },
+        { name: "Canine/Mythic A2/Body" },
+        { name: "Canine/Mythic A2/Head" },
+        { name: "Canine/Mythic A2/VFX" },
+        { name: "Lawyer Card", trait: "Profession",
+        sublayerOptions: {
+          // "1_Background": { bypassDNA: true },
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          "Seniority": { trait: "Seniority" },
+          "5_Rarity" : {trait: "Rarity"}
+        },
+      
+      },
+        
+      ],
+    },
+    {
+      growEditionSizeTo: 4,
+      namePrefix: "Lawyer",
+    //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
+      layersOrder: [
+        { name: "Canine/Mythic A3/BG" },
+        { name: "Canine/Mythic A3/Base" },
+        { name: "Canine/Mythic A3/Body" },
+        { name: "Canine/Mythic A3/Head" },
+        { name: "Canine/Mythic A3/VFX" },
+        { name: "Lawyer Card", trait: "Profession",
+        sublayerOptions: {
+          // "1_Background": { bypassDNA: true },
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          "Seniority": { trait: "Seniority" },
+          "5_Rarity" : {trait: "Rarity"}
+        },
+      
+      },
+        
+      ],
+    },
+  {
+    growEditionSizeTo: 20,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     resetNameIndex: true,
     layersOrder: [
       { name: "Background" },
       { name: "Goblin/Body" },
-      { name: "Goblin/Expression" },
+      { name: "Goblin/Expression/Smug#10" },
       { name: "Goblin/Body Art" },
       { name: "Goblin/Hair" },
       {
-        name: "Goblin/Clothing",
+        name: "Goblin/Clothing/Open Shoulder Dress#10",
         sublayerOptions: {
           "5_Mulitply": { blend: "multiply" },
         },
@@ -112,7 +179,7 @@ const layerConfigurations = [
   // Hat combinations (hats go on top), we wont reset the index
 
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 21,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -343,12 +410,13 @@ const forcedCombinations = {
   Base_Body_secondary_A_E: ["Base_Body_tertiary_E", "FaceSmugSecondary_smug_E"],
   Base_Body_secondary_A_F: ["Base_Body_tertiary_F", "FaceSmugSecondary_smug_F"],
   Base_Body_secondary_A_G: ["Base_Body_tertiary_G", "FaceSmugSecondary_smug_G"],
-  Base_Body_secondary_B_A: ["Base_Body_tertiary_A", "FaceSmugPrimary_smug_A"],
-  Base_Body_secondary_B_B: ["Base_Body_tertiary_B", "FaceSmugPrimary_smug_B"],
-  Base_Body_secondary_B_C: ["Base_Body_tertiary_C", "FaceSmugPrimary_smug_C"],
-  Base_Body_secondary_B_D: ["Base_Body_tertiary_D", "FaceSmugPrimary_smug_D"],
-  Base_Body_secondary_B_E: ["Base_Body_tertiary_E", "FaceSmugPrimary_smug_E"],
-  Base_Body_secondary_B_F: ["Base_Body_tertiary_F", "FaceSmugPrimary_smug_F"],
+  Base_Body_secondary_B_A: ["Base_Body_tertiary_A", "FaceSmugSecondary_smug_A"],
+  Base_Body_secondary_B_B: ["Base_Body_tertiary_B", "FaceSmugSecondary_smug_B"],
+  Base_Body_secondary_B_C: ["Base_Body_tertiary_C", "FaceSmugSecondary_smug_C"],
+  Base_Body_secondary_B_D: ["Base_Body_tertiary_D", "FaceSmugSecondary_smug_D"],
+  Base_Body_secondary_B_E: ["Base_Body_tertiary_E", "FaceSmugSecondary_smug_E"],
+  Base_Body_secondary_B_F: ["Base_Body_tertiary_F", "FaceSmugSecondary_smug_F"],
+  Base_Body_secondary_B_G: ["Base_Body_tertiary_G", "FaceSmugSecondary_smug_G"],
 
   Cloths_03_tshirt_A: ["Cloths_03_smiley face_B"],
   Cloths_03_tshirt_B: ["Cloths_03_smiley face_A"],
