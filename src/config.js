@@ -55,27 +55,27 @@ const layerConfigurations = [
         name: "Canine/Body_LA",
         options: { bypassDNA: true },
         sublayerOptions: {
-          "1_Primary": {options: {bypassDNA: true}, trait: "LineArt" },
-          "4_LineArt": {options: {bypassDNA: true}, trait: "LineArt" }
+          "1_Primary": { trait: "LineArt" },
+          "4_LineArt": { trait: "LineArt" }
         }
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "4_Multiply": { blend: "multiply", options: {bypassDNA: true} }
+          "4_Multiply": { blend: "multiply", trait: "Multiply" }
         },
       },
       {
         name: "Canine/Hat", trait: "Hat",
         sublayerOptions: {
-          "3_Multiply": { blend: "multiply" }, options: {bypassDNA: true}
+          "3_Multiply": { blend: "multiply" , trait: "Multiply"}
         },
       },
       {
         name: "Canine/Accessory",
         trait: "Accessory",
-        sublayerOptions: { "3_Multiply": { blend: "multiply" } , options: {bypassDNA: true}},
+        sublayerOptions: { "3_Multiply": { blend: "multiply", trait: "Multiply" } },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
       {
@@ -108,26 +108,29 @@ const layerConfigurations = [
       },
       {
         name: "Canine/Body_LA",
-        options: { bypassDNA: false },
+        options: { bypassDNA: true },
+        sublayerOptions: {
+          "1_Primary": { trait: "LineArt" },
+          "4_LineArt": { trait: "LineArt" }
+        }
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "4_Multiply": { blend: "multiply" },
-          options: { bypassDNA: false },
+          "4_Multiply": { blend: "multiply", trait: "Multiply" }
         },
       },
       {
         name: "Canine/Hair", trait: "Hair",
         sublayerOptions: {
-          "3_Multiply": { blend: "multiply" },
+          "3_Multiply": { blend: "multiply" , trait: "Multiply"}
         },
       },
       {
         name: "Canine/Accessory",
         trait: "Accessory",
-        sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+        sublayerOptions: { "3_Multiply": { blend: "multiply", trait: "Multiply" } },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
       {
