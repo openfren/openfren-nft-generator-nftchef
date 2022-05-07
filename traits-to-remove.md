@@ -1,6 +1,6 @@
 ### Canine
 
-Remove line art tertiarty
+Remove Line Art
 ```
     {
       "trait_type": "1_Primary",

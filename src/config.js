@@ -53,26 +53,29 @@ const layerConfigurations = [
       },
       {
         name: "Canine/Body_LA",
-        options: { bypassDNA: false },
+        options: { bypassDNA: true },
+        sublayerOptions: {
+          "1_Primary": {options: {bypassDNA: true}, trait: "LineArt" },
+          "4_LineArt": {options: {bypassDNA: true}, trait: "LineArt" }
+        }
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "4_Multiply": { blend: "multiply" },
-          options: { bypassDNA: false },
+          "4_Multiply": { blend: "multiply", options: {bypassDNA: true} }
         },
       },
       {
         name: "Canine/Hat", trait: "Hat",
         sublayerOptions: {
-          "3_Multiply": { blend: "multiply" },
+          "3_Multiply": { blend: "multiply" }, options: {bypassDNA: true}
         },
       },
       {
         name: "Canine/Accessory",
         trait: "Accessory",
-        sublayerOptions: { "3_Multiply": { blend: "multiply" } },
+        sublayerOptions: { "3_Multiply": { blend: "multiply" } , options: {bypassDNA: true}},
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
       {

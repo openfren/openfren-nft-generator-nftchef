@@ -6,6 +6,7 @@ const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const fs = require("fs");
 const keccak256 = require("keccak256");
 const chalk = require("chalk");
+const { debug } = require("console");
 
 const { createCanvas, loadImage } = require(path.join(
   basePath,
@@ -172,6 +173,10 @@ const getElements = (path, layer) => {
         path: `${path}${i}`,
         zindex,
       };
+
+      if (name.includes("Multi")) {
+        debug;
+      }
 
       if (sublayer) {
         element.path = `${path}${i}`;
