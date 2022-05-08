@@ -36,347 +36,350 @@ const background = {
 };
 
 const layerConfigurations = [
+
   // Canine Hat
-  // {
-  //   growEditionSizeTo: 1,
-  //   namePrefix: "Lawyer",
-  //   layersOrder: [
-  //     { name: "Background" },
-  //     { name: "Canine/Body", trait: "Primary Coat" },
-  //     {
-  //       name: "Canine/Gender",
-  //       sublayerOptions: {
-  //         "2_Secondary": { trait: "Secondary Coat" },
-  //         "1_Primary": { trait: "Expression" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Body_LA",
-  //       options: { bypassDNA: true },
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "LineArt" },
-  //         "4_LineArt": { trait: "LineArt" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Clothing",
-  //       trait: "Clothing",
-  //       sublayerOptions: {
-  //         "4_Multiply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Hat",
-  //       trait: "Hat",
-  //       sublayerOptions: {
-  //         "3_Multiply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Accessory",
-  //       trait: "Accessory",
-  //       sublayerOptions: {
-  //         "3_Multiply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     { name: "Canine/EyeWear", trait: "Eyewear" },
-  //     {
-  //       name: "Lawyer Card",
-  //       trait: "Profession",
-  //       sublayerOptions: {
-  //         "2_Personality": { trait: "Personality" },
-  //         "3_Quote": { trait: "Character Quote" },
-  //         Seniority: { trait: "Seniority" },
-  //       },
-  //     },
-  //     { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
-  //   ],
-  // },
+  {
+    growEditionSizeTo: 1,
+    namePrefix: "Lawyer",
+    layersOrder: [
+      { name: "Background" },
+      { name: "Canine/Body", trait: "Primary Coat" },
+      {
+        name: "Canine/Gender",
+        sublayerOptions: {
+          "2_Secondary": { trait: "Secondary Coat" },
+          "1_Primary": { trait: "Expression" },
+        },
+      },
+      {
+        name: "Canine/Body_LA",
+        options: { bypassDNA: true },
+        sublayerOptions: {
+          "1_Primary": { trait: "LineArt" },
+          "4_LineArt": { trait: "LineArt" },
+        },
+      },
+      {
+        name: "Canine/Clothing",
+        trait: "Clothing",
+        sublayerOptions: {
+          "4_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      {
+        name: "Canine/Hat",
+        trait: "Hat",
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      {
+        name: "Canine/Accessory",
+        trait: "Accessory",
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      { name: "Canine/EyeWear", trait: "Eyewear" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Character Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
+    ],
+  },
 
   // // Canine Hair
-  // {
-  //   growEditionSizeTo: 2,
-  //   namePrefix: "Lawyer",
-  //   layersOrder: [
-  //     { name: "Background" },
-  //     { name: "Canine/Body", trait: "Primary Coat" },
-  //     {
-  //       name: "Canine/Gender",
-  //       sublayerOptions: {
-  //         "2_Secondary": { trait: "Secondary Coat" },
-  //         "1_Primary": { trait: "Expression" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Body_LA",
-  //       options: { bypassDNA: true },
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "LineArt" },
-  //         "4_LineArt": { trait: "LineArt" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Clothing",
-  //       trait: "Clothing",
-  //       sublayerOptions: {
-  //         "4_Multiply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Hair",
-  //       trait: "Hair",
-  //       sublayerOptions: {
-  //         "3_Multiply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Accessory",
-  //       trait: "Accessory",
-  //       sublayerOptions: {
-  //         "3_Multiply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     { name: "Canine/EyeWear", trait: "Eyewear" },
-  //     {
-  //       name: "Lawyer Card",
-  //       trait: "Profession",
-  //       sublayerOptions: {
-  //         "2_Personality": { trait: "Personality" },
-  //         "3_Quote": { trait: "Character Quote" },
-  //         Seniority: { trait: "Seniority" },
-  //       },
-  //     },
-  //     { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
-  //   ],
-  // },
+  {
+    growEditionSizeTo: 2,
+    namePrefix: "Lawyer",
+    layersOrder: [
+      { name: "Background" },
+      { name: "Canine/Body", trait: "Primary Coat" },
+      {
+        name: "Canine/Gender",
+        sublayerOptions: {
+          "2_Secondary": { trait: "Secondary Coat" },
+          "1_Primary": { trait: "Expression" },
+        },
+      },
+      {
+        name: "Canine/Body_LA",
+        options: { bypassDNA: true },
+        sublayerOptions: {
+          "1_Primary": { trait: "LineArt" },
+          "4_LineArt": { trait: "LineArt" },
+        },
+      },
+      {
+        name: "Canine/Clothing",
+        trait: "Clothing",
+        sublayerOptions: {
+          "4_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      {
+        name: "Canine/Hair",
+        trait: "Hair",
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      {
+        name: "Canine/Accessory",
+        trait: "Accessory",
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      { name: "Canine/EyeWear", trait: "Eyewear" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Character Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
+    ],
+  },
 
   // CANINE MYTHIC
 
-  // {
-  //   growEditionSizeTo: 3,
-  //   namePrefix: "Lawyer",
-  //   layersOrder: [
-  //     { name: "Canine/Mythic A1/BG", trait: "Background" },
-  //     {
-  //       name: "Canine/Mythic A1/Base",
-  //       trait: "Base",
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "Flair" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Mythic A1/Body",
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "Shirt" },
-  //         "2_Secondary": { trait: "Jacket" },
-  //         "3_Tertiary": { trait: "Robe" },
-  //         "6_LineArt": { trait: "LineArt" },
-  //       },
-  //     },
-  //     { name: "Canine/Mythic A1/Head", sublayerOptions: {
-  //       "1_Primary": { trait: "Hair" },
-  //       "2_Secondary": { trait: "Mask Modifier" },
-  //       "3_Tertiary": { trait: "Mask" },
-  //       "4_Layer": { trait: "Accessory" },
-  //       "6_LineArt": { trait: "LineArt" },
-  //     } },
-  //     { name: "Canine/Mythic A1/VFX", trait: "VFX" },
-  //     {
-  //       name: "Lawyer Card",
-  //       trait: "Profession",
-  //       sublayerOptions: {
-  //         "2_Personality": { trait: "Personality" },
-  //         "3_Quote": { trait: "Quote" },
-  //         Seniority: { trait: "Seniority" },
-  //       },
-  //     },
-  //     { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
-  //   ],
-  // },
-  // {
-  //   growEditionSizeTo: 4,
-  //   namePrefix: "Lawyer",
-  //   //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
-  //   layersOrder: [
-  //     { name: "Canine/Mythic A2/BG", trait: "Background" },
-  //     {
-  //       name: "Canine/Mythic A2/Base",
-  //       trait: "Base",
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "Flair" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Mythic A2/Body",
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "Shirt" },
-  //         "2_Secondary": { trait: "Jacket" },
-  //         "3_Tertiary": { trait: "Robe" },
-  //         "6_LineArt": { trait: "LineArt" },
-  //       },
-  //     },
-  //     { name: "Canine/Mythic A2/Head", sublayerOptions: {
-  //       "1_Primary": { trait: "Hair" },
-  //       "2_Secondary": { trait: "Mask Modifier" },
-  //       "3_Tertiary": { trait: "Mask" },
-  //       "4_Layer": { trait: "Accessory" },
-  //       "6_LineArt": { trait: "LineArt" },
-  //     } },
-  //     { name: "Canine/Mythic A2/VFX", trait: "VFX" },
-  //     {
-  //       name: "Lawyer Card",
-  //       trait: "Profession",
-  //       sublayerOptions: {
-  //         "2_Personality": { trait: "Personality" },
-  //         "3_Quote": { trait: "Quote" },
-  //         Seniority: { trait: "Seniority" },
-  //       },
-  //     },
-  //     { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
-  //   ],
-  // },
-  // {
-  //   growEditionSizeTo: 5,
-  //   namePrefix: "Lawyer",
-  //   //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
-  //   layersOrder: [
-  //     { name: "Canine/Mythic A3/BG", trait: "Background" },
-  //     {
-  //       name: "Canine/Mythic A3/Base",
-  //       trait: "Base",
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "Flair" },
-  //       },
-  //     },
-  //     {
-  //       name: "Canine/Mythic A3/Body",
-  //       sublayerOptions: {
-  //         "1_Primary": { trait: "Shirt" },
-  //         "2_Secondary": { trait: "Jacket" },
-  //         "3_Tertiary": { trait: "Robe" },
-  //         "6_LineArt": { trait: "LineArt" },
-  //       },
-  //     },
-  //     { name: "Canine/Mythic A3/Head", sublayerOptions: {
-  //       "1_Primary": { trait: "Hair" },
-  //       "2_Secondary": { trait: "Mask Modifier" },
-  //       "3_Tertiary": { trait: "Mask" },
-  //       "4_Layer": { trait: "Accessory" },
-  //       "6_LineArt": { trait: "LineArt" },
-  //     } },
-  //     { name: "Canine/Mythic A3/VFX", trait: "VFX" },
-  //     {
-  //       name: "Lawyer Card",
-  //       trait: "Profession",
-  //       sublayerOptions: {
-  //         "2_Personality": { trait: "Personality" },
-  //         "3_Quote": { trait: "Quote" },
-  //         Seniority: { trait: "Seniority" },
-  //       },
-  //     },
-  //     { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
-  //   ],
-  // },
+  {
+    growEditionSizeTo: 3,
+    namePrefix: "Lawyer",
+    layersOrder: [
+      { name: "Canine/Mythic A1/BG", trait: "Background" },
+      {
+        name: "Canine/Mythic A1/Base",
+        trait: "Base",
+        sublayerOptions: {
+          "1_Primary": { trait: "Flair" },
+        },
+      },
+      {
+        name: "Canine/Mythic A1/Body",
+        sublayerOptions: {
+          "1_Primary": { trait: "Shirt" },
+          "2_Secondary": { trait: "Jacket" },
+          "3_Tertiary": { trait: "Robe" },
+          "6_LineArt": { trait: "LineArt" },
+        },
+      },
+      { name: "Canine/Mythic A1/Head", sublayerOptions: {
+        "1_Primary": { trait: "Hair" },
+        "2_Secondary": { trait: "Mask Modifier" },
+        "3_Tertiary": { trait: "Mask" },
+        "4_Layer": { trait: "Accessory" },
+        "6_LineArt": { trait: "LineArt" },
+      } },
+      { name: "Canine/Mythic A1/VFX", trait: "VFX" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+    ],
+  },
+
+  {
+    growEditionSizeTo: 4,
+    namePrefix: "Lawyer",
+    //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
+    layersOrder: [
+      { name: "Canine/Mythic A2/BG", trait: "Background" },
+      {
+        name: "Canine/Mythic A2/Base",
+        trait: "Base",
+        sublayerOptions: {
+          "1_Primary": { trait: "Flair" },
+        },
+      },
+      {
+        name: "Canine/Mythic A2/Body",
+        sublayerOptions: {
+          "1_Primary": { trait: "Shirt" },
+          "2_Secondary": { trait: "Jacket" },
+          "3_Tertiary": { trait: "Robe" },
+          "6_LineArt": { trait: "LineArt" },
+        },
+      },
+      { name: "Canine/Mythic A2/Head", sublayerOptions: {
+        "1_Primary": { trait: "Hair" },
+        "2_Secondary": { trait: "Mask Modifier" },
+        "3_Tertiary": { trait: "Mask" },
+        "4_Layer": { trait: "Accessory" },
+        "6_LineArt": { trait: "LineArt" },
+      } },
+      { name: "Canine/Mythic A2/VFX", trait: "VFX" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+    ],
+  },
+  
+  {
+    growEditionSizeTo: 5,
+    namePrefix: "Lawyer",
+    //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
+    layersOrder: [
+      { name: "Canine/Mythic A3/BG", trait: "Background" },
+      {
+        name: "Canine/Mythic A3/Base",
+        trait: "Base",
+        sublayerOptions: {
+          "1_Primary": { trait: "Flair" },
+        },
+      },
+      {
+        name: "Canine/Mythic A3/Body",
+        sublayerOptions: {
+          "1_Primary": { trait: "Shirt" },
+          "2_Secondary": { trait: "Jacket" },
+          "3_Tertiary": { trait: "Robe" },
+          "6_LineArt": { trait: "LineArt" },
+        },
+      },
+      { name: "Canine/Mythic A3/Head", sublayerOptions: {
+        "1_Primary": { trait: "Hair" },
+        "2_Secondary": { trait: "Mask Modifier" },
+        "3_Tertiary": { trait: "Mask" },
+        "4_Layer": { trait: "Accessory" },
+        "6_LineArt": { trait: "LineArt" },
+      } },
+      { name: "Canine/Mythic A3/VFX", trait: "VFX" },
+      {
+        name: "Lawyer Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+    ],
+  },
 
   // Goblin Investor
 
-  // {
-  //   growEditionSizeTo: 6,
-  //   namePrefix: "Investor", // Use to add a name to Metadata `name:`
-  //   resetNameIndex: true,
-  //   layersOrder: [
-  //     { name: "Background" },
-  //     {
-  //       name: "Goblin/Body",
-  //       sublayerOptions: {
-  //         "1_Layer": { trait: "Primary Coat" },
-  //         "2_Layer": { trait: "Seconary Coat" },
-  //         "3_Layer": { trait: "Ears" },
-  //         "6_LA": { trait: "LineArt" },
-  //       },
-  //     },
-  //     {
-  //       name: "Goblin/Expression",
-  //       sublayerOptions: {
-  //         "6_Gender": { trait: "Expression" },
-  //       },
-  //     },
-  //     { name: "Goblin/Body Art" },
-  //     { name: "Goblin/Hair", trait: "Hair" },
-  //     {
-  //       name: "Goblin/Clothing",
-  //       trait: "Clothing",
-  //       sublayerOptions: {
-  //         "5_Mulitply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     { name: "Goblin/Accessory", trait: "Accessory" },
-  //     { name: "Goblin/Eyewear", trait: "Eyewear" },
-  //     {
-  //       name: "Investor Card",
-  //       trait: "Profession",
-  //       sublayerOptions: {
-  //         "2_Personality": { trait: "Personality" },
-  //         "3_Quote": { trait: "Quote" },
-  //         Seniority: { trait: "Seniority" },
-  //       },
-  //     },
-  //     { name: "Investor Card Rarity/Premium", trait: "Rarity" },
-  //   ],
-  // },
+  {
+    growEditionSizeTo: 6,
+    namePrefix: "Investor", // Use to add a name to Metadata `name:`
+    resetNameIndex: true,
+    layersOrder: [
+      { name: "Background" },
+      {
+        name: "Goblin/Body",
+        sublayerOptions: {
+          "1_Layer": { trait: "Primary Coat" },
+          "2_Layer": { trait: "Seconary Coat" },
+          "3_Layer": { trait: "Ears" },
+          "6_LA": { trait: "LineArt" },
+        },
+      },
+      {
+        name: "Goblin/Expression",
+        sublayerOptions: {
+          "6_Gender": { trait: "Expression" },
+        },
+      },
+      { name: "Goblin/Body Art" },
+      { name: "Goblin/Hair", trait: "Hair" },
+      {
+        name: "Goblin/Clothing",
+        trait: "Clothing",
+        sublayerOptions: {
+          "5_Mulitply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      { name: "Goblin/Accessory", trait: "Accessory" },
+      { name: "Goblin/Eyewear", trait: "Eyewear" },
+      {
+        name: "Investor Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Investor Card Rarity/Premium", trait: "Rarity" },
+    ],
+  },
 
   // Hat combinations (hats go on top), we wont reset the index
 
-  // {
-  //   growEditionSizeTo: 7,
-  //   namePrefix: "Investor", // Use to add a name to Metadata `name:`
-  //   resetNameIndex: true,
-  //   layersOrder: [
-  //     { name: "Background" },
-  //     {
-  //       name: "Goblin/Body",
-  //       sublayerOptions: {
-  //         "1_Layer": { trait: "Primary Coat" },
-  //         "2_Layer": { trait: "Seconary Coat" },
-  //         "3_Layer": { trait: "Ears" },
-  //         "6_LA": { trait: "LineArt" },
-  //       },
-  //     },
-  //     {
-  //       name: "Goblin/Expression",
-  //       sublayerOptions: {
-  //         "6_Gender": { trait: "Expression" },
-  //       },
-  //     },
-  //     { name: "Goblin/Body Art" },
-  //     {
-  //       name: "Goblin/Clothing",
-  //       trait: "Clothing",
-  //       sublayerOptions: {
-  //         "5_Mulitply": { blend: "multiply", trait: "Multiply" },
-  //       },
-  //     },
-  //     { name: "Goblin/Accessory", trait: "Accessory" },
-  //     { name: "Goblin/Eyewear", trait: "Eyewear" },
-  //     { name: "Goblin/Hat", trait: "Hat" },
-  //     {
-  //       name: "Investor Card",
-  //       trait: "Profession",
-  //       sublayerOptions: {
-  //         "2_Personality": { trait: "Personality" },
-  //         "3_Quote": { trait: "Quote" },
-  //         Seniority: { trait: "Seniority" },
-  //       },
-  //     },
-  //     { name: "Investor Card Rarity/Premium", trait: "Rarity" },
-  //   ],
-  // },
+  {
+    growEditionSizeTo: 7,
+    namePrefix: "Investor", // Use to add a name to Metadata `name:`
+    resetNameIndex: true,
+    layersOrder: [
+      { name: "Background" },
+      {
+        name: "Goblin/Body",
+        sublayerOptions: {
+          "1_Layer": { trait: "Primary Coat" },
+          "2_Layer": { trait: "Seconary Coat" },
+          "3_Layer": { trait: "Ears" },
+          "6_LA": { trait: "LineArt" },
+        },
+      },
+      {
+        name: "Goblin/Expression",
+        sublayerOptions: {
+          "6_Gender": { trait: "Expression" },
+        },
+      },
+      { name: "Goblin/Body Art" },
+      {
+        name: "Goblin/Clothing",
+        trait: "Clothing",
+        sublayerOptions: {
+          "5_Mulitply": { blend: "multiply", trait: "Multiply" },
+        },
+      },
+      { name: "Goblin/Accessory", trait: "Accessory" },
+      { name: "Goblin/Eyewear", trait: "Eyewear" },
+      { name: "Goblin/Hat", trait: "Hat" },
+      {
+        name: "Investor Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
+      { name: "Investor Card Rarity/Premium", trait: "Rarity" },
+    ],
+  },
 
   // Goblin Mythic
 
   // Use Investor Smug 6 for the pirate quote
   {
-    growEditionSizeTo: 1,
+    growEditionSizeTo: 8,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -414,7 +417,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 2,
+    growEditionSizeTo: 9,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
@@ -453,7 +456,7 @@ const layerConfigurations = [
   },
 
   {
-    growEditionSizeTo: 3,
+    growEditionSizeTo: 10,
     namePrefix: "Investor", // Use to add a name to Metadata `name:`
     // resetNameIndex: true,
     layersOrder: [
