@@ -36,3 +36,12 @@ Layer Names
     },
 
 ```
+
+Multiply
+
+```
+    {
+      "trait_type": "Multiply",
+      "value": "Cloths_07_shadow_"
+    },
+```
