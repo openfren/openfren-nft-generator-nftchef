@@ -36,10 +36,9 @@ const background = {
 };
 
 const layerConfigurations = [
-
   // Canine Hat
   {
-    growEditionSizeTo: 9,
+    growEditionSizeTo: 1,
     namePrefix: "Lawyer",
     layersOrder: [
       { name: "Background" },
@@ -56,26 +55,29 @@ const layerConfigurations = [
         options: { bypassDNA: true },
         sublayerOptions: {
           "1_Primary": { trait: "LineArt" },
-          "4_LineArt": { trait: "LineArt" }
-        }
+          "4_LineArt": { trait: "LineArt" },
+        },
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "4_Multiply": { blend: "multiply", trait: "Multiply" }
+          "4_Multiply": { blend: "multiply", trait: "Multiply" },
         },
       },
       {
-        name: "Canine/Hat", trait: "Hat",
+        name: "Canine/Hat",
+        trait: "Hat",
         sublayerOptions: {
-          "3_Multiply": { blend: "multiply" , trait: "Multiply"}
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
         },
       },
       {
         name: "Canine/Accessory",
         trait: "Accessory",
-        sublayerOptions: { "3_Multiply": { blend: "multiply", trait: "Multiply" } },
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
       {
@@ -91,10 +93,9 @@ const layerConfigurations = [
     ],
   },
 
-
   // Canine Hair
   {
-    growEditionSizeTo: 19,
+    growEditionSizeTo: 2,
     namePrefix: "Lawyer",
     layersOrder: [
       { name: "Background" },
@@ -111,26 +112,29 @@ const layerConfigurations = [
         options: { bypassDNA: true },
         sublayerOptions: {
           "1_Primary": { trait: "LineArt" },
-          "4_LineArt": { trait: "LineArt" }
-        }
+          "4_LineArt": { trait: "LineArt" },
+        },
       },
       {
         name: "Canine/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "4_Multiply": { blend: "multiply", trait: "Multiply" }
+          "4_Multiply": { blend: "multiply", trait: "Multiply" },
         },
       },
       {
-        name: "Canine/Hair", trait: "Hair",
+        name: "Canine/Hair",
+        trait: "Hair",
         sublayerOptions: {
-          "3_Multiply": { blend: "multiply" , trait: "Multiply"}
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
         },
       },
       {
         name: "Canine/Accessory",
         trait: "Accessory",
-        sublayerOptions: { "3_Multiply": { blend: "multiply", trait: "Multiply" } },
+        sublayerOptions: {
+          "3_Multiply": { blend: "multiply", trait: "Multiply" },
+        },
       },
       { name: "Canine/EyeWear", trait: "Eyewear" },
       {
@@ -149,7 +153,7 @@ const layerConfigurations = [
   // CANINE MYTHIC
 
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 3,
     namePrefix: "Lawyer",
     layersOrder: [
       { name: "Canine/Mythic A1/BG" },
@@ -170,7 +174,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 21,
+    growEditionSizeTo: 4,
     namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
     layersOrder: [
@@ -185,14 +189,14 @@ const layerConfigurations = [
         sublayerOptions: {
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
-          Seniority: { trait: "Seniority" }
+          Seniority: { trait: "Seniority" },
         },
       },
       { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
     ],
   },
   {
-    growEditionSizeTo: 22,
+    growEditionSizeTo: 5,
     namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
     layersOrder: [
@@ -208,7 +212,7 @@ const layerConfigurations = [
           // "1_Background": { bypassDNA: true },
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
-          Seniority: { trait: "Seniority" }
+          Seniority: { trait: "Seniority" },
         },
       },
       { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
@@ -223,19 +227,41 @@ const layerConfigurations = [
     resetNameIndex: true,
     layersOrder: [
       { name: "Background" },
-      { name: "Goblin/Body" },
-      { name: "Goblin/Expression" },
+      {
+        name: "Goblin/Body",
+        sublayerOptions: {
+          "1_Layer": { trait: "Primary Coat" },
+          "2_Layer": { trait: "Seconary Coat" },
+          "3_Layer": { trait: "Ears" },
+          "6_LA": { trait: "LineArt" },
+        },
+      },
+      { name: "Goblin/Expression",
+      sublayerOptions: {
+        "6_Gender": { trait: "Expression" },
+      },
+    
+    },
       { name: "Goblin/Body Art" },
-      { name: "Goblin/Hair" },
+      { name: "Goblin/Hair", trait: "Hair" },
       {
         name: "Goblin/Clothing",
+        trait: "Clothing",
         sublayerOptions: {
           "5_Mulitply": { blend: "multiply" },
         },
       },
-      { name: "Goblin/Accessory" },
-      { name: "Goblin/Eyewear" },
-      { name: "Investor Card", trait: "Card" },
+      { name: "Goblin/Accessory", trait: "Accessory" },
+      { name: "Goblin/Eyewear", trait: "Eyewear" },
+      { name: "Investor Card", trait: "Profession", 
+      sublayerOptions: {
+        // "1_Background": { bypassDNA: true },
+        "2_Personality": { trait: "Personality" },
+        "3_Quote": { trait: "Quote" },
+        Seniority: { trait: "Seniority" },
+      },
+    
+    },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
     ],
   },
@@ -260,7 +286,15 @@ const layerConfigurations = [
       { name: "Goblin/Accessory" },
       { name: "Goblin/Eyewear" },
       { name: "Goblin/Hat" },
-      { name: "Investor Card", trait: "Card" },
+      {
+        name: "Investor Card",
+        trait: "Card",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Character Quote" },
+          Seniority: { trait: "Seniority" },
+        },
+      },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
     ],
   },
@@ -290,7 +324,6 @@ const layerConfigurations = [
       { name: "Goblin/Mythical A2/Head" },
       { name: "Investor Card", trait: "Card" },
       { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
-
     ],
   },
 
@@ -305,7 +338,6 @@ const layerConfigurations = [
       { name: "Goblin/Mythical A3/Head" },
       { name: "Investor Card", trait: "Card" },
       { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
-
     ],
   },
   // {
@@ -359,96 +391,112 @@ const incompatible = {
  */
 const forcedCombinations = {
   // floral: ["MetallicShades", "Golden Sakura"],
-  "Aggresive Masculine": ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
+  "Aggresive Masculine": [
+    "Aggressive",
+    "Lawyer Aggressive 1",
+    "Lawyer Aggressive 2",
+  ],
   "Devious Masculine": [
     "Devious",
-    "Lawyer_Devious_1",
-    "Lawyer_Devious_2",
-    "Lawyer_Devious_3",
-    "Lawyer_Devious_4",
-    "Lawyer_Devious_5",
-    "Lawyer_Devious_6",
+    "Lawyer Devious 1",
+    "Lawyer Devious 2",
+    "Lawyer Devious 3",
+    "Lawyer Devious 4",
+    "Lawyer Devious 5",
+    "Lawyer Devious 6",
   ],
   "Optimistic Masculine": [
     "Optimistic",
-    "Lawyer_Optimistic_1",
-    "Lawyer_Optimistic_2",
-    "Lawyer_Optimistic_3",
-    "Lawyer_Optimistic_4",
-    "Lawyer_Optimistic_5",
+    "Lawyer Optimistic 1",
+    "Lawyer Optimistic 2",
+    "Lawyer Optimistic 3",
+    "Lawyer Optimistic 4",
+    "Lawyer Optimistic 5",
   ],
-  "Regretful Masculine": ["Regretful", "Lawyer_Regretful_1"],
-  "Skeptical Masculine": ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
-  "Smug Masculine": ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
+  "Regretful Masculine": ["Regretful", "Lawyer Regretful 1"],
+  "Skeptical Masculine": [
+    "Skeptical",
+    "Lawyer Skeptical 1",
+    "Lawyer Skeptical 2",
+  ],
+  "Smug Masculine": ["Smug", "Lawyer Smug 1", "Lawyer Smug 2", "Lawyer Smug 3"],
 
   // Canine Female
-  "Aggresive Feminine": ["Aggressive", "Lawyer_Aggressive_1", "Lawyer_Aggressive_2"],
+  "Aggresive Feminine": [
+    "Aggressive",
+    "Lawyer Aggressive 1",
+    "Lawyer Aggressive 2",
+  ],
   "Devious Feminine": [
     "Devious",
-    "Lawyer_Devious_1",
-    "Lawyer_Devious_2",
-    "Lawyer_Devious_3",
-    "Lawyer_Devious_4",
-    "Lawyer_Devious_5",
-    "Lawyer_Devious_6",
+    "Lawyer Devious 1",
+    "Lawyer Devious 2",
+    "Lawyer Devious 3",
+    "Lawyer Devious 4",
+    "Lawyer Devious 5",
+    "Lawyer Devious 6",
   ],
   "Optimistic Feminine": [
     "Optimistic",
-    "Lawyer_Optimistic_1",
-    "Lawyer_Optimistic_2",
-    "Lawyer_Optimistic_3",
-    "Lawyer_Optimistic_4",
-    "Lawyer_Optimistic_5",
+    "Lawyer Optimistic 1",
+    "Lawyer Optimistic 2",
+    "Lawyer Optimistic 3",
+    "Lawyer Optimistic 4",
+    "Lawyer Optimistic 5",
   ],
-  "Regretful Feminine": ["Regretful", "Lawyer_Regretful_1"],
-  "Skeptical Feminine": ["Skeptical", "Lawyer_Skeptical_1", "Lawyer_Skeptical_2"],
-  "Smug Feminine": ["Smug", "Lawyer_Smug_1", "Lawyer_Smug_2", "Lawyer_Smug_3"],
+  "Regretful Feminine": ["Regretful", "Lawyer Regretful 1"],
+  "Skeptical Feminine": [
+    "Skeptical",
+    "Lawyer Skeptical 1",
+    "Lawyer Skeptical 2",
+  ],
+  "Smug Feminine": ["Smug", "Lawyer Smug 1", "Lawyer Smug 2", "Lawyer Smug 3"],
 
-  // Goclin Forced combinations
+  // Goblin Forced Expressions
 
-  Base_Body_primary_A: [
+  "Yellow": [
     "FaceSmugPrimary_smug_A",
     "FaceDeviousPrimary_devious_A",
     "FaceAggressivePrimary_aggressive_A",
     "FaceRegretfulPrimary_regretful_2_A",
     "FaceOptimisticPrimary_02_optimistic_2_A",
   ],
-  Base_Body_primary_B: [
+  "White": [
     "FaceSmugPrimary_smug_B",
     "FaceDeviousPrimary_devious_B",
     "FaceAggressivePrimary_aggressive_B",
     "FaceRegretfulPrimary_regretful_2_B",
     "FaceOptimisticPrimary_02_optimistic_2_B",
   ],
-  Base_Body_primary_C: [
+  "Red": [
     "FaceSmugPrimary_smug_C",
     "FaceDeviousPrimary_devious_C",
     "FaceAggressivePrimary_aggressive_C",
     "FaceRegretfulPrimary_regretful_2_C",
     "FaceOptimisticPrimary_02_optimistic_2_C",
   ],
-  Base_Body_primary_D: [
+  "Pink": [
     "FaceSmugPrimary_smug_D",
     "FaceDeviousPrimary_devious_D",
     "FaceAggressivePrimary_aggressive_D",
     "FaceRegretfulPrimary_regretful_2_D",
     "FaceOptimisticPrimary_02_optimistic_2_D",
   ],
-  Base_Body_primary_E: [
+  "Green": [
     "FaceSmugPrimary_smug_E",
     "FaceDeviousPrimary_devious_E",
     "FaceAggressivePrimary_aggressive_E",
     "FaceRegretfulPrimary_regretful_2_E",
     "FaceOptimisticPrimary_02_optimistic_2_E",
   ],
-  Base_Body_primary_F: [
+  "Blue": [
     "FaceSmugPrimary_smug_F",
     "FaceDeviousPrimary_devious_F",
     "FaceAggressivePrimary_aggressive_F",
     "FaceRegretfulPrimary_regretful_2_F",
     "FaceOptimisticPrimary_02_optimistic_2_F",
   ],
-  Base_Body_primary_G: [
+  "Black": [
     "FaceSmugPrimary_smug_G",
     "FaceDeviousPrimary_devious_G",
     "FaceAggressivePrimary_aggressive_G",
@@ -456,114 +504,117 @@ const forcedCombinations = {
     "FaceOptimisticPrimary_02_optimistic_2_G",
   ],
 
-  Base_Body_secondary_A_A: ["Base_Body_tertiary_A", "FaceSmugSecondary_smug_A"],
-  Base_Body_secondary_A_B: ["Base_Body_tertiary_B", "FaceSmugSecondary_smug_B"],
-  Base_Body_secondary_A_C: ["Base_Body_tertiary_C", "FaceSmugSecondary_smug_C"],
-  Base_Body_secondary_A_D: ["Base_Body_tertiary_D", "FaceSmugSecondary_smug_D"],
-  Base_Body_secondary_A_E: ["Base_Body_tertiary_E", "FaceSmugSecondary_smug_E"],
-  Base_Body_secondary_A_F: ["Base_Body_tertiary_F", "FaceSmugSecondary_smug_F"],
-  Base_Body_secondary_A_G: ["Base_Body_tertiary_G", "FaceSmugSecondary_smug_G"],
-  Base_Body_secondary_B_A: ["Base_Body_tertiary_A", "FaceSmugSecondary_smug_A"],
-  Base_Body_secondary_B_B: ["Base_Body_tertiary_B", "FaceSmugSecondary_smug_B"],
-  Base_Body_secondary_B_C: ["Base_Body_tertiary_C", "FaceSmugSecondary_smug_C"],
-  Base_Body_secondary_B_D: ["Base_Body_tertiary_D", "FaceSmugSecondary_smug_D"],
-  Base_Body_secondary_B_E: ["Base_Body_tertiary_E", "FaceSmugSecondary_smug_E"],
-  Base_Body_secondary_B_F: ["Base_Body_tertiary_F", "FaceSmugSecondary_smug_F"],
-  Base_Body_secondary_B_G: ["Base_Body_tertiary_G", "FaceSmugSecondary_smug_G"],
+  // Goblin Secondary Forced Combinations
 
-  Cloths_03_tshirt_A: ["Cloths_03_smiley face_B"],
-  Cloths_03_tshirt_B: ["Cloths_03_smiley face_A"],
-  Cloths_03_tshirt_C: ["Cloths_03_smiley face_B"],
-  Cloths_03_tshirt_D: ["Cloths_03_smiley face_B"],
-  Cloths_03_tshirt_E: ["Cloths_03_smiley face_B"],
-  Cloths_03_tshirt_F: ["Cloths_03_smiley face_B"],
-  Cloths_03_tshirt_G: ["Cloths_03_smiley face_B"],
+"Cornsilk Yellow Inner Body": ["Light Yellow Inner Ears", "FaceSmugSecondary_smug_A"],
+"Cream Inner Body":           ["Cream Inner Ears", "FaceSmugSecondary_smug_B"],
+"Light Pink Inner Body":      ["Light Orange Inner Ears", "FaceSmugSecondary_smug_C"],
+"Light Orange Inner Body":    ["Light Pink Inner Ears", "FaceSmugSecondary_smug_D"],
+"Light Green Inner Body":     ["Light Green Inner Ears", "FaceSmugSecondary_smug_E"],
+"Orange Peach Inner Body":    ["Orange Peach Inner Ears", "FaceSmugSecondary_smug_F"],
+"Lighter Green Inner Body":   ["Lighter Green Inner Ears", "FaceSmugSecondary_smug_G"],
+
+"Cornsilk Yellow Inner Shade":  ["Light Yellow Inner Ears", "FaceSmugSecondary_smug_A"],
+"Cream Inner Shade":            ["Cream Inner Ears", "FaceSmugSecondary_smug_B"],
+"Light Orange Inner Shade":     ["Light Orange Inner Ears", "FaceSmugSecondary_smug_C"],
+"Light Pink Inner Shade":       ["Light Pink Inner Ears", "FaceSmugSecondary_smug_D"],
+"Light Green Inner Shade":      ["Light Green Inner Ears", "FaceSmugSecondary_smug_E"],
+"Orange Peach Inner Shade":     ["Orange Peach Inner Ears", "FaceSmugSecondary_smug_F"],
+"Lighter Green Inner Shade":    ["Lighter Green Inner Ears", "FaceSmugSecondary_smug_G"],
+
+"Green Double Layer Shirt": ["Cloths_03_smiley face_B"],
+"Yellow Double Layer Shirt": ["Cloths_03_smiley face_A"],
+"Blue Double Layer Shirt": ["Cloths_03_smiley face_B"],
+"Black Double Layer Shirt": ["Cloths_03_smiley face_B"],
+"Orange Double Layer Shirt": ["Cloths_03_smiley face_B"],
+"Pink Double Layer Shirt": ["Cloths_03_smiley face_B"],
+"Red Double Layer Shirt": ["Cloths_03_smiley face_B"],
 
   // Goblin Personality
 
-  FaceAggressiveMale_aggressive_: [
+  "Aggressive Masculine": [
     "Aggressive",
-    "Investor_Aggressive_1",
-    "Investor_Aggressive_2",
-    "Investor_Agressive_3",
+    "Investor Aggressive 1",
+    "Investor Aggressive 2",
+    "Investor Aggressive 3",
   ],
-  FaceAggressiveFemale_aggressive_: [
+  "Aggressive Feminine": [
     "Aggressive",
-    "Investor_Aggressive_1",
-    "Investor_Aggressive_2",
-    "Investor_Agressive_3",
+    "Investor Aggressive 1",
+    "Investor Aggressive 2",
+    "Investor Aggressive 3",
   ],
-  FaceDeviousMale_devious_: [
+  "Devious Masculine": [
     "Devious",
-    "Investor_Devious_1",
-    "Investor_Devious_2",
-    "Investor_Devious_3",
-    "Investor_Devious_4",
-    "Investor_Devious_5",
+    "Investor Devious 1",
+    "Investor Devious 2",
+    "Investor Devious 3",
+    "Investor Devious 4",
+    "Investor Devious 5",
   ],
-  FaceDeviousFemale_devious_: [
+  "Devious Feminine": [
     "Devious",
-    "Investor_Devious_1",
-    "Investor_Devious_2",
-    "Investor_Devious_3",
-    "Investor_Devious_4",
-    "Investor_Devious_5",
+    "Investor Devious 1",
+    "Investor Devious 2",
+    "Investor Devious 3",
+    "Investor Devious 4",
+    "Investor Devious 5",
   ],
-  FaceRegretfulMale_02_regretful_2_: [
+  "Regretful Masculine": [
     "Regretful",
-    "Investor_Regretful_1",
-    "Investor_Regretful_2",
+    "Investor Regretful 1",
+    "Investor Regretful 2",
   ],
-  FaceRegretfulFemale_02_regretful_2_: [
+  "Regretful Feminine": [
     "Regretful",
-    "Investor_Regretful_1",
-    "Investor_Regretful_2",
+    "Investor Regretful 1",
+    "Investor Regretful 2",
   ],
-  FaceSmugMale_smug_: [
+  "Smug Masculine": [
     "Smug",
-    "Investor_Smug_1",
-    "Investor_Smug_2",
-    "Investor_Smug_3",
-    "Investor_Smug_4",
-    "Investor_Smug_5",
-    "Investor_Smug_6",
+    "Investor Smug 1",
+    "Investor Smug 2",
+    "Investor Smug 3",
+    "Investor Smug 4",
+    "Investor Smug 5",
+    "Investor Smug 6",
   ],
-  FaceSmugFemale_smug_: [
+  "Smug Feminine": [
     "Smug",
-    "Investor_Smug_1",
-    "Investor_Smug_2",
-    "Investor_Smug_3",
-    "Investor_Smug_4",
-    "Investor_Smug_5",
-    "Investor_Smug_6",
+    "Investor Smug 1",
+    "Investor Smug 2",
+    "Investor Smug 3",
+    "Investor Smug 4",
+    "Investor Smug 5",
+    "Investor Smug 6",
   ],
-  FaceOptimisticMale_02_optimistic_2_: [
+  "Optimistic Masculine": [
     "Optimistic",
-    "Investor_Optimistic_1",
-    "Investor_Optimistic_2",
-    "Investor_Optimistic_3",
-    "Investor_Optimistic_4",
-    "Investor_Optimistic_5",
-    "Investor_Optimistic_6",
+    "Investor Optimistic 1",
+    "Investor Optimistic 2",
+    "Investor Optimistic 3",
+    "Investor Optimistic 4",
+    "Investor Optimistic 5",
+    "Investor Optimistic 6",
   ],
-  FaceOptimisticFemale_02_optimistic_2_: [
+  "Optimistic Feminine": [
     "Optimistic",
-    "Investor_Optimistic_1",
-    "Investor_Optimistic_2",
-    "Investor_Optimistic_3",
-    "Investor_Optimistic_4",
-    "Investor_Optimistic_5",
-    "Investor_Optimistic_6",
+    "Investor Optimistic 1",
+    "Investor Optimistic 2",
+    "Investor Optimistic 3",
+    "Investor Optimistic 4",
+    "Investor Optimistic 5",
+    "Investor Optimistic 6",
   ],
-  FaceSkepticalMale_skeptical_: [
+  "Skepitcal Masculine": [
     "Skeptical",
-    "Investor_Skeptical_1",
-    "Investor_Skeptical_2",
+    "Investor Skeptical 1",
+    "Investor Skeptical 2",
   ],
-  FaceSkepticalFemale_skeptical_: [
+  "Skepitcal Feminine": [
     "Skeptical",
-    "Investor_Skeptical_1",
-    "Investor_Skeptical_2",
+    "Investor Skeptical 1",
+    "Investor Skeptical 2",
   ],
 };
 
