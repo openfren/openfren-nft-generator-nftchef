@@ -156,11 +156,31 @@ const layerConfigurations = [
     growEditionSizeTo: 3,
     namePrefix: "Lawyer",
     layersOrder: [
-      { name: "Canine/Mythic A1/BG" ,trait: "Background"},
-      { name: "Canine/Mythic A1/Base" ,trait: "Base"},
-      { name: "Canine/Mythic A1/Body" ,trait: "Clothing"},
-      { name: "Canine/Mythic A1/Head" ,trait: "Mask"},
-      { name: "Canine/Mythic A1/VFX" ,trait: "VFX"},
+      { name: "Canine/Mythic A1/BG", trait: "Background" },
+      {
+        name: "Canine/Mythic A1/Base",
+        trait: "Base",
+        sublayerOptions: {
+          "1_Primary": { trait: "Flair" },
+        },
+      },
+      {
+        name: "Canine/Mythic A1/Body",
+        sublayerOptions: {
+          "1_Primary": { trait: "Shirt" },
+          "2_Secondary": { trait: "Jacket" },
+          "3_Tertiary": { trait: "Robe" },
+          "6_LineArt": { trait: "LineArt" },
+        },
+      },
+      { name: "Canine/Mythic A1/Head", sublayerOptions: {
+        "1_Primary": { trait: "Hair" },
+        "2_Secondary": { trait: "Mask Modifier" },
+        "3_Tertiary": { trait: "Mask" },
+        "4_Layer": { trait: "Accessory" },
+        "6_LineArt": { trait: "LineArt" },
+      } },
+      { name: "Canine/Mythic A1/VFX", trait: "VFX" },
       {
         name: "Lawyer Card",
         trait: "Profession",
@@ -178,11 +198,31 @@ const layerConfigurations = [
     namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
     layersOrder: [
-      { name: "Canine/Mythic A2/BG" ,   trait: "Background"},
-      { name: "Canine/Mythic A2/Base" , trait: "Base"},
-      { name: "Canine/Mythic A2/Body",  trait: "Clothing" },
-      { name: "Canine/Mythic A2/Head",  trait: "Mask" },
-      { name: "Canine/Mythic A2/VFX" ,  trait: "VFX"},
+      { name: "Canine/Mythic A2/BG", trait: "Background" },
+      {
+        name: "Canine/Mythic A2/Base",
+        trait: "Base",
+        sublayerOptions: {
+          "1_Primary": { trait: "Flair" },
+        },
+      },
+      {
+        name: "Canine/Mythic A2/Body",
+        sublayerOptions: {
+          "1_Primary": { trait: "Shirt" },
+          "2_Secondary": { trait: "Jacket" },
+          "3_Tertiary": { trait: "Robe" },
+          "6_LineArt": { trait: "LineArt" },
+        },
+      },
+      { name: "Canine/Mythic A2/Head", sublayerOptions: {
+        "1_Primary": { trait: "Hair" },
+        "2_Secondary": { trait: "Mask Modifier" },
+        "3_Tertiary": { trait: "Mask" },
+        "4_Layer": { trait: "Accessory" },
+        "6_LineArt": { trait: "LineArt" },
+      } },
+      { name: "Canine/Mythic A2/VFX", trait: "VFX" },
       {
         name: "Lawyer Card",
         trait: "Profession",
@@ -200,16 +240,35 @@ const layerConfigurations = [
     namePrefix: "Lawyer",
     //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
     layersOrder: [
-      { name: "Canine/Mythic A3/BG" },
-      { name: "Canine/Mythic A3/Base" },
-      { name: "Canine/Mythic A3/Body" },
-      { name: "Canine/Mythic A3/Head" },
-      { name: "Canine/Mythic A3/VFX" },
+      { name: "Canine/Mythic A3/BG", trait: "Background" },
+      {
+        name: "Canine/Mythic A3/Base",
+        trait: "Base",
+        sublayerOptions: {
+          "1_Primary": { trait: "Flair" },
+        },
+      },
+      {
+        name: "Canine/Mythic A3/Body",
+        sublayerOptions: {
+          "1_Primary": { trait: "Shirt" },
+          "2_Secondary": { trait: "Jacket" },
+          "3_Tertiary": { trait: "Robe" },
+          "6_LineArt": { trait: "LineArt" },
+        },
+      },
+      { name: "Canine/Mythic A3/Head", sublayerOptions: {
+        "1_Primary": { trait: "Hair" },
+        "2_Secondary": { trait: "Mask Modifier" },
+        "3_Tertiary": { trait: "Mask" },
+        "4_Layer": { trait: "Accessory" },
+        "6_LineArt": { trait: "LineArt" },
+      } },
+      { name: "Canine/Mythic A3/VFX", trait: "VFX" },
       {
         name: "Lawyer Card",
         trait: "Profession",
         sublayerOptions: {
-          // "1_Background": { bypassDNA: true },
           "2_Personality": { trait: "Personality" },
           "3_Quote": { trait: "Quote" },
           Seniority: { trait: "Seniority" },
@@ -236,31 +295,32 @@ const layerConfigurations = [
           "6_LA": { trait: "LineArt" },
         },
       },
-      { name: "Goblin/Expression",
-      sublayerOptions: {
-        "6_Gender": { trait: "Expression" },
+      {
+        name: "Goblin/Expression",
+        sublayerOptions: {
+          "6_Gender": { trait: "Expression" },
+        },
       },
-    
-    },
       { name: "Goblin/Body Art" },
       { name: "Goblin/Hair", trait: "Hair" },
       {
         name: "Goblin/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "5_Mulitply": { blend: "multiply", trait: "Multiply"  },
+          "5_Mulitply": { blend: "multiply", trait: "Multiply" },
         },
       },
       { name: "Goblin/Accessory", trait: "Accessory" },
       { name: "Goblin/Eyewear", trait: "Eyewear" },
-      { name: "Investor Card", trait: "Profession", 
-      sublayerOptions: {
-        "2_Personality": { trait: "Personality" },
-        "3_Quote": { trait: "Quote" },
-        Seniority: { trait: "Seniority" },
+      {
+        name: "Investor Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          Seniority: { trait: "Seniority" },
+        },
       },
-    
-    },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
     ],
   },
@@ -282,31 +342,32 @@ const layerConfigurations = [
           "6_LA": { trait: "LineArt" },
         },
       },
-      { name: "Goblin/Expression",
-      sublayerOptions: {
-        "6_Gender": { trait: "Expression" },
+      {
+        name: "Goblin/Expression",
+        sublayerOptions: {
+          "6_Gender": { trait: "Expression" },
+        },
       },
-    
-    },
       { name: "Goblin/Body Art" },
       {
         name: "Goblin/Clothing",
         trait: "Clothing",
         sublayerOptions: {
-          "5_Mulitply": { blend: "multiply", trait: "Multiply"  },
+          "5_Mulitply": { blend: "multiply", trait: "Multiply" },
         },
       },
       { name: "Goblin/Accessory", trait: "Accessory" },
       { name: "Goblin/Eyewear", trait: "Eyewear" },
       { name: "Goblin/Hat", trait: "Hat" },
-      { name: "Investor Card", trait: "Profession", 
-      sublayerOptions: {
-        "2_Personality": { trait: "Personality" },
-        "3_Quote": { trait: "Quote" },
-        Seniority: { trait: "Seniority" },
+      {
+        name: "Investor Card",
+        trait: "Profession",
+        sublayerOptions: {
+          "2_Personality": { trait: "Personality" },
+          "3_Quote": { trait: "Quote" },
+          Seniority: { trait: "Seniority" },
+        },
       },
-    
-    },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
     ],
   },
@@ -467,49 +528,49 @@ const forcedCombinations = {
 
   // Goblin Forced Expressions
 
-  "Yellow": [
+  Yellow: [
     "FaceSmugPrimary_smug_A",
     "FaceDeviousPrimary_devious_A",
     "FaceAggressivePrimary_aggressive_A",
     "FaceRegretfulPrimary_regretful_2_A",
     "FaceOptimisticPrimary_02_optimistic_2_A",
   ],
-  "White": [
+  White: [
     "FaceSmugPrimary_smug_B",
     "FaceDeviousPrimary_devious_B",
     "FaceAggressivePrimary_aggressive_B",
     "FaceRegretfulPrimary_regretful_2_B",
     "FaceOptimisticPrimary_02_optimistic_2_B",
   ],
-  "Red": [
+  Red: [
     "FaceSmugPrimary_smug_C",
     "FaceDeviousPrimary_devious_C",
     "FaceAggressivePrimary_aggressive_C",
     "FaceRegretfulPrimary_regretful_2_C",
     "FaceOptimisticPrimary_02_optimistic_2_C",
   ],
-  "Pink": [
+  Pink: [
     "FaceSmugPrimary_smug_D",
     "FaceDeviousPrimary_devious_D",
     "FaceAggressivePrimary_aggressive_D",
     "FaceRegretfulPrimary_regretful_2_D",
     "FaceOptimisticPrimary_02_optimistic_2_D",
   ],
-  "Green": [
+  Green: [
     "FaceSmugPrimary_smug_E",
     "FaceDeviousPrimary_devious_E",
     "FaceAggressivePrimary_aggressive_E",
     "FaceRegretfulPrimary_regretful_2_E",
     "FaceOptimisticPrimary_02_optimistic_2_E",
   ],
-  "Blue": [
+  Blue: [
     "FaceSmugPrimary_smug_F",
     "FaceDeviousPrimary_devious_F",
     "FaceAggressivePrimary_aggressive_F",
     "FaceRegretfulPrimary_regretful_2_F",
     "FaceOptimisticPrimary_02_optimistic_2_F",
   ],
-  "Black": [
+  Black: [
     "FaceSmugPrimary_smug_G",
     "FaceDeviousPrimary_devious_G",
     "FaceAggressivePrimary_aggressive_G",
@@ -519,29 +580,65 @@ const forcedCombinations = {
 
   // Goblin Secondary Forced Combinations
 
-"Cornsilk Yellow Inner Body": ["Light Yellow Inner Ears", "FaceSmugSecondary_smug_A"],
-"Cream Inner Body":           ["Cream Inner Ears", "FaceSmugSecondary_smug_B"],
-"Light Pink Inner Body":      ["Light Orange Inner Ears", "FaceSmugSecondary_smug_C"],
-"Light Orange Inner Body":    ["Light Pink Inner Ears", "FaceSmugSecondary_smug_D"],
-"Light Green Inner Body":     ["Light Green Inner Ears", "FaceSmugSecondary_smug_E"],
-"Orange Peach Inner Body":    ["Orange Peach Inner Ears", "FaceSmugSecondary_smug_F"],
-"Light Green Inner Body":   ["Light Green Inner Ears", "FaceSmugSecondary_smug_G"],
+  "Cornsilk Yellow Inner Body": [
+    "Light Yellow Inner Ears",
+    "FaceSmugSecondary_smug_A",
+  ],
+  "Cream Inner Body": ["Cream Inner Ears", "FaceSmugSecondary_smug_B"],
+  "Light Pink Inner Body": [
+    "Light Orange Inner Ears",
+    "FaceSmugSecondary_smug_C",
+  ],
+  "Light Orange Inner Body": [
+    "Light Pink Inner Ears",
+    "FaceSmugSecondary_smug_D",
+  ],
+  "Light Green Inner Body": [
+    "Light Green Inner Ears",
+    "FaceSmugSecondary_smug_E",
+  ],
+  "Orange Peach Inner Body": [
+    "Orange Peach Inner Ears",
+    "FaceSmugSecondary_smug_F",
+  ],
+  "Light Green Inner Body": [
+    "Light Green Inner Ears",
+    "FaceSmugSecondary_smug_G",
+  ],
 
-"Cornsilk Yellow Inner Shade":  ["Light Yellow Inner Ears", "FaceSmugSecondary_smug_A"],
-"Cream Inner Shade":            ["Cream Inner Ears", "FaceSmugSecondary_smug_B"],
-"Light Orange Inner Shade":     ["Light Orange Inner Ears", "FaceSmugSecondary_smug_C"],
-"Light Pink Inner Shade":       ["Light Pink Inner Ears", "FaceSmugSecondary_smug_D"],
-"Light Green Inner Shade":      ["Light Green Inner Ears", "FaceSmugSecondary_smug_E"],
-"Orange Peach Inner Shade":     ["Orange Peach Inner Ears", "FaceSmugSecondary_smug_F"],
-"Light Green Inner Shade":    ["Light Green Inner Ears", "FaceSmugSecondary_smug_G"],
+  "Cornsilk Yellow Inner Shade": [
+    "Light Yellow Inner Ears",
+    "FaceSmugSecondary_smug_A",
+  ],
+  "Cream Inner Shade": ["Cream Inner Ears", "FaceSmugSecondary_smug_B"],
+  "Light Orange Inner Shade": [
+    "Light Orange Inner Ears",
+    "FaceSmugSecondary_smug_C",
+  ],
+  "Light Pink Inner Shade": [
+    "Light Pink Inner Ears",
+    "FaceSmugSecondary_smug_D",
+  ],
+  "Light Green Inner Shade": [
+    "Light Green Inner Ears",
+    "FaceSmugSecondary_smug_E",
+  ],
+  "Orange Peach Inner Shade": [
+    "Orange Peach Inner Ears",
+    "FaceSmugSecondary_smug_F",
+  ],
+  "Light Green Inner Shade": [
+    "Light Green Inner Ears",
+    "FaceSmugSecondary_smug_G",
+  ],
 
-"Green Double Layer Shirt": ["Cloths_03_smiley face_B"],
-"Yellow Double Layer Shirt": ["Cloths_03_smiley face_A"],
-"Blue Double Layer Shirt": ["Cloths_03_smiley face_B"],
-"Black Double Layer Shirt": ["Cloths_03_smiley face_B"],
-"Orange Double Layer Shirt": ["Cloths_03_smiley face_B"],
-"Pink Double Layer Shirt": ["Cloths_03_smiley face_B"],
-"Red Double Layer Shirt": ["Cloths_03_smiley face_B"],
+  "Green Double Layer Shirt": ["Cloths_03_smiley face_B"],
+  "Yellow Double Layer Shirt": ["Cloths_03_smiley face_A"],
+  "Blue Double Layer Shirt": ["Cloths_03_smiley face_B"],
+  "Black Double Layer Shirt": ["Cloths_03_smiley face_B"],
+  "Orange Double Layer Shirt": ["Cloths_03_smiley face_B"],
+  "Pink Double Layer Shirt": ["Cloths_03_smiley face_B"],
+  "Red Double Layer Shirt": ["Cloths_03_smiley face_B"],
 
   // Goblin Personality
 
