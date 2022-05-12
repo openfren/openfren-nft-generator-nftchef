@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from ast import Try
+from ast import If, Try
 import os, sys, getopt , shutil, fnmatch, csv, argparse
 
 
@@ -55,10 +55,19 @@ def create_layers(input_path):
     destination_path_index = header.index('Destination')
     destination_file_index = header.index('Destination Final Name')
 
-    construct_and_copy(reader,source_path_index, source_file_name_index, destination_path_index, destination_file_index)
+    try:
+        variant_index = header.index('Variant')
+        variant_exists = True;
+    except:
+        variant_exists = False;
+
+    if variant_exists:
+        construct_and_copy(reader,source_path_index, source_file_name_index, destination_path_index, destination_file_index, variant_exists, variant_index)
+    else:
+        construct_and_copy(reader,source_path_index, source_file_name_index, destination_path_index, destination_file_index)
 
 
-def construct_and_copy(reader, source_path_index, source_file_name_index, destination_path_index, destination_file_index):
+def construct_and_copy(reader, source_path_index, source_file_name_index, destination_path_index, destination_file_index, variant=False, variant_index=0):
     skipped_files = []
     for row in reader:
         try:
@@ -67,10 +76,29 @@ def construct_and_copy(reader, source_path_index, source_file_name_index, destin
                 source_path = source_path + '/'
 
             source_file = source_path + row[source_file_name_index]
-            destination_folder = output_path + 'layers/' + row[destination_path_index] 
-            destination_file = row[destination_file_index]
-            print('Copying ', row[source_file_name_index] , 'to' , destination_file)
-            copy_files(source_file, destination_folder,destination_file)            
+
+            if variant:
+                destination_file = row[destination_file_index]
+                variant_flag = row[variant_index]
+
+                if variant_flag == "" or variant_flag == " " :
+                    destination_folder = output_path + 'layers/M_' + row[destination_path_index] 
+                    print('Copying ', row[source_file_name_index] , 'to' , destination_file)
+                    copy_files(source_file, destination_folder,destination_file)        
+
+                    destination_folder = output_path + 'layers/F_' + row[destination_path_index] 
+                    print('Copying ', row[source_file_name_index] , 'to' , destination_file)    
+                    copy_files(source_file, destination_folder,destination_file)    
+                else:
+                    destination_folder = output_path + 'layers/' + variant_flag + '_' + row[destination_path_index] 
+                    print('Copying ', row[source_file_name_index] , 'to' , destination_file)    
+                    copy_files(source_file, destination_folder,destination_file) 
+
+            else:
+                destination_folder = output_path + 'layers/' + row[destination_path_index] 
+                destination_file = row[destination_file_index]
+                print('Copying ', row[source_file_name_index] , 'to' , destination_file)
+                copy_files(source_file, destination_folder,destination_file)            
         except:
             print("skipping file ", source_file)
             skipped_files.append(source_file)
