@@ -36,7 +36,7 @@ const background = {
 };
 
 // Number to Generate
-const BASE_NUM_GENERATION = 150
+const BASE_NUM_GENERATION = 10
 
 const F_LAWYER_HAIR   = BASE_NUM_GENERATION
 const F_LAWYER_HAT    = Math.round(F_LAWYER_HAIR + (BASE_NUM_GENERATION * 0.2))
@@ -112,6 +112,7 @@ const layerConfigurations = [
         },
       },
       { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
     ],
   },
 
@@ -169,6 +170,8 @@ const layerConfigurations = [
           },
         },
         { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
       ],
     },
 
@@ -226,6 +229,8 @@ const layerConfigurations = [
           },
         },
         { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
       ],
     },
   
@@ -283,6 +288,8 @@ const layerConfigurations = [
             },
           },
           { name: "Lawyer Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
         ],
       },
 
@@ -328,6 +335,8 @@ const layerConfigurations = [
         },
       },
       { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
@@ -371,6 +380,8 @@ const layerConfigurations = [
         },
       },
       { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
   
@@ -414,6 +425,8 @@ const layerConfigurations = [
         },
       },
       { name: "Lawyer Card Rarity/Mythic", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
@@ -463,6 +476,8 @@ const layerConfigurations = [
         },
       },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
@@ -510,6 +525,8 @@ const layerConfigurations = [
         },
       },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
@@ -557,6 +574,8 @@ const layerConfigurations = [
         },
       },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
@@ -604,6 +623,8 @@ const layerConfigurations = [
         },
       },
       { name: "Investor Card Rarity/Premium", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
@@ -646,6 +667,8 @@ const layerConfigurations = [
     },
       { name: "Investor Card", trait: "Profession" },
       { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
   {
@@ -684,6 +707,8 @@ const layerConfigurations = [
     },
       { name: "Investor Card", trait: "Profession" },
       { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
@@ -723,6 +748,8 @@ const layerConfigurations = [
     },
       { name: "Investor Card", trait: "Profession" },
       { name: "Investor Card Rarity/Mythic", trait: "Rarity" },
+      { name: "Development_Overlay", trait: "Development Tag"}
+
     ],
   },
 
