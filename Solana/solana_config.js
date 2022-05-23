@@ -10,47 +10,48 @@
  * Credits:
  * Metaplex.js util by https://github.com/DawidAbram
  */
-const NFTName = "OpenFren Test NFT" //This is the name there will be showen on your NFTs !!! Name can at max be 32 characters !!!
-const collectionName = "Founding Fren Test"; //This is used if mutiple collection is needed
-const collectionFamily = "Genesis"; // Many projects can belong to one family
-const symbol = "OPN"; // !!! Symbol can at max be 10 characters !!!
-
-const baseUriPrefix = ""; // OPTIONAL, if you need to prefix your image#.png with a baseURI
-const description = "Default Solana Description";
-const external_url = ""; // add optional external URL here, e.g, https://0n10nDivision.com
-
-const royaltyFee = 900; // This is 2% royalty fee
-
-/**
- * Array of Creators.
- * If there is more than one creator, add additional objects with address and share properties.
- */
-const creators = [
-  {
-    address: "8DAT4vBjpDixqswJUuFgxtQnCPSQKzUVGPZBmUtofVvL", // Wallet address for royalties
-    share: 100, // Amount of shares for this wallet, can be more than one, all have to add up to 100 together !!! And a maximum of 4 creators !!!
-  },
-  // uncomment and edit for additional creator.
-  // {
-  //   address: "second wallet address here",
-  //   share: 100,
-  // },
-];
-
-/**
- * Only change this if you need to generate data for video/VR/3d content
- */
-const propertyCategory = "image";
-
-module.exports = {
-  symbol,
-  NFTName,
-  collectionName,
-  collectionFamily,
-  description,
-  royaltyFee,
-  creators,
-  external_url,
-  baseUriPrefix,
-  propertyCategory,
-};
+ const NFTName = "Founding Frens" //This is the name there will be showen on your NFTs !!! Name can at max be 32 characters !!!
+ const collectionName = "Founding Frens"; //This is used if mutiple collection is needed
+ const collectionFamily = "OpenFren"; // Many projects can belong to one family
+ const symbol = "FFN"; // !!! Symbol can at max be 10 characters !!!
+ 
+ const baseUriPrefix = ""; // OPTIONAL, if you need to prefix your image#.png with a baseURI
+ const description = "The Founding Frens collection contains 1700 handcrafted NFTs of investors & lawyers in the OpenFren ecosystem. Want to know more? Checkout nft.openfren.com.";
+ const external_url = ""; // add optional external URL here, e.g, https://0n10nDivision.com
+ 
+ const royaltyFee = 750; // This is 2% royalty fee
+ 
+ /**
+  * Array of Creators.
+  * If there is more than one creator, add additional objects with address and share properties.
+  */
+ const creators = [
+   {
+     address: "8DAT4vBjpDixqswJUuFgxtQnCPSQKzUVGPZBmUtofVvL", // Wallet address for royalties
+     share: 100, // Amount of shares for this wallet, can be more than one, all have to add up to 100 together !!! And a maximum of 4 creators !!!
+   },
+   // uncomment and edit for additional creator.
+   // {
+   //   address: "second wallet address here",
+   //   share: 100,
+   // },
+ ];
+ 
+ /**
+  * Only change this if you need to generate data for video/VR/3d content
+  */
+ const propertyCategory = "image";
+ 
+ module.exports = {
+   symbol,
+   NFTName,
+   collectionName,
+   collectionFamily,
+   description,
+   royaltyFee,
+   creators,
+   external_url,
+   baseUriPrefix,
+   propertyCategory,
+ };
+ 
