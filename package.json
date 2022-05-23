@@ -1,7 +1,7 @@
 {
-  "name": "nft-kitchen-sink-generator",
+  "name": "openfren-nft-art-generator",
   "version": "2.0.2",
-  "description": "NFTChef Fork - Hard fork from HashLips Art Engine, is a tool used to create multiple different instances of artworks based on provided layers. Most config is the same as Hashlips",
+  "description": "OpenFren Art Engine a fork of NFTChef which is a hard fork from HashLips Art Engine, is a tool used to create multiple different instances of artworks based on provided layers. Most config is the same as Hashlips",
   "main": "index.js",
   "bin": "index.js",
   "engines": {
@@ -29,10 +29,10 @@
     "clean:solana": "rm -rvf build/solana",
     "clean:utils": "rm -rvf .utils_output/layers",
     "copy:goblin": "rm -rvf ./layers/Goblin | mv .utils_output/layers/Goblin layers/Goblin",
-    "rarity": "node utils/rarity.js",
+    "rarity": "node utils/rarity.js > build/rarityOutput.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Daniel Eugene Botha (HashLips), NFTChef",
+  "author": "motypes",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",

@@ -2,613 +2,32 @@ yarn run v1.22.17
 $ node utils/rarity.js
 /Users/mo/code/openfren/openfren-nft-generator-nftchef/src/config.js
 /Users/mo/code/openfren/openfren-nft-generator-nftchef/src/config.js
-how many attributes: 14
-how many attributes: 13
-how many attributes: 14
-how many attributes: 12
-how many attributes: 11
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 12
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 13
-how many attributes: 14
-how many attributes: 11
-how many attributes: 13
-how many attributes: 13
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 14
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 13
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 13
-how many attributes: 12
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 14
-how many attributes: 12
-how many attributes: 12
-how many attributes: 15
-how many attributes: 12
-how many attributes: 13
-how many attributes: 13
-how many attributes: 15
-how many attributes: 12
-how many attributes: 11
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 13
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 13
-how many attributes: 13
-how many attributes: 12
-how many attributes: 10
-how many attributes: 14
-how many attributes: 13
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 11
-how many attributes: 13
-how many attributes: 14
-how many attributes: 12
-how many attributes: 13
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
 how many attributes: 13
 how many attributes: 15
 how many attributes: 13
-how many attributes: 14
-how many attributes: 13
 how many attributes: 12
-how many attributes: 14
-how many attributes: 13
 how many attributes: 15
-how many attributes: 12
-how many attributes: 12
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 12
-how many attributes: 13
-how many attributes: 12
-how many attributes: 11
-how many attributes: 15
-how many attributes: 13
-how many attributes: 12
-how many attributes: 13
-how many attributes: 12
-how many attributes: 12
-how many attributes: 12
-how many attributes: 12
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 13
-how many attributes: 11
-how many attributes: 11
-how many attributes: 13
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 11
-how many attributes: 13
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 15
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 13
-how many attributes: 15
-how many attributes: 15
-how many attributes: 14
-how many attributes: 13
 how many attributes: 13
 how many attributes: 13
 how many attributes: 13
 how many attributes: 12
 how many attributes: 12
-how many attributes: 12
-how many attributes: 15
-how many attributes: 14
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 14
-how many attributes: 14
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 12
-how many attributes: 13
-how many attributes: 12
-how many attributes: 13
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 12
-how many attributes: 13
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 12
-how many attributes: 12
-how many attributes: 14
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 13
-how many attributes: 12
-how many attributes: 14
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 14
-how many attributes: 13
-how many attributes: 13
-how many attributes: 13
-how many attributes: 13
-how many attributes: 12
-how many attributes: 15
-how many attributes: 13
-how many attributes: 14
-how many attributes: 11
-how many attributes: 14
-how many attributes: 14
-how many attributes: 12
-how many attributes: 11
-how many attributes: 12
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 14
-how many attributes: 13
-how many attributes: 15
-how many attributes: 13
-how many attributes: 15
-how many attributes: 14
-how many attributes: 13
-how many attributes: 14
-how many attributes: 11
-how many attributes: 13
-how many attributes: 11
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 13
-how many attributes: 14
-how many attributes: 13
-how many attributes: 12
-how many attributes: 12
-how many attributes: 12
-how many attributes: 14
-how many attributes: 10
-how many attributes: 14
-how many attributes: 13
-how many attributes: 12
-how many attributes: 12
-how many attributes: 15
-how many attributes: 14
-how many attributes: 12
-how many attributes: 13
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 14
-how many attributes: 13
-how many attributes: 13
-how many attributes: 15
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 13
-how many attributes: 15
-how many attributes: 15
-how many attributes: 13
-how many attributes: 13
-how many attributes: 14
-how many attributes: 11
-how many attributes: 14
-how many attributes: 12
-how many attributes: 12
-how many attributes: 14
-how many attributes: 13
-how many attributes: 15
-how many attributes: 14
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 15
-how many attributes: 15
-how many attributes: 14
-how many attributes: 12
-how many attributes: 15
-how many attributes: 13
-how many attributes: 15
-how many attributes: 12
-how many attributes: 14
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 14
-how many attributes: 15
-how many attributes: 14
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 14
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
 how many attributes: 16
 how many attributes: 16
 how many attributes: 16
 how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
 how many attributes: 14
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
 how many attributes: 14
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 16
-how many attributes: 14
-how many attributes: 16
-how many attributes: 16
-how many attributes: 14
-how many attributes: 17
-how many attributes: 14
-how many attributes: 15
-how many attributes: 16
-how many attributes: 14
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
-how many attributes: 17
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
-how many attributes: 14
-how many attributes: 17
-how many attributes: 17
-how many attributes: 15
-how many attributes: 13
-how many attributes: 16
-how many attributes: 16
-how many attributes: 17
-how many attributes: 17
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
 how many attributes: 18
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 14
-how many attributes: 16
-how many attributes: 14
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 16
-how many attributes: 14
-how many attributes: 16
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 17
-how many attributes: 14
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
 how many attributes: 17
 how many attributes: 16
 how many attributes: 14
-how many attributes: 16
-how many attributes: 14
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 17
-how many attributes: 14
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
-how many attributes: 17
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 16
-how many attributes: 17
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 17
-how many attributes: 15
-how many attributes: 17
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 17
-how many attributes: 13
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 14
-how many attributes: 16
-how many attributes: 14
-how many attributes: 17
-how many attributes: 17
-how many attributes: 14
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 14
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 17
-how many attributes: 16
-how many attributes: 16
-how many attributes: 17
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 17
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 14
-how many attributes: 15
-how many attributes: 15
-how many attributes: 17
-how many attributes: 15
-how many attributes: 15
-how many attributes: 14
-how many attributes: 14
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 17
-how many attributes: 16
-how many attributes: 15
-how many attributes: 17
-how many attributes: 14
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 14
-how many attributes: 17
-how many attributes: 13
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 17
-how many attributes: 16
-how many attributes: 13
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 14
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
 how many attributes: 15
 how many attributes: 15
 how many attributes: 15
-how many attributes: 14
-how many attributes: 15
-how many attributes: 15
-how many attributes: 15
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 14
-how many attributes: 14
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 13
-how many attributes: 15
-how many attributes: 14
-how many attributes: 15
-how many attributes: 13
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 15
-how many attributes: 15
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
-how many attributes: 16
-how many attributes: 15
-how many attributes: 14
-how many attributes: 17
-how many attributes: 16
-how many attributes: 17
-how many attributes: 15
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 16
-how many attributes: 15
-how many attributes: 16
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 15
-how many attributes: 14
-how many attributes: 16
-how many attributes: 15
-how many attributes: 13
-how many attributes: 14
-how many attributes: 15
-how many attributes: 16
-how many attributes: 13
 how many attributes: 11
 how many attributes: 11
 how many attributes: 11
-attributeCounts 10
 attributeCounts 11
 attributeCounts 12
 attributeCounts 13
@@ -617,2143 +36,639 @@ attributeCounts 15
 attributeCounts 16
 attributeCounts 17
 attributeCounts 18
-{ count: 606 }
+{ count: 26 }
 {
   '1_Layer': {
-    'FaceAccessories_01_star eye tattoo_A': { count: 1, percentage: '0.1650' },
-    'FaceAccessories_01_star eye tattoo_B': { count: 1, percentage: '0.1650' },
-    'FaceAccessories_01_star eye tattoo_D': { count: 1, percentage: '0.1650' },
-    'FaceAccessories_01_star eye tattoo_F': { count: 3, percentage: '0.4950' },
-    FaceAggressivePrimary_aggressive_A: { count: 5, percentage: '0.8251' },
-    FaceAggressivePrimary_aggressive_B: { count: 7, percentage: '1.1551' },
-    FaceAggressivePrimary_aggressive_C: { count: 10, percentage: '1.6502' },
-    FaceAggressivePrimary_aggressive_D: { count: 6, percentage: '0.9901' },
-    FaceAggressivePrimary_aggressive_E: { count: 6, percentage: '0.9901' },
-    FaceAggressivePrimary_aggressive_F: { count: 9, percentage: '1.4851' },
-    FaceAggressivePrimary_aggressive_G: { count: 6, percentage: '0.9901' },
-    FaceDeviousPrimary_devious_A: { count: 9, percentage: '1.4851' },
-    FaceDeviousPrimary_devious_B: { count: 3, percentage: '0.4950' },
-    FaceDeviousPrimary_devious_C: { count: 6, percentage: '0.9901' },
-    FaceDeviousPrimary_devious_D: { count: 7, percentage: '1.1551' },
-    FaceDeviousPrimary_devious_E: { count: 4, percentage: '0.6601' },
-    FaceDeviousPrimary_devious_F: { count: 5, percentage: '0.8251' },
-    FaceDeviousPrimary_devious_G: { count: 8, percentage: '1.3201' },
-    FaceOptimisticPrimary_02_optimistic_2_A: { count: 13, percentage: '2.1452' },
-    FaceOptimisticPrimary_02_optimistic_2_B: { count: 6, percentage: '0.9901' },
-    FaceOptimisticPrimary_02_optimistic_2_C: { count: 10, percentage: '1.6502' },
-    FaceOptimisticPrimary_02_optimistic_2_D: { count: 3, percentage: '0.4950' },
-    FaceOptimisticPrimary_02_optimistic_2_E: { count: 8, percentage: '1.3201' },
-    FaceOptimisticPrimary_02_optimistic_2_F: { count: 9, percentage: '1.4851' },
-    FaceOptimisticPrimary_02_optimistic_2_G: { count: 7, percentage: '1.1551' },
-    FaceRegretfulPrimary_regretful_2_A: { count: 7, percentage: '1.1551' },
-    FaceRegretfulPrimary_regretful_2_B: { count: 9, percentage: '1.4851' },
-    FaceRegretfulPrimary_regretful_2_C: { count: 9, percentage: '1.4851' },
-    FaceRegretfulPrimary_regretful_2_D: { count: 10, percentage: '1.6502' },
-    FaceRegretfulPrimary_regretful_2_E: { count: 7, percentage: '1.1551' },
-    FaceRegretfulPrimary_regretful_2_F: { count: 12, percentage: '1.9802' },
-    FaceRegretfulPrimary_regretful_2_G: { count: 9, percentage: '1.4851' },
-    FaceSmugSecondary_smug_A: { count: 8, percentage: '1.3201' },
-    FaceSmugSecondary_smug_B: { count: 5, percentage: '0.8251' },
-    FaceSmugSecondary_smug_C: { count: 11, percentage: '1.8152' },
-    FaceSmugSecondary_smug_D: { count: 7, percentage: '1.1551' },
-    FaceSmugSecondary_smug_F: { count: 10, percentage: '1.6502' },
-    FaceSmugSecondary_smug_G: { count: 8, percentage: '1.3201' }
+    FaceAggressivePrimary_aggressive_A: { count: 1, percentage: '3.8462' },
+    FaceDeviousPrimary_devious_G: { count: 1, percentage: '3.8462' },
+    FaceOptimisticPrimary_02_optimistic_2_C: { count: 1, percentage: '3.8462' },
+    FaceOptimisticPrimary_02_optimistic_2_F: { count: 1, percentage: '3.8462' },
+    FaceRegretfulPrimary_regretful_2_A: { count: 1, percentage: '3.8462' },
+    FaceRegretfulPrimary_regretful_2_C: { count: 1, percentage: '3.8462' },
+    FaceRegretfulPrimary_regretful_2_E: { count: 1, percentage: '3.8462' },
+    FaceSmugSecondary_smug_C: { count: 1, percentage: '3.8462' },
+    FaceSmugSecondary_smug_D: { count: 1, percentage: '3.8462' },
+    FaceSmugSecondary_smug_F: { count: 1, percentage: '3.8462' }
   },
   '2_Layer': {
-    FaceSmugPrimary_smug_A: { count: 7, percentage: '1.1551' },
-    FaceSmugPrimary_smug_B: { count: 7, percentage: '1.1551' },
-    FaceSmugPrimary_smug_C: { count: 8, percentage: '1.3201' },
-    FaceSmugPrimary_smug_D: { count: 7, percentage: '1.1551' },
-    FaceSmugPrimary_smug_E: { count: 6, percentage: '0.9901' },
-    FaceSmugPrimary_smug_F: { count: 6, percentage: '0.9901' },
-    FaceSmugPrimary_smug_G: { count: 8, percentage: '1.3201' }
+    FaceSmugPrimary_smug_A: { count: 1, percentage: '3.8462' },
+    FaceSmugPrimary_smug_C: { count: 1, percentage: '3.8462' },
+    FaceSmugPrimary_smug_G: { count: 1, percentage: '3.8462' }
   },
   '6_LA': {
-    'FaceAccessories_01_line_art_-': { count: 32, percentage: '5.2805' }
+    'FaceAccessories_01_line_art_-': { count: 1, percentage: '3.8462' }
   },
   Accessory: {
-    'Basic Cigarette': { count: 26, percentage: '4.2904' },
-    'Black Boba Tea': { count: 5, percentage: '0.8251' },
-    'Black Diamond Ear Ring': { count: 6, percentage: '0.9901' },
-    'Black Face Mask': { count: 11, percentage: '1.8152' },
-    'Blue Boba Tea': { count: 3, percentage: '0.4950' },
-    'Blue Chewing Gum': { count: 17, percentage: '2.8053' },
-    'Blue Cigarette': { count: 5, percentage: '0.8251' },
-    'Blue Octopus': { count: 1, percentage: '0.1650' },
-    'Bright Purple Boba Tea': { count: 6, percentage: '0.9901' },
-    'Bright Red Boba Tea': { count: 4, percentage: '0.6601' },
-    'Bright Yellow Boba Tea': { count: 2, percentage: '0.3300' },
-    'Cyan Boba Tea': { count: 4, percentage: '0.6601' },
-    'Cyber Cigarette': { count: 20, percentage: '3.3003' },
-    'Dark Grey Boba Tea': { count: 6, percentage: '0.9901' },
-    'Desire Red Earcuff': { count: 6, percentage: '0.9901' },
-    'Emerald Green Face Mask': { count: 7, percentage: '1.1551' },
-    'Glaucous Blue Face Mask': { count: 1, percentage: '0.1650' },
-    'Green Boba Tea': { count: 5, percentage: '0.8251' },
-    'Green Chewing Gum': { count: 19, percentage: '3.1353' },
-    'Green Cigarette': { count: 7, percentage: '1.1551' },
-    'Green Coconut Martini': { count: 6, percentage: '0.9901' },
-    'Green Face Mask': { count: 10, percentage: '1.6502' },
-    'Grey Octopus': { count: 1, percentage: '0.1650' },
-    'Indigo Coconut Martini': { count: 2, percentage: '0.3300' },
-    'Lanzones Yellow Face Mask': { count: 7, percentage: '1.1551' },
-    'Light Blue Coconut Martini': { count: 11, percentage: '1.8152' },
-    'Light Blue Diamond Ear Ring': { count: 13, percentage: '2.1452' },
-    'Light Grey Earcuff': { count: 6, percentage: '0.9901' },
-    'Lime Green Boba Tea': { count: 4, percentage: '0.6601' },
-    'Magenta Coconut Martini': { count: 6, percentage: '0.9901' },
-    'Magenta Earcuff': { count: 5, percentage: '0.8251' },
-    'Maroon Ribbon': { count: 1, percentage: '0.1650' },
-    'Mint Green Chewing Gum': { count: 9, percentage: '1.4851' },
-    'Mint Green Earcuff': { count: 6, percentage: '0.9901' },
-    'Munsell Yellow Earcuff': { count: 8, percentage: '1.3201' },
-    'Orange Chewing Gum': { count: 2, percentage: '0.3300' },
-    'Orange Coconut Martini': { count: 9, percentage: '1.4851' },
-    'Orange Face Mask': { count: 2, percentage: '0.3300' },
-    'Orange Octopus': { count: 1, percentage: '0.1650' },
-    'Pale Peach Yellow Earcuff': { count: 6, percentage: '0.9901' },
-    'Pink Boba Tea': { count: 5, percentage: '0.8251' },
-    'Pink Chewing Gum': { count: 11, percentage: '1.8152' },
-    'Pink Coconut Martini': { count: 11, percentage: '1.8152' },
-    'Pink Face Mask': { count: 6, percentage: '0.9901' },
-    'Pink Ribbon': { count: 1, percentage: '0.1650' },
-    'Purple Chewing Gum': { count: 13, percentage: '2.1452' },
-    'Purple Cigarette': { count: 11, percentage: '1.8152' },
-    'Purple Coconut Martini': { count: 8, percentage: '1.3201' },
-    'Purple Diamond Ear Ring': { count: 7, percentage: '1.1551' },
-    'Purple Face Mask': { count: 9, percentage: '1.4851' },
-    'Red Boba Tea': { count: 5, percentage: '0.8251' },
-    'Red Coconut Martini': { count: 5, percentage: '0.8251' },
-    'Red Diamond Ear Ring': { count: 4, percentage: '0.6601' },
-    'Red Face Mask': { count: 2, percentage: '0.3300' },
-    'Royal Blue Earcuff': { count: 2, percentage: '0.3300' },
-    'Ruby Red Face Mask': { count: 5, percentage: '0.8251' },
-    'Tawny Brown Face Mask': { count: 4, percentage: '0.6601' },
-    'Teal Face Mask': { count: 1, percentage: '0.1650' },
-    'Violet Face Mask': { count: 2, percentage: '0.3300' },
-    'Violet Ribbon': { count: 1, percentage: '0.1650' },
-    'White Boba Tea': { count: 10, percentage: '1.6502' },
-    'White Cigarette': { count: 3, percentage: '0.4950' },
-    'White Diamond Ear Ring': { count: 13, percentage: '2.1452' },
-    'Yellow Boba Tea': { count: 7, percentage: '1.1551' },
-    'Yellow Chewing Gum': { count: 15, percentage: '2.4752' },
-    'Yellow Cigarette': { count: 6, percentage: '0.9901' },
-    'Yellow Coconut Martini': { count: 10, percentage: '1.6502' },
-    'Yellow Diamond Ear Ring': { count: 5, percentage: '0.8251' },
-    'Yellow Face Mask': { count: 9, percentage: '1.4851' }
+    'Black Diamond Ear Ring': { count: 1, percentage: '3.8462' },
+    'Black Face Mask': { count: 1, percentage: '3.8462' },
+    'Blue Chewing Gum': { count: 1, percentage: '3.8462' },
+    'Blue Octopus': { count: 1, percentage: '3.8462' },
+    'Bright Purple Boba Tea': { count: 1, percentage: '3.8462' },
+    'Bright Yellow Boba Tea': { count: 1, percentage: '3.8462' },
+    'Grey Octopus': { count: 1, percentage: '3.8462' },
+    'Maroon Ribbon': { count: 1, percentage: '3.8462' },
+    'Mint Green Earcuff': { count: 1, percentage: '3.8462' },
+    'Orange Face Mask': { count: 1, percentage: '3.8462' },
+    'Orange Octopus': { count: 1, percentage: '3.8462' },
+    'Pink Cigarette': { count: 1, percentage: '3.8462' },
+    'Pink Ribbon': { count: 1, percentage: '3.8462' },
+    'Ruby Red Face Mask': { count: 2, percentage: '7.6923' },
+    'Tawny Brown Face Mask': { count: 1, percentage: '3.8462' },
+    'Violet Ribbon': { count: 1, percentage: '3.8462' },
+    'White Boba Tea': { count: 1, percentage: '3.8462' },
+    'Yellow Face Mask': { count: 1, percentage: '3.8462' }
   },
   Background: {
-    Alihossein: { count: 12, percentage: '1.9802' },
-    Amethyst: { count: 17, percentage: '2.8053' },
-    Ash: { count: 20, percentage: '3.3003' },
-    Atlas: { count: 11, percentage: '1.8152' },
-    Autumn: { count: 13, percentage: '2.1452' },
-    'Azur Lane': { count: 15, percentage: '2.4752' },
-    'Back to Earth': { count: 11, percentage: '1.8152' },
-    Blooker20: { count: 14, percentage: '2.3102' },
-    'Broken Hearts': { count: 10, percentage: '1.6502' },
-    'Calm Darya': { count: 9, percentage: '1.4851' },
-    Candy: { count: 11, percentage: '1.8152' },
-    'Cherry Blossom': { count: 9, percentage: '1.4851' },
-    'Cocoaa Ice': { count: 11, percentage: '1.8152' },
-    Combi: { count: 8, percentage: '1.3201' },
-    'Crazy Orange I': { count: 5, percentage: '0.8251' },
-    DIMIGO: { count: 8, percentage: '1.3201' },
-    Dania: { count: 10, percentage: '1.6502' },
-    Dawn: { count: 11, percentage: '1.8152' },
-    'Deep Space': { count: 15, percentage: '2.4752' },
-    'Dirty Fog': { count: 11, percentage: '1.8152' },
-    'Emerald Water': { count: 15, percentage: '2.4752' },
-    Flare: { count: 13, percentage: '2.1452' },
-    'Forever Lost': { count: 12, percentage: '1.9802' },
-    'Golden Ship Deck': { count: 3, percentage: '0.4950' },
-    Hazel: { count: 5, percentage: '0.8251' },
-    Horizon: { count: 14, percentage: '2.3102' },
-    Instagram: { count: 6, percentage: '0.9901' },
-    Jshine: { count: 3, percentage: '0.4950' },
-    'Kanagawa Crimson Sunset': { count: 1, percentage: '0.1650' },
-    'Kanagawa Crimson Sunset ': { count: 2, percentage: '0.3300' },
-    'Lemon Twist': { count: 15, percentage: '2.4752' },
-    'Mango Pulp': { count: 10, percentage: '1.6502' },
-    'Master Card': { count: 25, percentage: '4.1254' },
-    Mild: { count: 13, percentage: '2.1452' },
-    Mini: { count: 5, percentage: '0.8251' },
-    Mirage: { count: 9, percentage: '1.4851' },
-    Moss: { count: 7, percentage: '1.1551' },
-    'Neon Life': { count: 10, percentage: '1.6502' },
-    'Pastel Orange at the Sun': { count: 27, percentage: '4.4554' },
-    'Purple Bliss': { count: 8, percentage: '1.3201' },
-    Reef: { count: 18, percentage: '2.9703' },
-    'Rose Water': { count: 18, percentage: '2.9703' },
-    'Sea Blizz': { count: 23, percentage: '3.7954' },
-    Shore: { count: 10, percentage: '1.6502' },
-    Stripe: { count: 4, percentage: '0.6601' },
-    'Teal Love': { count: 16, percentage: '2.6403' },
-    'The Blue Lagoon': { count: 7, percentage: '1.1551' },
-    Timber: { count: 14, percentage: '2.3102' },
-    Tranquil: { count: 10, percentage: '1.6502' },
-    Vanusa: { count: 8, percentage: '1.3201' },
-    'Vice City': { count: 14, percentage: '2.3102' },
-    Windy: { count: 11, percentage: '1.8152' },
-    Wiretap: { count: 19, percentage: '3.1353' }
+    Amethyst: { count: 1, percentage: '3.8462' },
+    'Azur Lane': { count: 1, percentage: '3.8462' },
+    'Back to Earth': { count: 1, percentage: '3.8462' },
+    Blooker20: { count: 1, percentage: '3.8462' },
+    Candy: { count: 1, percentage: '3.8462' },
+    'Cherry Blossom': { count: 1, percentage: '3.8462' },
+    'Cocoaa Ice': { count: 1, percentage: '3.8462' },
+    'Golden Ship Deck': { count: 3, percentage: '11.5385' },
+    Hazel: { count: 2, percentage: '7.6923' },
+    Horizon: { count: 1, percentage: '3.8462' },
+    'Kanagawa Crimson Sunset': { count: 1, percentage: '3.8462' },
+    'Kanagawa Crimson Sunset ': { count: 2, percentage: '7.6923' },
+    'Mango Pulp': { count: 1, percentage: '3.8462' },
+    'Master Card': { count: 2, percentage: '7.6923' },
+    'Neon Life': { count: 1, percentage: '3.8462' },
+    Shore: { count: 1, percentage: '3.8462' },
+    'Teal Love': { count: 1, percentage: '3.8462' },
+    'The Blue Lagoon': { count: 1, percentage: '3.8462' },
+    Vanusa: { count: 1, percentage: '3.8462' },
+    'Vice City': { count: 1, percentage: '3.8462' },
+    Wiretap: { count: 1, percentage: '3.8462' }
   },
   Beard: {
-    'Black Beard': { count: 1, percentage: '0.1650' },
-    'Brown Beard': { count: 1, percentage: '0.1650' },
-    'Yellow Beard': { count: 1, percentage: '0.1650' }
+    'Black Beard': { count: 1, percentage: '3.8462' },
+    'Brown Beard': { count: 1, percentage: '3.8462' },
+    'Yellow Beard': { count: 1, percentage: '3.8462' }
   },
   'Character Quote': {
-    'Lawyer Aggressive 1': { count: 32, percentage: '5.2805' },
-    'Lawyer Aggressive 2': { count: 37, percentage: '6.1056' },
-    'Lawyer Devious 1': { count: 10, percentage: '1.6502' },
-    'Lawyer Devious 2': { count: 6, percentage: '0.9901' },
-    'Lawyer Devious 3': { count: 12, percentage: '1.9802' },
-    'Lawyer Devious 4': { count: 13, percentage: '2.1452' },
-    'Lawyer Devious 5': { count: 20, percentage: '3.3003' },
-    'Lawyer Devious 6': { count: 8, percentage: '1.3201' },
-    'Lawyer Optimistic 1': { count: 9, percentage: '1.4851' },
-    'Lawyer Optimistic 2': { count: 14, percentage: '2.3102' },
-    'Lawyer Optimistic 3': { count: 6, percentage: '0.9901' },
-    'Lawyer Optimistic 4': { count: 6, percentage: '0.9901' },
-    'Lawyer Optimistic 5': { count: 19, percentage: '3.1353' },
-    'Lawyer Regretful 1': { count: 13, percentage: '2.1452' },
-    'Lawyer Skeptical 1': { count: 29, percentage: '4.7855' },
-    'Lawyer Skeptical 2': { count: 41, percentage: '6.7657' },
-    'Lawyer Smug 1': { count: 12, percentage: '1.9802' },
-    'Lawyer Smug 2': { count: 5, percentage: '0.8251' },
-    'Lawyer Smug 3': { count: 8, percentage: '1.3201' }
+    'Lawyer Devious 1': { count: 1, percentage: '3.8462' },
+    'Lawyer Devious 6': { count: 1, percentage: '3.8462' },
+    'Lawyer Optimistic 4': { count: 2, percentage: '7.6923' },
+    'Lawyer Regretful 1': { count: 1, percentage: '3.8462' },
+    'Lawyer Skeptical 1': { count: 2, percentage: '7.6923' },
+    'Lawyer Skeptical 2': { count: 3, percentage: '11.5385' }
   },
   Clothing: {
-    'Amber Yellow Cyber Jacket': { count: 6, percentage: '0.9901' },
-    'Black Bomber Jacket': { count: 5, percentage: '0.8251' },
-    'Black Double Layer Shirt': { count: 5, percentage: '0.8251' },
-    'Black Fur Collar Coat': { count: 4, percentage: '0.6601' },
-    'Black Hawaiian Shirt': { count: 9, percentage: '1.4851' },
-    'Black Investor Vest': { count: 11, percentage: '1.8152' },
-    'Black Light Autumn Wear': { count: 15, percentage: '2.4752' },
-    'Black Open Shoulder Dress': { count: 2, percentage: '0.3300' },
-    'Black Summer Jacket': { count: 6, percentage: '0.9901' },
-    'Blue Bomber Jacket': { count: 6, percentage: '0.9901' },
-    'Blue Double Layer Shirt': { count: 7, percentage: '1.1551' },
-    'Blue Fur Collar Coat': { count: 3, percentage: '0.4950' },
-    'Blue Hawaiian Shirt': { count: 9, percentage: '1.4851' },
-    'Blue Open Shoulder Dress': { count: 5, percentage: '0.8251' },
-    'Blue Smart Suit': { count: 5, percentage: '0.8251' },
-    'Blue Summer Jacket': { count: 4, percentage: '0.6601' },
-    'Brown Investor Vest': { count: 11, percentage: '1.8152' },
-    'Brown Vintage Coat': { count: 8, percentage: '1.3201' },
-    'Cadet Blue Cyber Jacket': { count: 9, percentage: '1.4851' },
-    'Carrot Winter Scarf': { count: 1, percentage: '0.1650' },
-    'Cobalt Blue Smart Suit': { count: 3, percentage: '0.4950' },
-    'Crimson Red Cyber Jacket': { count: 5, percentage: '0.8251' },
-    'Cyan Cyber Jacket': { count: 6, percentage: '0.9901' },
-    'Cyan Smart Suit': { count: 1, percentage: '0.1650' },
-    'Dark Black Varsity Jacket': { count: 3, percentage: '0.4950' },
-    'Dark Blue Varsity Jacket': { count: 8, percentage: '1.3201' },
-    'Dark Green Winter Scarf': { count: 1, percentage: '0.1650' },
-    'Dark Grey Vintage Coat': { count: 8, percentage: '1.3201' },
-    'Dark Grey Winter Scarf': { count: 2, percentage: '0.3300' },
-    'Deep Red Winter Scarf': { count: 1, percentage: '0.1650' },
-    'Fandango Winter Scarf': { count: 4, percentage: '0.6601' },
-    'Gingerbread Brown Smart Suit': { count: 1, percentage: '0.1650' },
-    'Graphite Grey Cyber Jacket': { count: 5, percentage: '0.8251' },
-    'Graphite Grey Smart Suit': { count: 2, percentage: '0.3300' },
-    'Gray Varsity Jacket': { count: 7, percentage: '1.1551' },
-    'Green Bomber Jacket': { count: 4, percentage: '0.6601' },
-    'Green Double Layer Shirt': { count: 7, percentage: '1.1551' },
-    'Green Summer Jacket': { count: 6, percentage: '0.9901' },
-    'Green Varsity Jacket': { count: 6, percentage: '0.9901' },
-    'Jade Winter Scarf': { count: 1, percentage: '0.1650' },
-    'Magenta Smart Suit': { count: 3, percentage: '0.4950' },
-    'Mauve Purple Cyber Jacket': { count: 6, percentage: '0.9901' },
-    'Moss Green Smart Suit': { count: 1, percentage: '0.1650' },
-    'Neon Magenta Winter Scarf': { count: 2, percentage: '0.3300' },
-    'Olive Green Smart Suit': { count: 5, percentage: '0.8251' },
-    'Olive Vintage Coat': { count: 5, percentage: '0.8251' },
-    'Orange Double Layer Shirt': { count: 6, percentage: '0.9901' },
-    'Orange Fur Collar Coat': { count: 9, percentage: '1.4851' },
-    'Orange Investor Vest': { count: 10, percentage: '1.6502' },
-    'Pearl White Cyber Jacket': { count: 11, percentage: '1.8152' },
-    'Pink Double Layer Shirt': { count: 4, percentage: '0.6601' },
-    'Pink Fur Collar Coat': { count: 6, percentage: '0.9901' },
-    'Pink Open Shoulder Dress': { count: 9, percentage: '1.4851' },
-    'Pink Red Winter Scarf': { count: 4, percentage: '0.6601' },
-    'Plum Vintage Coat': { count: 7, percentage: '1.1551' },
-    'Purple Haze Winter Scarf': { count: 1, percentage: '0.1650' },
-    'Red Bomber Jacket': { count: 4, percentage: '0.6601' },
-    'Red Double Layer Shirt': { count: 2, percentage: '0.3300' },
-    'Red Fur Collar Coat': { count: 7, percentage: '1.1551' },
-    'Red Hawaiian Shirt': { count: 1, percentage: '0.1650' },
-    'Red Open Shoulder Dress': { count: 4, percentage: '0.6601' },
-    'Red Smart Suit': { count: 3, percentage: '0.4950' },
-    'Red Summer Jacket': { count: 6, percentage: '0.9901' },
-    'Red Varsity Jacket': { count: 6, percentage: '0.9901' },
-    'Sakura Winter Scarf': { count: 3, percentage: '0.4950' },
-    'Seafoam Hawaiian Shirt': { count: 4, percentage: '0.6601' },
-    'Steel Grey Vintage Coat': { count: 10, percentage: '1.6502' },
-    'Ultramarine Winter Scarf': { count: 1, percentage: '0.1650' },
-    'White Bomber Jacket': { count: 8, percentage: '1.3201' },
-    'White Fur Collar Coat': { count: 4, percentage: '0.6601' },
-    'White Light Autumn Wear': { count: 21, percentage: '3.4653' },
-    'White Smart Suit': { count: 3, percentage: '0.4950' },
-    'White Summer Jacket': { count: 5, percentage: '0.8251' },
-    'White Vintage Coat': { count: 11, percentage: '1.8152' },
-    'White Winter Scarf': { count: 6, percentage: '0.9901' },
-    'Wood Brown Smart Suit': { count: 3, percentage: '0.4950' },
-    'Yellow Bomber Jacket': { count: 10, percentage: '1.6502' },
-    'Yellow Double Layer Shirt': { count: 8, percentage: '1.3201' },
-    'Yellow Fur Collar Coat': { count: 6, percentage: '0.9901' },
-    'Yellow Hawaiian Shirt': { count: 10, percentage: '1.6502' },
-    'Yellow Open Shoulder Dress': { count: 6, percentage: '0.9901' },
-    'Yellow Summer Jacket': { count: 6, percentage: '0.9901' },
-    'Yellow Varsity Jacket': { count: 4, percentage: '0.6601' },
-    'Yellow Winter Scarf': { count: 2, percentage: '0.3300' }
+    'Black Investor Vest': { count: 1, percentage: '3.8462' },
+    'Brown Investor Vest': { count: 1, percentage: '3.8462' },
+    'Jasmine Winter Scarf': { count: 1, percentage: '3.8462' },
+    'Orange Fur Collar Coat': { count: 2, percentage: '7.6923' },
+    'Orange Investor Vest': { count: 2, percentage: '7.6923' },
+    'Pink Red Winter Scarf': { count: 1, percentage: '3.8462' },
+    'Red Varsity Jacket': { count: 1, percentage: '3.8462' },
+    'Sakura Winter Scarf': { count: 1, percentage: '3.8462' },
+    'Steel Grey Vintage Coat': { count: 1, percentage: '3.8462' },
+    'White Light Autumn Wear': { count: 1, percentage: '3.8462' },
+    'Yellow Hawaiian Shirt': { count: 1, percentage: '3.8462' }
   },
   Ears: {
-    'Cream Inner Ears': { count: 47, percentage: '7.7558' },
-    'Light Green Inner Ears': { count: 41, percentage: '6.7657' },
-    'Light Orange Inner Ears': { count: 61, percentage: '10.0660' },
-    'Light Pink Inner Ears': { count: 46, percentage: '7.5908' },
-    'Light Yellow Inner Ears': { count: 50, percentage: '8.2508' },
-    'Orange Peach Inner Ears': { count: 55, percentage: '9.0759' }
+    'Cream Inner Ears': { count: 1, percentage: '3.8462' },
+    'Light Green Inner Ears': { count: 2, percentage: '7.6923' },
+    'Light Orange Inner Ears': { count: 2, percentage: '7.6923' },
+    'Light Pink Inner Ears': { count: 3, percentage: '11.5385' },
+    'Light Yellow Inner Ears': { count: 1, percentage: '3.8462' },
+    'Orange Peach Inner Ears': { count: 1, percentage: '3.8462' }
   },
   Expression: {
-    'Aggresive Feminine': { count: 22, percentage: '3.6304' },
-    'Aggresive Masculine': { count: 27, percentage: '4.4554' },
-    'Aggressive Feminine': { count: 26, percentage: '4.2904' },
-    'Aggressive Masculine': { count: 23, percentage: '3.7954' },
-    'Devious Feminine': { count: 55, percentage: '9.0759' },
-    'Devious Masculine': { count: 42, percentage: '6.9307' },
-    'Optimistic Feminine': { count: 56, percentage: '9.2409' },
-    'Optimistic Masculine': { count: 40, percentage: '6.6007' },
-    'Regretful Feminine': { count: 63, percentage: '10.3960' },
-    'Regretful Masculine': { count: 55, percentage: '9.0759' },
-    'Skepitcal Feminine': { count: 23, percentage: '3.7954' },
-    'Skepitcal Masculine': { count: 18, percentage: '2.9703' },
-    'Skeptical Feminine': { count: 27, percentage: '4.4554' },
-    'Skeptical Masculine': { count: 24, percentage: '3.9604' },
-    'Smug Feminine': { count: 46, percentage: '7.5908' },
-    'Smug Masculine': { count: 53, percentage: '8.7459' }
+    'Aggressive Masculine': { count: 1, percentage: '3.8462' },
+    'Devious Feminine': { count: 1, percentage: '3.8462' },
+    'Devious Masculine': { count: 2, percentage: '7.6923' },
+    'Optimistic Feminine': { count: 2, percentage: '7.6923' },
+    'Optimistic Masculine': { count: 1, percentage: '3.8462' },
+    'Regretful Feminine': { count: 3, percentage: '11.5385' },
+    'Regretful Masculine': { count: 2, percentage: '7.6923' },
+    'Skeptical Feminine': { count: 1, percentage: '3.8462' },
+    'Skeptical Masculine': { count: 2, percentage: '7.6923' },
+    'Smug Feminine': { count: 3, percentage: '11.5385' },
+    'Smug Masculine': { count: 2, percentage: '7.6923' }
   },
   Eyewear: {
-    'Algae Green Summer Glasses': { count: 3, percentage: '0.4950' },
-    'Bean Red Summer Glasses': { count: 1, percentage: '0.1650' },
-    'Black Circle Glasses': { count: 12, percentage: '1.9802' },
-    'Black Rectangular Glasses': { count: 9, percentage: '1.4851' },
-    'Black Summar Shades': { count: 64, percentage: '10.5611' },
-    'Blue Circle Glasses': { count: 8, percentage: '1.3201' },
-    'Blue Square Glasses': { count: 37, percentage: '6.1056' },
-    'Bright Lilac Summer Glasses': { count: 4, percentage: '0.6601' },
-    'Bright Purple Rectangular Glasses': { count: 6, percentage: '0.9901' },
-    'Bright White Rounded Glasses': { count: 13, percentage: '2.1452' },
-    'Bronze Rounded Glasses': { count: 14, percentage: '2.3102' },
-    'Brown Circle Glasses': { count: 7, percentage: '1.1551' },
-    'Brown Square Glasses': { count: 14, percentage: '2.3102' },
-    'Dijon Yellow Small Round Glasses': { count: 15, percentage: '2.4752' },
-    'Golden Rectangular Glasses': { count: 3, percentage: '0.4950' },
-    'Golden Rounded Glasses': { count: 15, percentage: '2.4752' },
-    'Green Circle Glasses': { count: 9, percentage: '1.4851' },
-    'Green CyberGlass': { count: 11, percentage: '1.8152' },
-    'Grey Cyber Visor': { count: 59, percentage: '9.7360' },
-    'Indigo Summer Glasses': { count: 5, percentage: '0.8251' },
-    'Light Blue Summer Glasses': { count: 3, percentage: '0.4950' },
-    'Light Green Rectangular Glasses': { count: 4, percentage: '0.6601' },
-    'Light Green Summer Glasses': { count: 3, percentage: '0.4950' },
-    'Neon Fuchsia Summer Glasses': { count: 3, percentage: '0.4950' },
-    'Olympic Blue Small Round Glasses': { count: 18, percentage: '2.9703' },
-    'Orange Summer Glasses': { count: 4, percentage: '0.6601' },
-    'Pastel Green Summer Glasses': { count: 5, percentage: '0.8251' },
-    'Purple CyberGlass': { count: 8, percentage: '1.3201' },
-    'Red Circle Glasses': { count: 4, percentage: '0.6601' },
-    'Red CyberGlass': { count: 10, percentage: '1.6502' },
-    'Royal Blue CyberGlass': { count: 15, percentage: '2.4752' },
-    'Royal Blue Summer Glasses': { count: 4, percentage: '0.6601' },
-    'Steel Grey Small Round Glasses': { count: 19, percentage: '3.1353' },
-    'Strong Blue Rectangular Glasses': { count: 6, percentage: '0.9901' },
-    'Teracotta Brown Rectangular Glasses': { count: 4, percentage: '0.6601' },
-    'White Rectangular Glasses': { count: 9, percentage: '1.4851' },
-    'Yellow Circle Glasses': { count: 12, percentage: '1.9802' },
-    'Yellow CyberGlass': { count: 10, percentage: '1.6502' },
-    'Yellow Summer Glasses': { count: 4, percentage: '0.6601' }
+    'Black Circle Glasses': { count: 1, percentage: '3.8462' },
+    'Black Summar Shades': { count: 2, percentage: '7.6923' },
+    'Blue Square Glasses': { count: 2, percentage: '7.6923' },
+    'Brown Square Glasses': { count: 2, percentage: '7.6923' },
+    'Golden Rounded Glasses': { count: 1, percentage: '3.8462' },
+    'Grey Cyber Visor': { count: 2, percentage: '7.6923' },
+    'Indigo Summer Glasses': { count: 1, percentage: '3.8462' },
+    'Royal Blue CyberGlass': { count: 1, percentage: '3.8462' },
+    'Steel Grey Small Round Glasses': { count: 1, percentage: '3.8462' },
+    'Yellow CyberGlass': { count: 1, percentage: '3.8462' },
+    'Yellow Summer Glasses': { count: 1, percentage: '3.8462' }
   },
   Flair: {
-    'Blue Pirate': { count: 1, percentage: '0.1650' },
-    'Charcoal Pirate': { count: 1, percentage: '0.1650' },
-    'Orange Pirate': { count: 1, percentage: '0.1650' },
-    'Yakuza Lawyer': { count: 3, percentage: '0.4950' }
+    'Blue Pirate': { count: 1, percentage: '3.8462' },
+    'Charcoal Pirate': { count: 1, percentage: '3.8462' },
+    'Orange Pirate': { count: 1, percentage: '3.8462' },
+    'Yakuza Lawyer': { count: 3, percentage: '11.5385' }
   },
   Hair: {
-    'Ash Brown Pompadour': { count: 4, percentage: '0.6601' },
-    "Barrister's wig": { count: 26, percentage: '4.2904' },
-    'Black Bun Updo': { count: 11, percentage: '1.8152' },
-    'Black Curly Ponytail': { count: 4, percentage: '0.6601' },
-    'Black Curly Twin Bun ': { count: 5, percentage: '0.8251' },
-    'Black Locs With Bun': { count: 2, percentage: '0.3300' },
-    'Black Messy Bob Cut': { count: 5, percentage: '0.8251' },
-    'Black Messy Short Cut': { count: 8, percentage: '1.3201' },
-    'Black Pixie Cut': { count: 3, percentage: '0.4950' },
-    'Black Shoulder Length': { count: 10, percentage: '1.6502' },
-    'Blonde Bun Updo': { count: 5, percentage: '0.8251' },
-    'Blonde Curly Ponytail': { count: 3, percentage: '0.4950' },
-    'Blonde Locs With Bun': { count: 4, percentage: '0.6601' },
-    'Blonde Messy Bob Cut': { count: 6, percentage: '0.9901' },
-    'Blonde Messy Short Cut': { count: 1, percentage: '0.1650' },
-    'Blonde Pixie Cut': { count: 1, percentage: '0.1650' },
-    'Blonde Wild Longhair': { count: 4, percentage: '0.6601' },
-    'Blue Bun Updo': { count: 5, percentage: '0.8251' },
-    'Blue Messy Bob Cut': { count: 3, percentage: '0.4950' },
-    'Blue Wild Longhair': { count: 4, percentage: '0.6601' },
-    'Bright Red Fluffy Hair': { count: 1, percentage: '0.1650' },
-    'Brown Afro': { count: 2, percentage: '0.3300' },
-    'Brown Braid': { count: 3, percentage: '0.4950' },
-    'Brown Fluffy Hair': { count: 2, percentage: '0.3300' },
-    'Brown Pixie Cut': { count: 2, percentage: '0.3300' },
-    'Brown Wild Longhair': { count: 2, percentage: '0.3300' },
-    'Brunette Bun Updo': { count: 4, percentage: '0.6601' },
-    'Brunette Curly Ponytail': { count: 3, percentage: '0.4950' },
-    'Brunette Curly Twin Bun ': { count: 8, percentage: '1.3201' },
-    'Brunette Locs With Bun': { count: 4, percentage: '0.6601' },
-    'Brunette Messy Bob Cut': { count: 3, percentage: '0.4950' },
-    'Brunette Messy Short Cut': { count: 2, percentage: '0.3300' },
-    'Brunette Pompadour': { count: 7, percentage: '1.1551' },
-    'Cream Yellow Fluffy Hair': { count: 4, percentage: '0.6601' },
-    'Cyan Hair': { count: 3, percentage: '0.4950' },
-    'Dark Brown Afro': { count: 4, percentage: '0.6601' },
-    'Dark Brown Wild Longhair': { count: 2, percentage: '0.3300' },
-    'Dark Grey Pompadour': { count: 5, percentage: '0.8251' },
-    'Ginger Bun Updo': { count: 3, percentage: '0.4950' },
-    'Ginger Curly Ponytail': { count: 3, percentage: '0.4950' },
-    'Ginger Curly Twin Bun ': { count: 5, percentage: '0.8251' },
-    'Ginger Messy Bob Cut': { count: 5, percentage: '0.8251' },
-    'Ginger Messy Short Cut': { count: 1, percentage: '0.1650' },
-    'Ginger Pompadour': { count: 2, percentage: '0.3300' },
-    'Grey Curly Ponytail': { count: 5, percentage: '0.8251' },
-    'Hazelnut Brown Afro': { count: 1, percentage: '0.1650' },
-    'Hazelnut Brown Braid': { count: 2, percentage: '0.3300' },
-    'Hazelnut Brown Fluffy Hair': { count: 2, percentage: '0.3300' },
-    'Lemon Yellow Afro': { count: 2, percentage: '0.3300' },
-    'Lemon Yellow Fluffy Hair': { count: 4, percentage: '0.6601' },
-    'Mahogany Red Braid': { count: 2, percentage: '0.3300' },
-    'Maroon Curly Twin Bun ': { count: 2, percentage: '0.3300' },
-    'Maroon Locs With Bun': { count: 1, percentage: '0.1650' },
-    'Maroon Messy Bob Cut': { count: 4, percentage: '0.6601' },
-    'Maroon Messy Short Cut': { count: 4, percentage: '0.6601' },
-    'Maroon Pixie Cut': { count: 3, percentage: '0.4950' },
-    'Neon Blue Curly Ponytail': { count: 2, percentage: '0.3300' },
-    'Orange Afro': { count: 1, percentage: '0.1650' },
-    'Orange Braid': { count: 1, percentage: '0.1650' },
-    'Orange Fluffy Hair': { count: 2, percentage: '0.3300' },
-    'Orange Pixie Cut': { count: 2, percentage: '0.3300' },
-    'Pink Bun Updo': { count: 2, percentage: '0.3300' },
-    'Pink Wild Longhair': { count: 1, percentage: '0.1650' },
-    'Purple Afro': { count: 5, percentage: '0.8251' },
-    'Purple Braid': { count: 2, percentage: '0.3300' },
-    'Purple Fluffy Hair': { count: 2, percentage: '0.3300' },
-    'Red Curly Ponytail': { count: 2, percentage: '0.3300' },
-    'Red Shoulder Length': { count: 8, percentage: '1.3201' },
-    'Red Wild Longhair': { count: 2, percentage: '0.3300' },
-    'Rose Grey Wild Longhair': { count: 4, percentage: '0.6601' },
-    'Scarlet Red Afro': { count: 1, percentage: '0.1650' },
-    'Silver White Pompadour': { count: 6, percentage: '0.9901' },
-    'Sunlight Yellow Afro': { count: 1, percentage: '0.1650' },
-    'Sunlight Yellow Braid': { count: 2, percentage: '0.3300' },
-    'Teal Green Afro': { count: 3, percentage: '0.4950' },
-    'Teal Green Braid': { count: 6, percentage: '0.9901' },
-    'Teal Green Fluffy Hair': { count: 3, percentage: '0.4950' },
-    'White Afro': { count: 4, percentage: '0.6601' },
-    'White Bun Updo': { count: 2, percentage: '0.3300' },
-    'White Fluffy Hair': { count: 3, percentage: '0.4950' },
-    'White Messy Bob Cut': { count: 3, percentage: '0.4950' },
-    'White Messy Short Cut': { count: 5, percentage: '0.8251' },
-    'White Pixie Cut': { count: 2, percentage: '0.3300' },
-    'White Pompadour': { count: 3, percentage: '0.4950' },
-    'White Wild Longhair': { count: 7, percentage: '1.1551' },
-    'Yellow Shoulder Length': { count: 11, percentage: '1.8152' },
-    'Zaffre Blue Afro': { count: 1, percentage: '0.1650' },
-    'Zaffre Blue Braid': { count: 3, percentage: '0.4950' },
-    'Zaffre Blue Fluffy Hair': { count: 6, percentage: '0.9901' }
+    "Barrister's wig": { count: 3, percentage: '11.5385' },
+    'Black Pixie Cut': { count: 1, percentage: '3.8462' },
+    'Brunette Curly Twin Bun ': { count: 1, percentage: '3.8462' },
+    'Cyan Hair': { count: 3, percentage: '11.5385' },
+    'Ginger Bun Updo': { count: 1, percentage: '3.8462' },
+    'Maroon Messy Bob Cut': { count: 1, percentage: '3.8462' },
+    'Orange Fluffy Hair': { count: 1, percentage: '3.8462' },
+    'Red Curly Ponytail': { count: 1, percentage: '3.8462' },
+    'Sunlight Yellow Braid': { count: 1, percentage: '3.8462' },
+    'White Afro': { count: 1, percentage: '3.8462' },
+    'Zaffre Blue Afro': { count: 1, percentage: '3.8462' }
   },
   Hat: {
-    'Black Classic Cap': { count: 5, percentage: '0.8251' },
-    'Blue Beanie': { count: 1, percentage: '0.1650' },
-    'Blue Berret': { count: 7, percentage: '1.1551' },
-    'Blue Cap': { count: 2, percentage: '0.3300' },
-    'Blue Classic Cap': { count: 6, percentage: '0.9901' },
-    'Blue Pirate Hat': { count: 1, percentage: '0.1650' },
-    'Brown Beanie': { count: 5, percentage: '0.8251' },
-    'Brown Borsalino Hat': { count: 9, percentage: '1.4851' },
-    'Brown Cap': { count: 1, percentage: '0.1650' },
-    'Dark Gray Borsalino Hat': { count: 9, percentage: '1.4851' },
-    'Dark Grey Beanie': { count: 3, percentage: '0.4950' },
-    'Green Beanie': { count: 1, percentage: '0.1650' },
-    'Green Berret': { count: 2, percentage: '0.3300' },
-    'Green Cap': { count: 1, percentage: '0.1650' },
-    'Green Classic Cap': { count: 4, percentage: '0.6601' },
-    'Grey Beanie': { count: 1, percentage: '0.1650' },
-    'Grey Berret': { count: 5, percentage: '0.8251' },
-    'Grey Cap': { count: 1, percentage: '0.1650' },
-    'Maroon Classic Cap': { count: 5, percentage: '0.8251' },
-    'Navy Blue Beanie': { count: 3, percentage: '0.4950' },
-    'Orange Beanie': { count: 2, percentage: '0.3300' },
-    'Pink Classic Cap': { count: 4, percentage: '0.6601' },
-    'Purple Berret': { count: 2, percentage: '0.3300' },
-    'Purple Classic Cap': { count: 4, percentage: '0.6601' },
-    'Red Beanie': { count: 2, percentage: '0.3300' },
-    'Red Cap': { count: 4, percentage: '0.6601' },
-    'Red Pirate Hat': { count: 1, percentage: '0.1650' },
-    'Sky Blue Cap': { count: 1, percentage: '0.1650' },
-    'Soft Brown Borsalino Hat': { count: 4, percentage: '0.6601' },
-    'Violet Beanie': { count: 1, percentage: '0.1650' },
-    'White Beanie': { count: 4, percentage: '0.6601' },
-    'White Berret': { count: 2, percentage: '0.3300' },
-    'White Borsalino Hat': { count: 12, percentage: '1.9802' },
-    'White Cap': { count: 4, percentage: '0.6601' },
-    'White Pirate Hat': { count: 1, percentage: '0.1650' },
-    'Yelllow Cap': { count: 2, percentage: '0.3300' },
-    'Yellow Beanie': { count: 3, percentage: '0.4950' },
-    'Yellow Classic Cap': { count: 3, percentage: '0.4950' }
+    'Blue Pirate Hat': { count: 1, percentage: '3.8462' },
+    'Purple Berret': { count: 1, percentage: '3.8462' },
+    'Purple Classic Cap': { count: 1, percentage: '3.8462' },
+    'Red Pirate Hat': { count: 1, percentage: '3.8462' },
+    'Soft Brown Borsalino Hat': { count: 1, percentage: '3.8462' },
+    'White Pirate Hat': { count: 1, percentage: '3.8462' }
   },
   'Hat Modifier': {
-    'Brown Feather Earing': { count: 1, percentage: '0.1650' },
-    'Green Feather Earing': { count: 1, percentage: '0.1650' },
-    'Red Feather Earing': { count: 1, percentage: '0.1650' }
+    'Brown Feather Earing': { count: 1, percentage: '3.8462' },
+    'Green Feather Earing': { count: 1, percentage: '3.8462' },
+    'Red Feather Earing': { count: 1, percentage: '3.8462' }
   },
   'Inner Cloths': {
-    'Blue Inner Detailing': { count: 1, percentage: '0.1650' },
-    'Green Inner Detailing': { count: 1, percentage: '0.1650' },
-    'Red Inner Detailing': { count: 1, percentage: '0.1650' }
+    'Blue Inner Detailing': { count: 1, percentage: '3.8462' },
+    'Green Inner Detailing': { count: 1, percentage: '3.8462' },
+    'Red Inner Detailing': { count: 1, percentage: '3.8462' }
   },
   Jacket: {
-    'Black Waistcoat': { count: 1, percentage: '0.1650' },
-    'Blue Pirate Coat': { count: 1, percentage: '0.1650' },
-    'Brown Waistcoat': { count: 1, percentage: '0.1650' },
-    'Dark Blue Waistcoat': { count: 1, percentage: '0.1650' },
-    'Red Pirate Coat': { count: 1, percentage: '0.1650' },
-    'White Pirate Coat': { count: 1, percentage: '0.1650' }
+    'Black Waistcoat': { count: 1, percentage: '3.8462' },
+    'Blue Pirate Coat': { count: 1, percentage: '3.8462' },
+    'Brown Waistcoat': { count: 1, percentage: '3.8462' },
+    'Dark Blue Waistcoat': { count: 1, percentage: '3.8462' },
+    'Red Pirate Coat': { count: 1, percentage: '3.8462' },
+    'White Pirate Coat': { count: 1, percentage: '3.8462' }
   },
   LineArt: {
-    Base_Body_line_art_A: { count: 300, percentage: '49.5050' },
-    'Body Line Art': { count: 6, percentage: '0.9901' },
-    Tertiary: { count: 300, percentage: '49.5050' }
+    Base_Body_line_art_A: { count: 10, percentage: '38.4615' },
+    'Body Line Art': { count: 6, percentage: '23.0769' },
+    Tertiary: { count: 10, percentage: '38.4615' }
   },
   Mask: {
-    'Black Kitsune Mask': { count: 1, percentage: '0.1650' },
-    'Red Kitsune Mask': { count: 1, percentage: '0.1650' },
-    'Yellow Kitsune Mask': { count: 1, percentage: '0.1650' }
+    'Black Kitsune Mask': { count: 1, percentage: '3.8462' },
+    'Red Kitsune Mask': { count: 1, percentage: '3.8462' },
+    'Yellow Kitsune Mask': { count: 1, percentage: '3.8462' }
   },
-  'Mask Modifier': { MaskHole: { count: 3, percentage: '0.4950' } },
+  'Mask Modifier': { MaskHole: { count: 3, percentage: '11.5385' } },
   Multiply: {
-    Cloth_03Shadow_Multi: { count: 49, percentage: '8.0858' },
-    Cloths_07_shadow_: { count: 26, percentage: '4.2904' },
-    FaceMsc_06Shadow: { count: 31, percentage: '5.1155' },
-    Hat_03Shadow_Multi: { count: 17, percentage: '2.8053' }
+    Cloth_03Shadow_Multi: { count: 1, percentage: '3.8462' },
+    FaceMsc_06Shadow: { count: 2, percentage: '7.6923' },
+    Hat_03Shadow_Multi: { count: 1, percentage: '3.8462' }
   },
   Personality: {
-    Aggressive: { count: 100, percentage: '16.5017' },
-    Devious: { count: 97, percentage: '16.0066' },
-    Optimistic: { count: 96, percentage: '15.8416' },
-    Regretful: { count: 118, percentage: '19.4719' },
-    Skeptical: { count: 92, percentage: '15.1815' },
-    Smug: { count: 100, percentage: '16.5017' }
+    Aggressive: { count: 1, percentage: '3.8462' },
+    Devious: { count: 3, percentage: '11.5385' },
+    Optimistic: { count: 5, percentage: '19.2308' },
+    Regretful: { count: 5, percentage: '19.2308' },
+    Skeptical: { count: 4, percentage: '15.3846' },
+    Smug: { count: 5, percentage: '19.2308' }
   },
   'Primary Coat': {
-    Black: { count: 48, percentage: '7.9208' },
-    Blue: { count: 44, percentage: '7.2607' },
-    Brown: { count: 71, percentage: '11.7162' },
-    'Charcoal ': { count: 34, percentage: '5.6106' },
-    Green: { count: 36, percentage: '5.9406' },
-    Grey: { count: 47, percentage: '7.7558' },
-    'Light Silver': { count: 49, percentage: '8.0858' },
-    Olive: { count: 46, percentage: '7.5908' },
-    Pink: { count: 40, percentage: '6.6007' },
-    Red: { count: 103, percentage: '16.9967' },
-    White: { count: 36, percentage: '5.9406' },
-    Yellow: { count: 46, percentage: '7.5908' }
+    Black: { count: 2, percentage: '7.6923' },
+    Blue: { count: 1, percentage: '3.8462' },
+    Brown: { count: 2, percentage: '7.6923' },
+    'Charcoal ': { count: 4, percentage: '15.3846' },
+    Green: { count: 1, percentage: '3.8462' },
+    'Light Silver': { count: 2, percentage: '7.6923' },
+    Olive: { count: 1, percentage: '3.8462' },
+    Red: { count: 4, percentage: '15.3846' },
+    Yellow: { count: 3, percentage: '11.5385' }
   },
   Profession: {
-    Investor: { count: 303, percentage: '50.0000' },
-    Lawyer: { count: 303, percentage: '50.0000' }
+    Investor: { count: 13, percentage: '50.0000' },
+    Lawyer: { count: 13, percentage: '50.0000' }
   },
   Quote: {
-    'Investor Aggressive 1': { count: 11, percentage: '1.8152' },
-    'Investor Aggressive 2': { count: 14, percentage: '2.3102' },
-    'Investor Aggressive 3': { count: 24, percentage: '3.9604' },
-    'Investor Devious 1': { count: 10, percentage: '1.6502' },
-    'Investor Devious 2': { count: 9, percentage: '1.4851' },
-    'Investor Devious 3': { count: 6, percentage: '0.9901' },
-    'Investor Devious 4': { count: 5, percentage: '0.8251' },
-    'Investor Devious 5': { count: 12, percentage: '1.9802' },
-    'Investor Optimistic 1': { count: 7, percentage: '1.1551' },
-    'Investor Optimistic 2': { count: 9, percentage: '1.4851' },
-    'Investor Optimistic 3': { count: 12, percentage: '1.9802' },
-    'Investor Optimistic 4': { count: 14, percentage: '2.3102' },
-    'Investor Optimistic 5': { count: 10, percentage: '1.6502' },
-    'Investor Optimistic 6': { count: 4, percentage: '0.6601' },
-    'Investor Regretful 1': { count: 30, percentage: '4.9505' },
-    'Investor Regretful 2': { count: 33, percentage: '5.4455' },
-    'Investor Skeptical 1': { count: 15, percentage: '2.4752' },
-    'Investor Skeptical 2': { count: 26, percentage: '4.2904' },
-    'Investor Smug 1': { count: 9, percentage: '1.4851' },
-    'Investor Smug 2': { count: 10, percentage: '1.6502' },
-    'Investor Smug 3': { count: 7, percentage: '1.1551' },
-    'Investor Smug 4': { count: 10, percentage: '1.6502' },
-    'Investor Smug 5': { count: 8, percentage: '1.3201' },
-    'Investor Smug 6': { count: 5, percentage: '0.8251' },
-    'Lawyer Aggressive 1': { count: 1, percentage: '0.1650' },
-    'Lawyer Optimistic 4': { count: 1, percentage: '0.1650' },
-    'Lawyer Smug 1': { count: 1, percentage: '0.1650' }
+    'Investor Aggressive 2': { count: 1, percentage: '3.8462' },
+    'Investor Devious 3': { count: 1, percentage: '3.8462' },
+    'Investor Optimistic 1': { count: 1, percentage: '3.8462' },
+    'Investor Optimistic 3': { count: 1, percentage: '3.8462' },
+    'Investor Regretful 1': { count: 2, percentage: '7.6923' },
+    'Investor Regretful 2': { count: 1, percentage: '3.8462' },
+    'Investor Smug 1': { count: 1, percentage: '3.8462' },
+    'Investor Smug 5': { count: 2, percentage: '7.6923' },
+    'Lawyer Devious 3': { count: 1, percentage: '3.8462' },
+    'Lawyer Smug 2': { count: 2, percentage: '7.6923' }
   },
   Rarity: {
-    Legendary: { count: 299, percentage: '49.3399' },
-    Mythic: { count: 6, percentage: '0.9901' },
-    Rare: { count: 301, percentage: '49.6700' }
+    Legendary: { count: 3, percentage: '11.5385' },
+    Mythic: { count: 6, percentage: '23.0769' },
+    Rare: { count: 17, percentage: '65.3846' }
   },
   Robe: {
-    'Black Yukata': { count: 1, percentage: '0.1650' },
-    'Dark Blue Yukata': { count: 1, percentage: '0.1650' },
-    'Yellow Yukata ': { count: 1, percentage: '0.1650' }
-  },
-  'Seconary Coat': {
-    'Cornsilk Yellow Inner Body': { count: 29, percentage: '4.7855' },
-    'Cornsilk Yellow Inner Shade': { count: 21, percentage: '3.4653' },
-    'Cream Inner Body': { count: 27, percentage: '4.4554' },
-    'Cream Inner Shade': { count: 20, percentage: '3.3003' },
-    'Light Green Inner Body': { count: 18, percentage: '2.9703' },
-    'Light Green Inner Shade': { count: 23, percentage: '3.7954' },
-    'Light Orange Inner Body': { count: 18, percentage: '2.9703' },
-    'Light Orange Inner Shade': { count: 29, percentage: '4.7855' },
-    'Light Pink Inner Body': { count: 32, percentage: '5.2805' },
-    'Light Pink Inner Shade': { count: 28, percentage: '4.6205' },
-    'Orange Peach Inner Body': { count: 29, percentage: '4.7855' },
-    'Orange Peach Inner Shade': { count: 26, percentage: '4.2904' }
+    'Black Yukata': { count: 1, percentage: '3.8462' },
+    'Dark Blue Yukata': { count: 1, percentage: '3.8462' },
+    'Yellow Yukata ': { count: 1, percentage: '3.8462' }
   },
   'Secondary Coat': {
-    'Cyan-Blue': { count: 101, percentage: '16.6667' },
-    'Light Yellow': { count: 104, percentage: '17.1617' },
-    White: { count: 95, percentage: '15.6766' }
+    'Cornsilk Yellow Inner Shade': { count: 1, percentage: '3.8462' },
+    'Cream Inner Body': { count: 1, percentage: '3.8462' },
+    'Cyan-Blue': { count: 6, percentage: '23.0769' },
+    'Light Green Inner Body': { count: 1, percentage: '3.8462' },
+    'Light Green Inner Shade': { count: 1, percentage: '3.8462' },
+    'Light Orange Inner Body': { count: 2, percentage: '7.6923' },
+    'Light Orange Inner Shade': { count: 1, percentage: '3.8462' },
+    'Light Pink Inner Body': { count: 1, percentage: '3.8462' },
+    'Light Pink Inner Shade': { count: 1, percentage: '3.8462' },
+    'Light Yellow': { count: 2, percentage: '7.6923' },
+    'Orange Peach Inner Body': { count: 1, percentage: '3.8462' },
+    White: { count: 2, percentage: '7.6923' }
   },
-  Seniority: { Analyst: { count: 603, percentage: '99.5050' } },
+  Seniority: { Analyst: { count: 23, percentage: '88.4615' } },
   Shirt: {
-    'Orange Patterned Shirt': { count: 1, percentage: '0.1650' },
-    'Red Patterned Shirt': { count: 1, percentage: '0.1650' },
-    'Violet Patterned Shirt': { count: 1, percentage: '0.1650' }
+    'Orange Patterned Shirt': { count: 1, percentage: '3.8462' },
+    'Red Patterned Shirt': { count: 1, percentage: '3.8462' },
+    'Violet Patterned Shirt': { count: 1, percentage: '3.8462' }
   },
-  VFX: { 'Sakura Petals': { count: 3, percentage: '0.4950' } },
+  VFX: { 'Sakura Petals': { count: 3, percentage: '11.5385' } },
   'Attribute Count': {
-    '10 Attributes': { count: 2, percentage: 0.33 },
-    '11 Attributes': { count: 16, percentage: 2.64 },
-    '12 Attributes': { count: 56, percentage: 9.24 },
-    '13 Attributes': { count: 104, percentage: 17.16 },
-    '14 Attributes': { count: 138, percentage: 22.770000000000003 },
-    '15 Attributes': { count: 141, percentage: 23.27 },
-    '16 Attributes': { count: 115, percentage: 18.98 },
-    '17 Attributes': { count: 33, percentage: 5.45 },
-    '18 Attributes': { count: 1, percentage: 0.16999999999999998 }
+    '11 Attributes': { count: 3, percentage: 11.540000000000001 },
+    '12 Attributes': { count: 3, percentage: 11.540000000000001 },
+    '13 Attributes': { count: 5, percentage: 19.23 },
+    '14 Attributes': { count: 3, percentage: 11.540000000000001 },
+    '15 Attributes': { count: 6, percentage: 23.080000000000002 },
+    '16 Attributes': { count: 4, percentage: 15.379999999999999 },
+    '17 Attributes': { count: 1, percentage: 3.85 },
+    '18 Attributes': { count: 1, percentage: 3.85 }
   }
 }
 {
-  '10': 2,
-  '11': 16,
-  '12': 56,
-  '13': 104,
-  '14': 138,
-  '15': 141,
-  '16': 115,
-  '17': 33,
+  '11': 3,
+  '12': 3,
+  '13': 5,
+  '14': 3,
+  '15': 6,
+  '16': 4,
+  '17': 1,
   '18': 1
 }
-┌─────────┬─────────────────┬────────────────────┐
-│ (index) │      name       │     raritySum      │
-├─────────┼─────────────────┼────────────────────┤
-│    0    │ 'Investor #603' │      53.6302       │
-│    1    │ 'Investor #604' │      53.6302       │
-│    2    │ 'Investor #605' │      53.6302       │
-│    3    │  'Lawyer #302'  │      171.1219      │
-│    4    │  'Lawyer #300'  │ 171.28690000000003 │
-│    5    │  'Lawyer #301'  │ 171.28690000000003 │
-│    6    │ 'Investor #38'  │      293.5644      │
-│    7    │ 'Investor #58'  │      294.3894      │
-│    8    │ 'Investor #47'  │ 294.88460000000003 │
-│    9    │ 'Investor #34'  │      295.2147      │
-│   10    │  'Investor #1'  │      295.3796      │
-│   11    │ 'Investor #69'  │ 295.37960000000004 │
-│   12    │ 'Investor #100' │      295.7098      │
-│   13    │ 'Investor #52'  │      296.0398      │
-│   14    │ 'Investor #16'  │ 296.20480000000003 │
-│   15    │ 'Investor #38'  │      296.5346      │
-│   16    │ 'Investor #105' │ 296.69980000000004 │
-│   17    │ 'Investor #145' │      296.8646      │
-│   18    │ 'Investor #96'  │      296.8648      │
-│   19    │ 'Investor #168' │      297.0297      │
-│   20    │  'Investor #4'  │      297.1947      │
-│   21    │ 'Investor #20'  │ 297.19489999999996 │
-│   22    │  'Lawyer #17'   │ 297.35990000000004 │
-│   23    │ 'Investor #136' │      297.5248      │
-│   24    │ 'Investor #25'  │      297.525       │
-│   25    │ 'Investor #53'  │ 298.01980000000003 │
-│   26    │ 'Investor #89'  │      298.1849      │
-│   27    │ 'Investor #46'  │      298.185       │
-│   28    │ 'Investor #30'  │       298.35       │
-│   29    │ 'Investor #21'  │      298.515       │
-│   30    │ 'Investor #172' │ 298.68000000000006 │
-│   31    │ 'Investor #161' │       299.01       │
-│   32    │ 'Investor #115' │ 299.17499999999995 │
-│   33    │ 'Investor #150' │ 299.17500000000007 │
-│   34    │ 'Investor #122' │ 299.17510000000004 │
-│   35    │ 'Investor #62'  │      299.3401      │
-│   36    │ 'Investor #102' │      299.6699      │
-│   37    │  'Lawyer #142'  │      299.6701      │
-│   38    │ 'Investor #83'  │      299.6702      │
-│   39    │ 'Investor #198' │      299.835       │
-│   40    │ 'Investor #12'  │ 299.83500000000004 │
-│   41    │ 'Investor #76'  │      299.8351      │
-│   42    │ 'Investor #43'  │        300         │
-│   43    │  'Lawyer #217'  │      300.0001      │
-│   44    │ 'Investor #56'  │      300.0001      │
-│   45    │ 'Investor #28'  │ 300.16499999999996 │
-│   46    │  'Lawyer #134'  │      300.1652      │
-│   47    │ 'Investor #193' │      300.1652      │
-│   48    │ 'Investor #194' │      300.3302      │
-│   49    │ 'Investor #60'  │      300.6601      │
-│   50    │  'Lawyer #234'  │ 300.66010000000006 │
-│   51    │ 'Investor #95'  │ 300.66010000000006 │
-│   52    │ 'Investor #34'  │      300.8251      │
-│   53    │  'Lawyer #265'  │      300.8252      │
-│   54    │ 'Investor #24'  │      300.8252      │
-│   55    │ 'Investor #90'  │      300.8252      │
-│   56    │  'Lawyer #53'   │ 300.82529999999997 │
-│   57    │ 'Investor #66'  │      300.8253      │
-│   58    │ 'Investor #86'  │      300.8253      │
-│   59    │   'Lawyer #3'   │ 300.99019999999996 │
-│   60    │ 'Investor #55'  │ 300.99019999999996 │
-│   61    │ 'Investor #128' │      301.1552      │
-│   62    │ 'Investor #72'  │      301.3202      │
-│   63    │  'Lawyer #258'  │      301.3203      │
-│   64    │ 'Investor #29'  │      301.3203      │
-│   65    │  'Lawyer #65'   │      301.4853      │
-│   66    │ 'Investor #37'  │      301.6504      │
-│   67    │ 'Investor #33'  │      301.8153      │
-│   68    │  'Lawyer #186'  │ 301.81530000000004 │
-│   69    │ 'Investor #31'  │      301.8154      │
-│   70    │ 'Investor #53'  │ 301.98029999999994 │
-│   71    │  'Lawyer #24'   │      301.9803      │
-│   72    │  'Lawyer #210'  │ 301.98040000000003 │
-│   73    │ 'Investor #89'  │ 301.98040000000003 │
-│   74    │  'Lawyer #280'  │      302.1453      │
-│   75    │ 'Investor #63'  │      302.1453      │
-│   76    │ 'Investor #181' │      302.1453      │
-│   77    │ 'Investor #90'  │      302.1453      │
-│   78    │  'Lawyer #83'   │      302.1454      │
-│   79    │  'Lawyer #90'   │      302.1454      │
-│   80    │ 'Investor #132' │      302.1454      │
-│   81    │ 'Investor #191' │ 302.31030000000004 │
-│   82    │ 'Investor #67'  │ 302.31050000000005 │
-│   83    │  'Lawyer #102'  │      302.4752      │
-│   84    │  'Lawyer #63'   │ 302.47529999999995 │
-│   85    │  'Investor #9'  │      302.4755      │
-│   86    │  'Investor #5'  │      302.6404      │
-│   87    │ 'Investor #138' │      302.6404      │
-│   88    │  'Lawyer #42'   │      302.6405      │
-│   89    │ 'Investor #18'  │      302.8053      │
-│   90    │ 'Investor #15'  │ 302.80539999999996 │
-│   91    │ 'Investor #195' │      302.8055      │
-│   92    │  'Lawyer #50'   │      302.9704      │
-│   93    │ 'Investor #82'  │ 302.97040000000004 │
-│   94    │ 'Investor #97'  │ 302.97040000000004 │
-│   95    │  'Lawyer #238'  │      302.9705      │
-│   96    │  'Lawyer #289'  │ 303.13530000000003 │
-│   97    │ 'Investor #175' │ 303.13530000000003 │
-│   98    │ 'Investor #45'  │ 303.13530000000003 │
-│   99    │  'Lawyer #103'  │      303.1354      │
-│   100   │ 'Investor #64'  │      303.1354      │
-│   101   │ 'Investor #72'  │      303.1354      │
-│   102   │ 'Investor #85'  │      303.1354      │
-│   103   │  'Lawyer #72'   │ 303.13550000000004 │
-│   104   │  'Lawyer #76'   │ 303.13550000000004 │
-│   105   │  'Lawyer #101'  │ 303.13550000000004 │
-│   106   │ 'Investor #67'  │      303.3004      │
-│   107   │  'Lawyer #68'   │      303.3005      │
-│   108   │  'Lawyer #87'   │      303.3005      │
-│   109   │ 'Investor #106' │      303.4653      │
-│   110   │  'Lawyer #13'   │ 303.46540000000005 │
-│   111   │  'Lawyer #66'   │ 303.46549999999996 │
-│   112   │  'Lawyer #268'  │      303.4655      │
-│   113   │  'Lawyer #175'  │      303.4656      │
-│   114   │ 'Investor #78'  │      303.4656      │
-│   115   │  'Lawyer #225'  │      303.6305      │
-│   116   │  'Lawyer #264'  │      303.6305      │
-│   117   │  'Lawyer #105'  │      303.7955      │
-│   118   │  'Lawyer #117'  │      303.7955      │
-│   119   │ 'Investor #173' │      303.7955      │
-│   120   │  'Lawyer #235'  │      303.7956      │
-│   121   │ 'Investor #74'  │ 303.79560000000004 │
-│   122   │ 'Investor #142' │ 303.79560000000004 │
-│   123   │  'Lawyer #282'  │ 303.96029999999996 │
-│   124   │ 'Investor #91'  │      303.9604      │
-│   125   │  'Lawyer #185'  │      303.9605      │
-│   126   │ 'Investor #167' │      303.9605      │
-│   127   │  'Investor #6'  │ 303.96060000000006 │
-│   128   │  'Lawyer #43'   │      304.1255      │
-│   129   │ 'Investor #50'  │      304.1255      │
-│   130   │ 'Investor #125' │      304.1256      │
-│   131   │ 'Investor #183' │      304.1256      │
-│   132   │ 'Investor #93'  │      304.1257      │
-│   133   │  'Lawyer #184'  │      304.2905      │
-│   134   │ 'Investor #98'  │      304.2906      │
-│   135   │ 'Investor #185' │ 304.29060000000004 │
-│   136   │  'Lawyer #220'  │      304.2907      │
-│   137   │ 'Investor #130' │      304.2907      │
-│   138   │  'Investor #0'  │      304.4556      │
-│   139   │ 'Investor #40'  │ 304.45570000000004 │
-│   140   │  'Lawyer #255'  │      304.4558      │
-│   141   │  'Investor #3'  │ 304.62039999999996 │
-│   142   │ 'Investor #45'  │      304.6204      │
-│   143   │   'Lawyer #5'   │      304.6206      │
-│   144   │ 'Investor #66'  │      304.6206      │
-│   145   │ 'Investor #166' │      304.6208      │
-│   146   │  'Lawyer #273'  │ 304.78549999999996 │
-│   147   │  'Lawyer #33'   │      304.7856      │
-│   148   │  'Lawyer #274'  │      304.7856      │
-│   149   │ 'Investor #19'  │      304.7857      │
-│   150   │ 'Investor #47'  │      304.9505      │
-│   151   │ 'Investor #96'  │ 304.95050000000003 │
-│   152   │ 'Investor #13'  │      304.9506      │
-│   153   │  'Lawyer #179'  │      305.1155      │
-│   154   │  'Lawyer #183'  │      305.1156      │
-│   155   │  'Lawyer #143'  │ 305.11560000000003 │
-│   156   │  'Lawyer #127'  │      305.1157      │
-│   157   │  'Lawyer #250'  │      305.1157      │
-│   158   │  'Lawyer #256'  │      305.1157      │
-│   159   │ 'Investor #86'  │      305.1158      │
-│   160   │  'Lawyer #29'   │ 305.28049999999996 │
-│   161   │  'Lawyer #229'  │      305.2805      │
-│   162   │  'Lawyer #84'   │      305.2806      │
-│   163   │  'Lawyer #257'  │ 305.44559999999996 │
-│   164   │  'Lawyer #19'   │      305.4457      │
-│   165   │  'Lawyer #191'  │      305.4457      │
-│   166   │ 'Investor #18'  │      305.4457      │
-│   167   │ 'Investor #160' │      305.4457      │
-│   168   │ 'Investor #36'  │ 305.44570000000004 │
-│   169   │  'Lawyer #262'  │      305.6106      │
-│   170   │  'Lawyer #11'   │ 305.61060000000003 │
-│   171   │  'Lawyer #170'  │ 305.61060000000003 │
-│   172   │  'Lawyer #64'   │      305.6107      │
-│   173   │ 'Investor #99'  │      305.7756      │
-│   174   │  'Lawyer #97'   │      305.7757      │
-│   175   │ 'Investor #153' │      305.9405      │
-│   176   │  'Lawyer #130'  │ 305.94070000000005 │
-│   177   │ 'Investor #80'  │ 306.10560000000004 │
-│   178   │  'Lawyer #236'  │      306.1057      │
-│   179   │ 'Investor #99'  │      306.1057      │
-│   180   │  'Lawyer #56'   │      306.1058      │
-│   181   │ 'Investor #94'  │      306.1058      │
-│   182   │ 'Investor #84'  │      306.2706      │
-│   183   │ 'Investor #88'  │      306.2707      │
-│   184   │  'Lawyer #246'  │      306.2708      │
-│   185   │  'Lawyer #189'  │      306.4357      │
-│   186   │ 'Investor #48'  │ 306.43570000000005 │
-│   187   │ 'Investor #123' │ 306.43580000000003 │
-│   188   │ 'Investor #44'  │      306.4359      │
-│   189   │ 'Investor #51'  │      306.4359      │
-│   190   │  'Lawyer #75'   │      306.6008      │
-│   191   │  'Lawyer #269'  │      306.6008      │
-│   192   │ 'Investor #133' │      306.6008      │
-│   193   │ 'Investor #21'  │      306.6008      │
-│   194   │  'Lawyer #135'  │ 306.60089999999997 │
-│   195   │  'Lawyer #115'  │      306.7657      │
-│   196   │  'Lawyer #163'  │      306.7658      │
-│   197   │ 'Investor #48'  │      306.7658      │
-│   198   │ 'Investor #24'  │ 306.76580000000007 │
-│   199   │ 'Investor #134' │ 306.76590000000004 │
-│   200   │  'Lawyer #73'   │ 306.93080000000003 │
-│   201   │  'Lawyer #198'  │ 306.93080000000003 │
-│   202   │  'Lawyer #232'  │ 306.93080000000003 │
-│   203   │ 'Investor #22'  │ 306.93080000000003 │
-│   204   │  'Lawyer #10'   │      306.9309      │
-│   205   │  'Lawyer #190'  │      306.9309      │
-│   206   │  'Lawyer #36'   │ 307.09560000000005 │
-│   207   │ 'Investor #127' │      307.0957      │
-│   208   │  'Lawyer #92'   │      307.0958      │
-│   209   │  'Lawyer #196'  │      307.0958      │
-│   210   │ 'Investor #65'  │      307.096       │
-│   211   │  'Lawyer #197'  │      307.2607      │
-│   212   │ 'Investor #94'  │      307.2607      │
-│   213   │ 'Investor #50'  │ 307.26070000000004 │
-│   214   │  'Lawyer #14'   │ 307.26079999999996 │
-│   215   │  'Investor #1'  │ 307.2608000000001  │
-│   216   │ 'Investor #93'  │      307.2609      │
-│   217   │  'Lawyer #109'  │      307.4257      │
-│   218   │ 'Investor #26'  │      307.4257      │
-│   219   │  'Lawyer #150'  │ 307.42580000000004 │
-│   220   │  'Lawyer #161'  │ 307.42580000000004 │
-│   221   │  'Lawyer #254'  │ 307.42580000000004 │
-│   222   │  'Lawyer #21'   │      307.4259      │
-│   223   │  'Lawyer #124'  │      307.4259      │
-│   224   │   'Lawyer #7'   │      307.5908      │
-│   225   │  'Lawyer #60'   │      307.5908      │
-│   226   │ 'Investor #91'  │      307.5909      │
-│   227   │ 'Investor #43'  │ 307.59090000000003 │
-│   228   │  'Investor #7'  │      307.7557      │
-│   229   │  'Lawyer #233'  │      307.7561      │
-│   230   │   'Lawyer #2'   │      307.9208      │
-│   231   │  'Lawyer #172'  │ 307.92080000000004 │
-│   232   │  'Lawyer #18'   │      307.9209      │
-│   233   │ 'Investor #148' │      307.9209      │
-│   234   │ 'Investor #25'  │      307.921       │
-│   235   │  'Lawyer #28'   │      308.0858      │
-│   236   │ 'Investor #32'  │      308.0858      │
-│   237   │ 'Investor #137' │ 308.08600000000007 │
-│   238   │  'Lawyer #194'  │      308.0861      │
-│   239   │  'Lawyer #49'   │ 308.08610000000004 │
-│   240   │ 'Investor #79'  │ 308.08610000000004 │
-│   241   │ 'Investor #184' │ 308.25089999999994 │
-│   242   │ 'Investor #158' │      308.2509      │
-│   243   │ 'Investor #71'  │      308.2509      │
-│   244   │  'Lawyer #204'  │ 308.25090000000006 │
-│   245   │  'Lawyer #203'  │ 308.25100000000003 │
-│   246   │ 'Investor #114' │ 308.25100000000003 │
-│   247   │  'Lawyer #261'  │ 308.41580000000005 │
-│   248   │ 'Investor #12'  │      308.416       │
-│   249   │  'Lawyer #91'   │ 308.41610000000003 │
-│   250   │ 'Investor #92'  │ 308.58070000000004 │
-│   251   │  'Lawyer #207'  │      308.5808      │
-│   252   │  'Lawyer #294'  │      308.581       │
-│   253   │ 'Investor #23'  │ 308.74589999999995 │
-│   254   │  'Lawyer #237'  │      308.7459      │
-│   255   │  'Lawyer #125'  │      308.746       │
-│   256   │  'Lawyer #209'  │      308.7461      │
-│   257   │  'Lawyer #140'  │ 308.91080000000005 │
-│   258   │  'Lawyer #15'   │      308.9109      │
-│   259   │  'Lawyer #23'   │      308.9109      │
-│   260   │ 'Investor #17'  │ 308.91110000000003 │
-│   261   │  'Investor #9'  │ 309.07599999999996 │
-│   262   │ 'Investor #98'  │      309.076       │
-│   263   │  'Lawyer #106'  │ 309.24089999999995 │
-│   264   │  'Lawyer #156'  │      309.241       │
-│   265   │  'Lawyer #22'   │ 309.24100000000004 │
-│   266   │  'Lawyer #71'   │ 309.24100000000004 │
-│   267   │  'Lawyer #187'  │ 309.24100000000004 │
-│   268   │  'Lawyer #222'  │ 309.24100000000004 │
-│   269   │ 'Investor #143' │ 309.24100000000004 │
-│   270   │ 'Investor #112' │      309.2411      │
-│   271   │  'Lawyer #168'  │ 309.40590000000003 │
-│   272   │ 'Investor #11'  │      309.406       │
-│   273   │   'Lawyer #8'   │      309.4061      │
-│   274   │  'Lawyer #283'  │      309.4061      │
-│   275   │  'Lawyer #299'  │      309.4061      │
-│   276   │  'Lawyer #62'   │ 309.57099999999997 │
-│   277   │  'Lawyer #213'  │ 309.57099999999997 │
-│   278   │ 'Investor #197' │      309.5711      │
-│   279   │  'Investor #8'  │      309.5711      │
-│   280   │ 'Investor #41'  │ 309.57110000000006 │
-│   281   │  'Lawyer #78'   │      309.7358      │
-│   282   │ 'Investor #157' │ 309.7359000000001  │
-│   283   │  'Lawyer #247'  │      309.736       │
-│   284   │  'Lawyer #206'  │ 309.73600000000005 │
-│   285   │ 'Investor #97'  │ 309.73600000000005 │
-│   286   │ 'Investor #177' │ 309.73600000000005 │
-│   287   │  'Lawyer #214'  │      309.7361      │
-│   288   │  'Lawyer #243'  │      309.7361      │
-│   289   │ 'Investor #11'  │      309.7362      │
-│   290   │ 'Investor #16'  │ 309.90090000000004 │
-│   291   │ 'Investor #121' │ 309.90090000000004 │
-│   292   │  'Lawyer #139'  │      309.901       │
-│   293   │  'Lawyer #178'  │      309.901       │
-│   294   │ 'Investor #104' │      309.901       │
-│   295   │ 'Investor #196' │      309.901       │
-│   296   │  'Lawyer #58'   │      309.9011      │
-│   297   │  'Lawyer #137'  │      309.9011      │
-│   298   │  'Investor #3'  │ 309.90119999999996 │
-│   299   │  'Lawyer #181'  │      310.066       │
-│   300   │  'Lawyer #188'  │      310.0661      │
-│   301   │  'Lawyer #259'  │      310.0661      │
-│   302   │ 'Investor #19'  │ 310.06620000000004 │
-│   303   │ 'Investor #81'  │      310.0663      │
-│   304   │ 'Investor #124' │ 310.23109999999997 │
-│   305   │ 'Investor #159' │      310.2311      │
-│   306   │  'Lawyer #111'  │      310.2312      │
-│   307   │ 'Investor #107' │      310.2312      │
-│   308   │ 'Investor #41'  │      310.396       │
-│   309   │ 'Investor #95'  │      310.3961      │
-│   310   │ 'Investor #44'  │      310.3961      │
-│   311   │ 'Investor #113' │ 310.39619999999996 │
-│   312   │  'Lawyer #162'  │      310.3962      │
-│   313   │ 'Investor #49'  │      310.3962      │
-│   314   │ 'Investor #75'  │ 310.56100000000004 │
-│   315   │ 'Investor #46'  │ 310.56109999999995 │
-│   316   │  'Lawyer #32'   │      310.5611      │
-│   317   │  'Lawyer #193'  │ 310.56120000000004 │
-│   318   │  'Lawyer #296'  │      310.726       │
-│   319   │  'Lawyer #80'   │ 310.72610000000003 │
-│   320   │ 'Investor #70'  │ 310.72610000000003 │
-│   321   │ 'Investor #141' │ 310.72610000000003 │
-│   322   │ 'Investor #147' │ 310.72610000000003 │
-│   323   │ 'Investor #155' │ 310.72610000000003 │
-│   324   │  'Lawyer #16'   │      310.7262      │
-│   325   │  'Investor #8'  │      310.7262      │
-│   326   │ 'Investor #22'  │      310.7263      │
-│   327   │ 'Investor #52'  │      310.7263      │
-│   328   │ 'Investor #111' │      310.891       │
-│   329   │ 'Investor #126' │      310.8913      │
-│   330   │ 'Investor #139' │ 310.89130000000006 │
-│   331   │  'Lawyer #93'   │ 311.05609999999996 │
-│   332   │ 'Investor #31'  │      311.0561      │
-│   333   │ 'Investor #165' │ 311.0561000000001  │
-│   334   │  'Lawyer #37'   │ 311.05620000000005 │
-│   335   │  'Lawyer #148'  │ 311.05620000000005 │
-│   336   │  'Lawyer #293'  │      311.0563      │
-│   337   │  'Lawyer #133'  │      311.2212      │
-│   338   │  'Lawyer #30'   │      311.2213      │
-│   339   │  'Lawyer #110'  │      311.3861      │
-│   340   │  'Lawyer #81'   │      311.3862      │
-│   341   │ 'Investor #32'  │      311.3862      │
-│   342   │ 'Investor #190' │      311.3863      │
-│   343   │  'Lawyer #176'  │      311.5512      │
-│   344   │  'Lawyer #55'   │      311.5513      │
-│   345   │ 'Investor #26'  │      311.5513      │
-│   346   │  'Lawyer #112'  │      311.5514      │
-│   347   │  'Lawyer #46'   │ 311.71610000000004 │
-│   348   │  'Lawyer #74'   │      311.7163      │
-│   349   │  'Lawyer #158'  │ 311.71630000000005 │
-│   350   │ 'Investor #40'  │      311.8811      │
-│   351   │  'Lawyer #47'   │      311.8812      │
-│   352   │  'Lawyer #249'  │ 311.88120000000004 │
-│   353   │  'Lawyer #96'   │      311.8813      │
-│   354   │  'Lawyer #40'   │ 311.88130000000007 │
-│   355   │  'Lawyer #70'   │ 311.88130000000007 │
-│   356   │ 'Investor #135' │ 311.88130000000007 │
-│   357   │  'Investor #2'  │ 311.88140000000004 │
-│   358   │ 'Investor #42'  │      312.046       │
-│   359   │  'Lawyer #54'   │ 312.04620000000006 │
-│   360   │ 'Investor #187' │ 312.04630000000003 │
-│   361   │ 'Investor #59'  │      312.0464      │
-│   362   │ 'Investor #116' │ 312.21110000000004 │
-│   363   │ 'Investor #28'  │      312.2112      │
-│   364   │  'Lawyer #20'   │      312.2113      │
-│   365   │  'Lawyer #12'   │      312.2114      │
-│   366   │  'Lawyer #52'   │      312.2114      │
-│   367   │  'Lawyer #155'  │      312.2114      │
-│   368   │ 'Investor #101' │      312.3762      │
-│   369   │  'Lawyer #177'  │ 312.37640000000005 │
-│   370   │ 'Investor #77'  │      312.5411      │
-│   371   │  'Lawyer #271'  │ 312.54110000000003 │
-│   372   │  'Lawyer #239'  │ 312.54119999999995 │
-│   373   │  'Lawyer #144'  │ 312.54130000000004 │
-│   374   │ 'Investor #49'  │ 312.54130000000004 │
-│   375   │  'Lawyer #248'  │ 312.54150000000004 │
-│   376   │ 'Investor #199' │      312.7063      │
-│   377   │  'Lawyer #286'  │      312.7064      │
-│   378   │  'Lawyer #169'  │ 312.70640000000003 │
-│   379   │ 'Investor #179' │ 312.70640000000003 │
-│   380   │ 'Investor #10'  │ 312.70660000000004 │
-│   381   │  'Lawyer #138'  │      312.8715      │
-│   382   │  'Lawyer #34'   │ 313.20120000000003 │
-│   383   │ 'Investor #14'  │      313.2013      │
-│   384   │ 'Investor #171' │      313.2013      │
-│   385   │  'Lawyer #35'   │      313.2014      │
-│   386   │  'Lawyer #98'   │      313.2014      │
-│   387   │  'Lawyer #195'  │      313.2014      │
-│   388   │  'Lawyer #85'   │ 313.20140000000004 │
-│   389   │  'Lawyer #224'  │ 313.20149999999995 │
-│   390   │  'Lawyer #44'   │      313.3663      │
-│   391   │ 'Investor #73'  │ 313.36640000000006 │
-│   392   │  'Lawyer #116'  │ 313.36650000000003 │
-│   393   │ 'Investor #61'  │ 313.36650000000003 │
-│   394   │  'Lawyer #160'  │      313.3666      │
-│   395   │  'Investor #6'  │      313.5313      │
-│   396   │  'Lawyer #182'  │ 313.53130000000004 │
-│   397   │  'Lawyer #107'  │      313.5314      │
-│   398   │  'Lawyer #126'  │      313.5314      │
-│   399   │  'Investor #7'  │      313.5314      │
-│   400   │ 'Investor #169' │      313.5315      │
-│   401   │  'Lawyer #287'  │ 313.69640000000004 │
-│   402   │ 'Investor #27'  │      313.6967      │
-│   403   │ 'Investor #70'  │ 313.86150000000004 │
-│   404   │  'Lawyer #89'   │      313.8616      │
-│   405   │  'Lawyer #288'  │      313.8616      │
-│   406   │  'Lawyer #104'  │ 314.02639999999997 │
-│   407   │  'Investor #0'  │      314.0264      │
-│   408   │ 'Investor #35'  │      314.1913      │
-│   409   │  'Lawyer #82'   │      314.1914      │
-│   410   │  'Lawyer #242'  │ 314.19149999999996 │
-│   411   │ 'Investor #29'  │      314.1915      │
-│   412   │  'Lawyer #27'   │ 314.1915000000001  │
-│   413   │  'Lawyer #275'  │      314.1916      │
-│   414   │ 'Investor #162' │      314.1917      │
-│   415   │  'Lawyer #86'   │      314.3564      │
-│   416   │  'Lawyer #114'  │      314.3564      │
-│   417   │ 'Investor #60'  │ 314.35640000000006 │
-│   418   │  'Investor #5'  │ 314.35650000000004 │
-│   419   │ 'Investor #62'  │      314.3566      │
-│   420   │ 'Investor #156' │      314.3566      │
-│   421   │ 'Investor #39'  │      314.5214      │
-│   422   │  'Lawyer #113'  │      314.5215      │
-│   423   │  'Lawyer #123'  │      314.5215      │
-│   424   │  'Lawyer #129'  │      314.5215      │
-│   425   │  'Lawyer #99'   │      314.5216      │
-│   426   │  'Lawyer #205'  │      314.6864      │
-│   427   │ 'Investor #23'  │      314.6864      │
-│   428   │  'Lawyer #211'  │ 314.68660000000006 │
-│   429   │  'Lawyer #146'  │      314.8516      │
-│   430   │  'Lawyer #151'  │      314.8516      │
-│   431   │ 'Investor #149' │      314.8516      │
-│   432   │  'Investor #2'  │      314.8516      │
-│   433   │ 'Investor #69'  │      314.8516      │
-│   434   │  'Lawyer #290'  │      314.8517      │
-│   435   │  'Lawyer #79'   │      315.0165      │
-│   436   │  'Lawyer #295'  │      315.0165      │
-│   437   │  'Lawyer #25'   │      315.0166      │
-│   438   │  'Lawyer #100'  │      315.0166      │
-│   439   │  'Lawyer #298'  │      315.0166      │
-│   440   │ 'Investor #78'  │      315.0166      │
-│   441   │  'Lawyer #180'  │      315.0167      │
-│   442   │  'Lawyer #132'  │      315.1814      │
-│   443   │  'Lawyer #199'  │      315.1815      │
-│   444   │  'Lawyer #219'  │ 315.18160000000006 │
-│   445   │  'Investor #4'  │      315.1817      │
-│   446   │ 'Investor #36'  │ 315.18170000000003 │
-│   447   │ 'Investor #77'  │ 315.18170000000003 │
-│   448   │ 'Investor #92'  │ 315.18170000000003 │
-│   449   │  'Lawyer #57'   │      315.3467      │
-│   450   │  'Lawyer #281'  │      315.3467      │
-│   451   │ 'Investor #55'  │      315.3467      │
-│   452   │ 'Investor #61'  │      315.3467      │
-│   453   │  'Lawyer #226'  │ 315.34670000000006 │
-│   454   │ 'Investor #88'  │      315.5115      │
-│   455   │   'Lawyer #0'   │      315.5116      │
-│   456   │  'Lawyer #159'  │      315.5116      │
-│   457   │  'Lawyer #165'  │      315.5116      │
-│   458   │  'Lawyer #266'  │ 315.51169999999996 │
-│   459   │ 'Investor #87'  │      315.5117      │
-│   460   │  'Lawyer #141'  │ 315.5117000000001  │
-│   461   │ 'Investor #17'  │      315.5119      │
-│   462   │   'Lawyer #1'   │      315.6765      │
-│   463   │  'Lawyer #108'  │ 315.67659999999995 │
-│   464   │ 'Investor #57'  │ 315.67660000000006 │
-│   465   │  'Lawyer #241'  │      315.6767      │
-│   466   │   'Lawyer #9'   │ 315.84150000000005 │
-│   467   │  'Lawyer #263'  │      315.8417      │
-│   468   │ 'Investor #76'  │      315.8418      │
-│   469   │ 'Investor #30'  │      315.8418      │
-│   470   │ 'Investor #81'  │      315.8418      │
-│   471   │  'Lawyer #202'  │ 315.84180000000003 │
-│   472   │ 'Investor #144' │      315.8419      │
-│   473   │  'Lawyer #149'  │      316.0066      │
-│   474   │ 'Investor #119' │      316.0066      │
-│   475   │ 'Investor #51'  │      316.0067      │
-│   476   │  'Lawyer #171'  │      316.0068      │
-│   477   │ 'Investor #188' │      316.1714      │
-│   478   │  'Lawyer #215'  │      316.1717      │
-│   479   │  'Lawyer #147'  │      316.1718      │
-│   480   │  'Lawyer #223'  │      316.1718      │
-│   481   │  'Lawyer #212'  │      316.3365      │
-│   482   │ 'Investor #80'  │ 316.33650000000006 │
-│   483   │  'Lawyer #95'   │      316.5016      │
-│   484   │ 'Investor #13'  │      316.5017      │
-│   485   │ 'Investor #56'  │      316.5018      │
-│   486   │  'Lawyer #122'  │ 316.50190000000003 │
-│   487   │ 'Investor #85'  │ 316.66659999999996 │
-│   488   │  'Lawyer #174'  │      316.6669      │
-│   489   │ 'Investor #63'  │      316.8317      │
-│   490   │  'Lawyer #278'  │ 316.83189999999996 │
-│   491   │  'Lawyer #59'   │ 316.8319000000001  │
-│   492   │  'Lawyer #244'  │ 316.99670000000003 │
-│   493   │ 'Investor #68'  │      316.9968      │
-│   494   │ 'Investor #164' │ 317.16170000000005 │
-│   495   │ 'Investor #170' │      317.3267      │
-│   496   │  'Lawyer #227'  │      317.3268      │
-│   497   │  'Lawyer #131'  │      317.4918      │
-│   498   │ 'Investor #10'  │      317.4918      │
-│   499   │  'Lawyer #45'   │ 317.49190000000004 │
-│   500   │  'Lawyer #285'  │      317.492       │
-│   501   │ 'Investor #33'  │ 317.65670000000006 │
-│   502   │ 'Investor #82'  │ 317.65670000000006 │
-│   503   │  'Lawyer #69'   │ 317.65680000000003 │
-│   504   │  'Lawyer #267'  │ 317.65680000000003 │
-│   505   │  'Lawyer #153'  │      317.6569      │
-│   506   │ 'Investor #118' │      317.6569      │
-│   507   │  'Lawyer #51'   │ 317.82180000000005 │
-│   508   │  'Lawyer #291'  │ 317.98690000000005 │
-│   509   │  'Lawyer #31'   │ 318.15180000000004 │
-│   510   │  'Lawyer #245'  │ 318.15180000000004 │
-│   511   │  'Lawyer #136'  │      318.1519      │
-│   512   │  'Lawyer #120'  │      318.152       │
-│   513   │ 'Investor #186' │      318.152       │
-│   514   │ 'Investor #59'  │      318.3167      │
-│   515   │ 'Investor #65'  │      318.3167      │
-│   516   │   'Lawyer #4'   │      318.3169      │
-│   517   │ 'Investor #154' │      318.3169      │
-│   518   │  'Lawyer #166'  │ 318.31700000000006 │
-│   519   │ 'Investor #27'  │ 318.31700000000006 │
-│   520   │ 'Investor #57'  │      318.482       │
-│   521   │  'Lawyer #252'  │      318.6469      │
-│   522   │ 'Investor #108' │      318.8117      │
-│   523   │  'Lawyer #253'  │      318.8119      │
-│   524   │  'Lawyer #297'  │ 318.81200000000007 │
-│   525   │  'Lawyer #208'  │      318.9769      │
-│   526   │ 'Investor #192' │ 318.97690000000006 │
-│   527   │  'Lawyer #61'   │      319.142       │
-│   528   │  'Lawyer #279'  │      319.142       │
-│   529   │ 'Investor #14'  │ 319.14209999999997 │
-│   530   │  'Lawyer #230'  │ 319.30699999999996 │
-│   531   │ 'Investor #74'  │ 319.30699999999996 │
-│   532   │ 'Investor #58'  │      319.3072      │
-│   533   │  'Lawyer #94'   │ 319.47200000000004 │
-│   534   │  'Lawyer #157'  │      319.6369      │
-│   535   │ 'Investor #131' │      319.6369      │
-│   536   │ 'Investor #87'  │      319.637       │
-│   537   │ 'Investor #83'  │      319.6371      │
-│   538   │ 'Investor #109' │      319.6371      │
-│   539   │  'Lawyer #26'   │ 319.80199999999996 │
-│   540   │ 'Investor #140' │ 319.8020000000001  │
-│   541   │ 'Investor #79'  │      319.8023      │
-│   542   │ 'Investor #37'  │      319.967       │
-│   543   │  'Lawyer #39'   │      319.9671      │
-│   544   │ 'Investor #151' │      319.9671      │
-│   545   │ 'Investor #120' │      320.132       │
-│   546   │  'Lawyer #128'  │ 320.13210000000004 │
-│   547   │  'Lawyer #164'  │ 320.29699999999997 │
-│   548   │ 'Investor #54'  │ 320.2970000000001  │
-│   549   │  'Lawyer #167'  │      320.2971      │
-│   550   │ 'Investor #75'  │ 320.29710000000006 │
-│   551   │ 'Investor #42'  │ 320.29710000000006 │
-│   552   │  'Lawyer #201'  │ 320.46200000000005 │
-│   553   │ 'Investor #103' │ 320.46200000000005 │
-│   554   │  'Lawyer #272'  │      320.4621      │
-│   555   │  'Lawyer #173'  │      320.4623      │
-│   556   │ 'Investor #174' │      320.4623      │
-│   557   │  'Lawyer #41'   │      320.6271      │
-│   558   │  'Lawyer #200'  │ 320.62710000000004 │
-│   559   │ 'Investor #180' │      320.6272      │
-│   560   │  'Lawyer #119'  │ 320.62730000000005 │
-│   561   │  'Lawyer #260'  │ 320.79209999999995 │
-│   562   │  'Lawyer #221'  │      320.9571      │
-│   563   │  'Lawyer #277'  │      321.1221      │
-│   564   │  'Lawyer #77'   │      321.287       │
-│   565   │  'Lawyer #121'  │      321.6171      │
-│   566   │  'Lawyer #284'  │ 321.61719999999997 │
-│   567   │ 'Investor #64'  │ 321.61730000000006 │
-│   568   │  'Lawyer #152'  │      321.7821      │
-│   569   │ 'Investor #68'  │      321.9472      │
-│   570   │  'Lawyer #228'  │ 321.94730000000004 │
-│   571   │ 'Investor #84'  │      322.2775      │
-│   572   │ 'Investor #35'  │      322.4423      │
-│   573   │ 'Investor #20'  │      322.6075      │
-│   574   │  'Lawyer #270'  │      322.7722      │
-│   575   │ 'Investor #129' │      322.7725      │
-│   576   │  'Lawyer #218'  │      322.9373      │
-│   577   │  'Lawyer #216'  │ 322.93739999999997 │
-│   578   │  'Lawyer #118'  │ 323.10230000000007 │
-│   579   │ 'Investor #39'  │ 323.26720000000006 │
-│   580   │  'Lawyer #67'   │ 323.26730000000003 │
-│   581   │  'Lawyer #240'  │      323.2674      │
-│   582   │  'Lawyer #48'   │      323.2675      │
-│   583   │  'Lawyer #145'  │ 323.4324000000001  │
-│   584   │ 'Investor #73'  │      323.5975      │
-│   585   │  'Lawyer #276'  │      324.7525      │
-│   586   │  'Lawyer #38'   │ 324.75260000000003 │
-│   587   │  'Lawyer #292'  │ 324.75260000000003 │
-│   588   │  'Lawyer #154'  │ 324.91760000000005 │
-│   589   │ 'Investor #110' │ 325.08240000000006 │
-│   590   │ 'Investor #178' │ 325.24770000000007 │
-│   591   │ 'Investor #152' │      325.4124      │
-│   592   │ 'Investor #176' │      325.5776      │
-│   593   │ 'Investor #146' │      325.7425      │
-│   594   │ 'Investor #182' │ 325.90760000000006 │
-│   595   │ 'Investor #117' │ 326.40270000000004 │
-│   596   │  'Lawyer #251'  │ 327.72280000000006 │
-│   597   │ 'Investor #54'  │ 327.88759999999996 │
-│   598   │  'Lawyer #231'  │      328.5477      │
-│   599   │ 'Investor #15'  │ 329.0429000000001  │
-│   600   │   'Lawyer #6'   │ 330.5280000000001  │
-│   601   │ 'Investor #71'  │ 331.02320000000003 │
-│   602   │ 'Investor #189' │      332.0131      │
-│   603   │  'Lawyer #192'  │ 332.50840000000005 │
-│   604   │  'Lawyer #88'   │ 333.16830000000004 │
-│   605   │ 'Investor #163' │ 336.13860000000005 │
-└─────────┴─────────────────┴────────────────────┘
+┌─────────┬────────────────┬────────────────────┐
+│ (index) │      name      │     raritySum      │
+├─────────┼────────────────┼────────────────────┤
+│    0    │ 'Investor #23' │      134.6157      │
+│    1    │ 'Investor #24' │      134.6157      │
+│    2    │ 'Investor #25' │      134.6157      │
+│    3    │  'Lawyer #1'   │ 265.38480000000004 │
+│    4    │ 'Investor #21' │      265.3849      │
+│    5    │  'Lawyer #11'  │      280.7695      │
+│    6    │ 'Investor #18' │      280.7695      │
+│    7    │  'Lawyer #12'  │ 280.76959999999997 │
+│    8    │  'Lawyer #10'  │      280.7696      │
+│    9    │ 'Investor #14' │ 300.00020000000006 │
+│   10    │ 'Investor #0'  │ 300.00030000000004 │
+│   11    │  'Lawyer #9'   │      307.6924      │
+│   12    │  'Lawyer #3'   │      311.5386      │
+│   13    │  'Lawyer #7'   │ 315.38470000000007 │
+│   14    │ 'Investor #19' │      315.3848      │
+│   15    │ 'Investor #13' │ 315.38480000000004 │
+│   16    │  'Lawyer #5'   │      319.2308      │
+│   17    │  'Lawyer #0'   │      323.077       │
+│   18    │  'Lawyer #8'   │      326.9231      │
+│   19    │ 'Investor #15' │ 326.92319999999995 │
+│   20    │ 'Investor #20' │ 326.92330000000004 │
+│   21    │ 'Investor #0'  │      326.9234      │
+│   22    │  'Lawyer #2'   │      334.6155      │
+│   23    │  'Lawyer #4'   │      334.6156      │
+│   24    │  'Lawyer #6'   │      338.4616      │
+│   25    │ 'Investor #16' │ 346.15409999999997 │
+└─────────┴────────────────┴────────────────────┘
 { trait: '1_Layer' }
 [
   {
-    name: 'FaceAccessories_01_star eye tattoo_A',
-    count: 1,
-    percentage: '0.1650'
-  },
-  {
-    name: 'FaceAccessories_01_star eye tattoo_B',
-    count: 1,
-    percentage: '0.1650'
-  },
-  {
-    name: 'FaceAccessories_01_star eye tattoo_D',
-    count: 1,
-    percentage: '0.1650'
-  },
-  {
-    name: 'FaceAccessories_01_star eye tattoo_F',
-    count: 3,
-    percentage: '0.4950'
-  },
-  {
     name: 'FaceAggressivePrimary_aggressive_A',
-    count: 5,
-    percentage: '0.8251'
-  },
-  {
-    name: 'FaceAggressivePrimary_aggressive_B',
-    count: 7,
-    percentage: '1.1551'
-  },
-  {
-    name: 'FaceAggressivePrimary_aggressive_C',
-    count: 10,
-    percentage: '1.6502'
-  },
-  {
-    name: 'FaceAggressivePrimary_aggressive_D',
-    count: 6,
-    percentage: '0.9901'
-  },
-  {
-    name: 'FaceAggressivePrimary_aggressive_E',
-    count: 6,
-    percentage: '0.9901'
-  },
-  {
-    name: 'FaceAggressivePrimary_aggressive_F',
-    count: 9,
-    percentage: '1.4851'
-  },
-  {
-    name: 'FaceAggressivePrimary_aggressive_G',
-    count: 6,
-    percentage: '0.9901'
-  },
-  {
-    name: 'FaceDeviousPrimary_devious_A',
-    count: 9,
-    percentage: '1.4851'
-  },
-  {
-    name: 'FaceDeviousPrimary_devious_B',
-    count: 3,
-    percentage: '0.4950'
-  },
-  {
-    name: 'FaceDeviousPrimary_devious_C',
-    count: 6,
-    percentage: '0.9901'
-  },
-  {
-    name: 'FaceDeviousPrimary_devious_D',
-    count: 7,
-    percentage: '1.1551'
-  },
-  {
-    name: 'FaceDeviousPrimary_devious_E',
-    count: 4,
-    percentage: '0.6601'
-  },
-  {
-    name: 'FaceDeviousPrimary_devious_F',
-    count: 5,
-    percentage: '0.8251'
+    count: 1,
+    percentage: '3.8462'
   },
   {
     name: 'FaceDeviousPrimary_devious_G',
-    count: 8,
-    percentage: '1.3201'
-  },
-  {
-    name: 'FaceOptimisticPrimary_02_optimistic_2_A',
-    count: 13,
-    percentage: '2.1452'
-  },
-  {
-    name: 'FaceOptimisticPrimary_02_optimistic_2_B',
-    count: 6,
-    percentage: '0.9901'
+    count: 1,
+    percentage: '3.8462'
   },
   {
     name: 'FaceOptimisticPrimary_02_optimistic_2_C',
-    count: 10,
-    percentage: '1.6502'
-  },
-  {
-    name: 'FaceOptimisticPrimary_02_optimistic_2_D',
-    count: 3,
-    percentage: '0.4950'
-  },
-  {
-    name: 'FaceOptimisticPrimary_02_optimistic_2_E',
-    count: 8,
-    percentage: '1.3201'
+    count: 1,
+    percentage: '3.8462'
   },
   {
     name: 'FaceOptimisticPrimary_02_optimistic_2_F',
-    count: 9,
-    percentage: '1.4851'
-  },
-  {
-    name: 'FaceOptimisticPrimary_02_optimistic_2_G',
-    count: 7,
-    percentage: '1.1551'
+    count: 1,
+    percentage: '3.8462'
   },
   {
     name: 'FaceRegretfulPrimary_regretful_2_A',
-    count: 7,
-    percentage: '1.1551'
-  },
-  {
-    name: 'FaceRegretfulPrimary_regretful_2_B',
-    count: 9,
-    percentage: '1.4851'
+    count: 1,
+    percentage: '3.8462'
   },
   {
     name: 'FaceRegretfulPrimary_regretful_2_C',
-    count: 9,
-    percentage: '1.4851'
-  },
-  {
-    name: 'FaceRegretfulPrimary_regretful_2_D',
-    count: 10,
-    percentage: '1.6502'
+    count: 1,
+    percentage: '3.8462'
   },
   {
     name: 'FaceRegretfulPrimary_regretful_2_E',
-    count: 7,
-    percentage: '1.1551'
+    count: 1,
+    percentage: '3.8462'
   },
-  {
-    name: 'FaceRegretfulPrimary_regretful_2_F',
-    count: 12,
-    percentage: '1.9802'
-  },
-  {
-    name: 'FaceRegretfulPrimary_regretful_2_G',
-    count: 9,
-    percentage: '1.4851'
-  },
-  { name: 'FaceSmugSecondary_smug_A', count: 8, percentage: '1.3201' },
-  { name: 'FaceSmugSecondary_smug_B', count: 5, percentage: '0.8251' },
-  { name: 'FaceSmugSecondary_smug_C', count: 11, percentage: '1.8152' },
-  { name: 'FaceSmugSecondary_smug_D', count: 7, percentage: '1.1551' },
-  { name: 'FaceSmugSecondary_smug_F', count: 10, percentage: '1.6502' },
-  { name: 'FaceSmugSecondary_smug_G', count: 8, percentage: '1.3201' }
+  { name: 'FaceSmugSecondary_smug_C', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugSecondary_smug_D', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugSecondary_smug_F', count: 1, percentage: '3.8462' }
 ]
 { trait: '2_Layer' }
 [
-  { name: 'FaceSmugPrimary_smug_A', count: 7, percentage: '1.1551' },
-  { name: 'FaceSmugPrimary_smug_B', count: 7, percentage: '1.1551' },
-  { name: 'FaceSmugPrimary_smug_C', count: 8, percentage: '1.3201' },
-  { name: 'FaceSmugPrimary_smug_D', count: 7, percentage: '1.1551' },
-  { name: 'FaceSmugPrimary_smug_E', count: 6, percentage: '0.9901' },
-  { name: 'FaceSmugPrimary_smug_F', count: 6, percentage: '0.9901' },
-  { name: 'FaceSmugPrimary_smug_G', count: 8, percentage: '1.3201' }
+  { name: 'FaceSmugPrimary_smug_A', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugPrimary_smug_C', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugPrimary_smug_G', count: 1, percentage: '3.8462' }
 ]
 { trait: '6_LA' }
 [
   {
     name: 'FaceAccessories_01_line_art_-',
-    count: 32,
-    percentage: '5.2805'
+    count: 1,
+    percentage: '3.8462'
   }
 ]
 { trait: 'Accessory' }
 [
-  { name: 'Basic Cigarette', count: 26, percentage: '4.2904' },
-  { name: 'Black Boba Tea', count: 5, percentage: '0.8251' },
-  { name: 'Black Diamond Ear Ring', count: 6, percentage: '0.9901' },
-  { name: 'Black Face Mask', count: 11, percentage: '1.8152' },
-  { name: 'Blue Boba Tea', count: 3, percentage: '0.4950' },
-  { name: 'Blue Chewing Gum', count: 17, percentage: '2.8053' },
-  { name: 'Blue Cigarette', count: 5, percentage: '0.8251' },
-  { name: 'Blue Octopus', count: 1, percentage: '0.1650' },
-  { name: 'Bright Purple Boba Tea', count: 6, percentage: '0.9901' },
-  { name: 'Bright Red Boba Tea', count: 4, percentage: '0.6601' },
-  { name: 'Bright Yellow Boba Tea', count: 2, percentage: '0.3300' },
-  { name: 'Cyan Boba Tea', count: 4, percentage: '0.6601' },
-  { name: 'Cyber Cigarette', count: 20, percentage: '3.3003' },
-  { name: 'Dark Grey Boba Tea', count: 6, percentage: '0.9901' },
-  { name: 'Desire Red Earcuff', count: 6, percentage: '0.9901' },
-  { name: 'Emerald Green Face Mask', count: 7, percentage: '1.1551' },
-  { name: 'Glaucous Blue Face Mask', count: 1, percentage: '0.1650' },
-  { name: 'Green Boba Tea', count: 5, percentage: '0.8251' },
-  { name: 'Green Chewing Gum', count: 19, percentage: '3.1353' },
-  { name: 'Green Cigarette', count: 7, percentage: '1.1551' },
-  { name: 'Green Coconut Martini', count: 6, percentage: '0.9901' },
-  { name: 'Green Face Mask', count: 10, percentage: '1.6502' },
-  { name: 'Grey Octopus', count: 1, percentage: '0.1650' },
-  { name: 'Indigo Coconut Martini', count: 2, percentage: '0.3300' },
-  { name: 'Lanzones Yellow Face Mask', count: 7, percentage: '1.1551' },
-  {
-    name: 'Light Blue Coconut Martini',
-    count: 11,
-    percentage: '1.8152'
-  },
-  {
-    name: 'Light Blue Diamond Ear Ring',
-    count: 13,
-    percentage: '2.1452'
-  },
-  { name: 'Light Grey Earcuff', count: 6, percentage: '0.9901' },
-  { name: 'Lime Green Boba Tea', count: 4, percentage: '0.6601' },
-  { name: 'Magenta Coconut Martini', count: 6, percentage: '0.9901' },
-  { name: 'Magenta Earcuff', count: 5, percentage: '0.8251' },
-  { name: 'Maroon Ribbon', count: 1, percentage: '0.1650' },
-  { name: 'Mint Green Chewing Gum', count: 9, percentage: '1.4851' },
-  { name: 'Mint Green Earcuff', count: 6, percentage: '0.9901' },
-  { name: 'Munsell Yellow Earcuff', count: 8, percentage: '1.3201' },
-  { name: 'Orange Chewing Gum', count: 2, percentage: '0.3300' },
-  { name: 'Orange Coconut Martini', count: 9, percentage: '1.4851' },
-  { name: 'Orange Face Mask', count: 2, percentage: '0.3300' },
-  { name: 'Orange Octopus', count: 1, percentage: '0.1650' },
-  { name: 'Pale Peach Yellow Earcuff', count: 6, percentage: '0.9901' },
-  { name: 'Pink Boba Tea', count: 5, percentage: '0.8251' },
-  { name: 'Pink Chewing Gum', count: 11, percentage: '1.8152' },
-  { name: 'Pink Coconut Martini', count: 11, percentage: '1.8152' },
-  { name: 'Pink Face Mask', count: 6, percentage: '0.9901' },
-  { name: 'Pink Ribbon', count: 1, percentage: '0.1650' },
-  { name: 'Purple Chewing Gum', count: 13, percentage: '2.1452' },
-  { name: 'Purple Cigarette', count: 11, percentage: '1.8152' },
-  { name: 'Purple Coconut Martini', count: 8, percentage: '1.3201' },
-  { name: 'Purple Diamond Ear Ring', count: 7, percentage: '1.1551' },
-  { name: 'Purple Face Mask', count: 9, percentage: '1.4851' },
-  { name: 'Red Boba Tea', count: 5, percentage: '0.8251' },
-  { name: 'Red Coconut Martini', count: 5, percentage: '0.8251' },
-  { name: 'Red Diamond Ear Ring', count: 4, percentage: '0.6601' },
-  { name: 'Red Face Mask', count: 2, percentage: '0.3300' },
-  { name: 'Royal Blue Earcuff', count: 2, percentage: '0.3300' },
-  { name: 'Ruby Red Face Mask', count: 5, percentage: '0.8251' },
-  { name: 'Tawny Brown Face Mask', count: 4, percentage: '0.6601' },
-  { name: 'Teal Face Mask', count: 1, percentage: '0.1650' },
-  { name: 'Violet Face Mask', count: 2, percentage: '0.3300' },
-  { name: 'Violet Ribbon', count: 1, percentage: '0.1650' },
-  { name: 'White Boba Tea', count: 10, percentage: '1.6502' },
-  { name: 'White Cigarette', count: 3, percentage: '0.4950' },
-  { name: 'White Diamond Ear Ring', count: 13, percentage: '2.1452' },
-  { name: 'Yellow Boba Tea', count: 7, percentage: '1.1551' },
-  { name: 'Yellow Chewing Gum', count: 15, percentage: '2.4752' },
-  { name: 'Yellow Cigarette', count: 6, percentage: '0.9901' },
-  { name: 'Yellow Coconut Martini', count: 10, percentage: '1.6502' },
-  { name: 'Yellow Diamond Ear Ring', count: 5, percentage: '0.8251' },
-  { name: 'Yellow Face Mask', count: 9, percentage: '1.4851' }
+  { name: 'Black Diamond Ear Ring', count: 1, percentage: '3.8462' },
+  { name: 'Black Face Mask', count: 1, percentage: '3.8462' },
+  { name: 'Blue Chewing Gum', count: 1, percentage: '3.8462' },
+  { name: 'Blue Octopus', count: 1, percentage: '3.8462' },
+  { name: 'Bright Purple Boba Tea', count: 1, percentage: '3.8462' },
+  { name: 'Bright Yellow Boba Tea', count: 1, percentage: '3.8462' },
+  { name: 'Grey Octopus', count: 1, percentage: '3.8462' },
+  { name: 'Maroon Ribbon', count: 1, percentage: '3.8462' },
+  { name: 'Mint Green Earcuff', count: 1, percentage: '3.8462' },
+  { name: 'Orange Face Mask', count: 1, percentage: '3.8462' },
+  { name: 'Orange Octopus', count: 1, percentage: '3.8462' },
+  { name: 'Pink Cigarette', count: 1, percentage: '3.8462' },
+  { name: 'Pink Ribbon', count: 1, percentage: '3.8462' },
+  { name: 'Ruby Red Face Mask', count: 2, percentage: '7.6923' },
+  { name: 'Tawny Brown Face Mask', count: 1, percentage: '3.8462' },
+  { name: 'Violet Ribbon', count: 1, percentage: '3.8462' },
+  { name: 'White Boba Tea', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Face Mask', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Background' }
 [
-  { name: 'Alihossein', count: 12, percentage: '1.9802' },
-  { name: 'Amethyst', count: 17, percentage: '2.8053' },
-  { name: 'Ash', count: 20, percentage: '3.3003' },
-  { name: 'Atlas', count: 11, percentage: '1.8152' },
-  { name: 'Autumn', count: 13, percentage: '2.1452' },
-  { name: 'Azur Lane', count: 15, percentage: '2.4752' },
-  { name: 'Back to Earth', count: 11, percentage: '1.8152' },
-  { name: 'Blooker20', count: 14, percentage: '2.3102' },
-  { name: 'Broken Hearts', count: 10, percentage: '1.6502' },
-  { name: 'Calm Darya', count: 9, percentage: '1.4851' },
-  { name: 'Candy', count: 11, percentage: '1.8152' },
-  { name: 'Cherry Blossom', count: 9, percentage: '1.4851' },
-  { name: 'Cocoaa Ice', count: 11, percentage: '1.8152' },
-  { name: 'Combi', count: 8, percentage: '1.3201' },
-  { name: 'Crazy Orange I', count: 5, percentage: '0.8251' },
-  { name: 'DIMIGO', count: 8, percentage: '1.3201' },
-  { name: 'Dania', count: 10, percentage: '1.6502' },
-  { name: 'Dawn', count: 11, percentage: '1.8152' },
-  { name: 'Deep Space', count: 15, percentage: '2.4752' },
-  { name: 'Dirty Fog', count: 11, percentage: '1.8152' },
-  { name: 'Emerald Water', count: 15, percentage: '2.4752' },
-  { name: 'Flare', count: 13, percentage: '2.1452' },
-  { name: 'Forever Lost', count: 12, percentage: '1.9802' },
-  { name: 'Golden Ship Deck', count: 3, percentage: '0.4950' },
-  { name: 'Hazel', count: 5, percentage: '0.8251' },
-  { name: 'Horizon', count: 14, percentage: '2.3102' },
-  { name: 'Instagram', count: 6, percentage: '0.9901' },
-  { name: 'Jshine', count: 3, percentage: '0.4950' },
-  { name: 'Kanagawa Crimson Sunset', count: 1, percentage: '0.1650' },
-  { name: 'Kanagawa Crimson Sunset ', count: 2, percentage: '0.3300' },
-  { name: 'Lemon Twist', count: 15, percentage: '2.4752' },
-  { name: 'Mango Pulp', count: 10, percentage: '1.6502' },
-  { name: 'Master Card', count: 25, percentage: '4.1254' },
-  { name: 'Mild', count: 13, percentage: '2.1452' },
-  { name: 'Mini', count: 5, percentage: '0.8251' },
-  { name: 'Mirage', count: 9, percentage: '1.4851' },
-  { name: 'Moss', count: 7, percentage: '1.1551' },
-  { name: 'Neon Life', count: 10, percentage: '1.6502' },
-  { name: 'Pastel Orange at the Sun', count: 27, percentage: '4.4554' },
-  { name: 'Purple Bliss', count: 8, percentage: '1.3201' },
-  { name: 'Reef', count: 18, percentage: '2.9703' },
-  { name: 'Rose Water', count: 18, percentage: '2.9703' },
-  { name: 'Sea Blizz', count: 23, percentage: '3.7954' },
-  { name: 'Shore', count: 10, percentage: '1.6502' },
-  { name: 'Stripe', count: 4, percentage: '0.6601' },
-  { name: 'Teal Love', count: 16, percentage: '2.6403' },
-  { name: 'The Blue Lagoon', count: 7, percentage: '1.1551' },
-  { name: 'Timber', count: 14, percentage: '2.3102' },
-  { name: 'Tranquil', count: 10, percentage: '1.6502' },
-  { name: 'Vanusa', count: 8, percentage: '1.3201' },
-  { name: 'Vice City', count: 14, percentage: '2.3102' },
-  { name: 'Windy', count: 11, percentage: '1.8152' },
-  { name: 'Wiretap', count: 19, percentage: '3.1353' }
+  { name: 'Amethyst', count: 1, percentage: '3.8462' },
+  { name: 'Azur Lane', count: 1, percentage: '3.8462' },
+  { name: 'Back to Earth', count: 1, percentage: '3.8462' },
+  { name: 'Blooker20', count: 1, percentage: '3.8462' },
+  { name: 'Candy', count: 1, percentage: '3.8462' },
+  { name: 'Cherry Blossom', count: 1, percentage: '3.8462' },
+  { name: 'Cocoaa Ice', count: 1, percentage: '3.8462' },
+  { name: 'Golden Ship Deck', count: 3, percentage: '11.5385' },
+  { name: 'Hazel', count: 2, percentage: '7.6923' },
+  { name: 'Horizon', count: 1, percentage: '3.8462' },
+  { name: 'Kanagawa Crimson Sunset', count: 1, percentage: '3.8462' },
+  { name: 'Kanagawa Crimson Sunset ', count: 2, percentage: '7.6923' },
+  { name: 'Mango Pulp', count: 1, percentage: '3.8462' },
+  { name: 'Master Card', count: 2, percentage: '7.6923' },
+  { name: 'Neon Life', count: 1, percentage: '3.8462' },
+  { name: 'Shore', count: 1, percentage: '3.8462' },
+  { name: 'Teal Love', count: 1, percentage: '3.8462' },
+  { name: 'The Blue Lagoon', count: 1, percentage: '3.8462' },
+  { name: 'Vanusa', count: 1, percentage: '3.8462' },
+  { name: 'Vice City', count: 1, percentage: '3.8462' },
+  { name: 'Wiretap', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Beard' }
 [
-  { name: 'Black Beard', count: 1, percentage: '0.1650' },
-  { name: 'Brown Beard', count: 1, percentage: '0.1650' },
-  { name: 'Yellow Beard', count: 1, percentage: '0.1650' }
+  { name: 'Black Beard', count: 1, percentage: '3.8462' },
+  { name: 'Brown Beard', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Beard', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Character Quote' }
 [
-  { name: 'Lawyer Aggressive 1', count: 32, percentage: '5.2805' },
-  { name: 'Lawyer Aggressive 2', count: 37, percentage: '6.1056' },
-  { name: 'Lawyer Devious 1', count: 10, percentage: '1.6502' },
-  { name: 'Lawyer Devious 2', count: 6, percentage: '0.9901' },
-  { name: 'Lawyer Devious 3', count: 12, percentage: '1.9802' },
-  { name: 'Lawyer Devious 4', count: 13, percentage: '2.1452' },
-  { name: 'Lawyer Devious 5', count: 20, percentage: '3.3003' },
-  { name: 'Lawyer Devious 6', count: 8, percentage: '1.3201' },
-  { name: 'Lawyer Optimistic 1', count: 9, percentage: '1.4851' },
-  { name: 'Lawyer Optimistic 2', count: 14, percentage: '2.3102' },
-  { name: 'Lawyer Optimistic 3', count: 6, percentage: '0.9901' },
-  { name: 'Lawyer Optimistic 4', count: 6, percentage: '0.9901' },
-  { name: 'Lawyer Optimistic 5', count: 19, percentage: '3.1353' },
-  { name: 'Lawyer Regretful 1', count: 13, percentage: '2.1452' },
-  { name: 'Lawyer Skeptical 1', count: 29, percentage: '4.7855' },
-  { name: 'Lawyer Skeptical 2', count: 41, percentage: '6.7657' },
-  { name: 'Lawyer Smug 1', count: 12, percentage: '1.9802' },
-  { name: 'Lawyer Smug 2', count: 5, percentage: '0.8251' },
-  { name: 'Lawyer Smug 3', count: 8, percentage: '1.3201' }
+  { name: 'Lawyer Devious 1', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Devious 6', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Optimistic 4', count: 2, percentage: '7.6923' },
+  { name: 'Lawyer Regretful 1', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Skeptical 1', count: 2, percentage: '7.6923' },
+  { name: 'Lawyer Skeptical 2', count: 3, percentage: '11.5385' }
 ]
 { trait: 'Clothing' }
 [
-  { name: 'Amber Yellow Cyber Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Black Bomber Jacket', count: 5, percentage: '0.8251' },
-  { name: 'Black Double Layer Shirt', count: 5, percentage: '0.8251' },
-  { name: 'Black Fur Collar Coat', count: 4, percentage: '0.6601' },
-  { name: 'Black Hawaiian Shirt', count: 9, percentage: '1.4851' },
-  { name: 'Black Investor Vest', count: 11, percentage: '1.8152' },
-  { name: 'Black Light Autumn Wear', count: 15, percentage: '2.4752' },
-  { name: 'Black Open Shoulder Dress', count: 2, percentage: '0.3300' },
-  { name: 'Black Summer Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Blue Bomber Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Blue Double Layer Shirt', count: 7, percentage: '1.1551' },
-  { name: 'Blue Fur Collar Coat', count: 3, percentage: '0.4950' },
-  { name: 'Blue Hawaiian Shirt', count: 9, percentage: '1.4851' },
-  { name: 'Blue Open Shoulder Dress', count: 5, percentage: '0.8251' },
-  { name: 'Blue Smart Suit', count: 5, percentage: '0.8251' },
-  { name: 'Blue Summer Jacket', count: 4, percentage: '0.6601' },
-  { name: 'Brown Investor Vest', count: 11, percentage: '1.8152' },
-  { name: 'Brown Vintage Coat', count: 8, percentage: '1.3201' },
-  { name: 'Cadet Blue Cyber Jacket', count: 9, percentage: '1.4851' },
-  { name: 'Carrot Winter Scarf', count: 1, percentage: '0.1650' },
-  { name: 'Cobalt Blue Smart Suit', count: 3, percentage: '0.4950' },
-  { name: 'Crimson Red Cyber Jacket', count: 5, percentage: '0.8251' },
-  { name: 'Cyan Cyber Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Cyan Smart Suit', count: 1, percentage: '0.1650' },
-  { name: 'Dark Black Varsity Jacket', count: 3, percentage: '0.4950' },
-  { name: 'Dark Blue Varsity Jacket', count: 8, percentage: '1.3201' },
-  { name: 'Dark Green Winter Scarf', count: 1, percentage: '0.1650' },
-  { name: 'Dark Grey Vintage Coat', count: 8, percentage: '1.3201' },
-  { name: 'Dark Grey Winter Scarf', count: 2, percentage: '0.3300' },
-  { name: 'Deep Red Winter Scarf', count: 1, percentage: '0.1650' },
-  { name: 'Fandango Winter Scarf', count: 4, percentage: '0.6601' },
-  {
-    name: 'Gingerbread Brown Smart Suit',
-    count: 1,
-    percentage: '0.1650'
-  },
-  {
-    name: 'Graphite Grey Cyber Jacket',
-    count: 5,
-    percentage: '0.8251'
-  },
-  { name: 'Graphite Grey Smart Suit', count: 2, percentage: '0.3300' },
-  { name: 'Gray Varsity Jacket', count: 7, percentage: '1.1551' },
-  { name: 'Green Bomber Jacket', count: 4, percentage: '0.6601' },
-  { name: 'Green Double Layer Shirt', count: 7, percentage: '1.1551' },
-  { name: 'Green Summer Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Green Varsity Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Jade Winter Scarf', count: 1, percentage: '0.1650' },
-  { name: 'Magenta Smart Suit', count: 3, percentage: '0.4950' },
-  { name: 'Mauve Purple Cyber Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Moss Green Smart Suit', count: 1, percentage: '0.1650' },
-  { name: 'Neon Magenta Winter Scarf', count: 2, percentage: '0.3300' },
-  { name: 'Olive Green Smart Suit', count: 5, percentage: '0.8251' },
-  { name: 'Olive Vintage Coat', count: 5, percentage: '0.8251' },
-  { name: 'Orange Double Layer Shirt', count: 6, percentage: '0.9901' },
-  { name: 'Orange Fur Collar Coat', count: 9, percentage: '1.4851' },
-  { name: 'Orange Investor Vest', count: 10, percentage: '1.6502' },
-  { name: 'Pearl White Cyber Jacket', count: 11, percentage: '1.8152' },
-  { name: 'Pink Double Layer Shirt', count: 4, percentage: '0.6601' },
-  { name: 'Pink Fur Collar Coat', count: 6, percentage: '0.9901' },
-  { name: 'Pink Open Shoulder Dress', count: 9, percentage: '1.4851' },
-  { name: 'Pink Red Winter Scarf', count: 4, percentage: '0.6601' },
-  { name: 'Plum Vintage Coat', count: 7, percentage: '1.1551' },
-  { name: 'Purple Haze Winter Scarf', count: 1, percentage: '0.1650' },
-  { name: 'Red Bomber Jacket', count: 4, percentage: '0.6601' },
-  { name: 'Red Double Layer Shirt', count: 2, percentage: '0.3300' },
-  { name: 'Red Fur Collar Coat', count: 7, percentage: '1.1551' },
-  { name: 'Red Hawaiian Shirt', count: 1, percentage: '0.1650' },
-  { name: 'Red Open Shoulder Dress', count: 4, percentage: '0.6601' },
-  { name: 'Red Smart Suit', count: 3, percentage: '0.4950' },
-  { name: 'Red Summer Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Red Varsity Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Sakura Winter Scarf', count: 3, percentage: '0.4950' },
-  { name: 'Seafoam Hawaiian Shirt', count: 4, percentage: '0.6601' },
-  { name: 'Steel Grey Vintage Coat', count: 10, percentage: '1.6502' },
-  { name: 'Ultramarine Winter Scarf', count: 1, percentage: '0.1650' },
-  { name: 'White Bomber Jacket', count: 8, percentage: '1.3201' },
-  { name: 'White Fur Collar Coat', count: 4, percentage: '0.6601' },
-  { name: 'White Light Autumn Wear', count: 21, percentage: '3.4653' },
-  { name: 'White Smart Suit', count: 3, percentage: '0.4950' },
-  { name: 'White Summer Jacket', count: 5, percentage: '0.8251' },
-  { name: 'White Vintage Coat', count: 11, percentage: '1.8152' },
-  { name: 'White Winter Scarf', count: 6, percentage: '0.9901' },
-  { name: 'Wood Brown Smart Suit', count: 3, percentage: '0.4950' },
-  { name: 'Yellow Bomber Jacket', count: 10, percentage: '1.6502' },
-  { name: 'Yellow Double Layer Shirt', count: 8, percentage: '1.3201' },
-  { name: 'Yellow Fur Collar Coat', count: 6, percentage: '0.9901' },
-  { name: 'Yellow Hawaiian Shirt', count: 10, percentage: '1.6502' },
-  {
-    name: 'Yellow Open Shoulder Dress',
-    count: 6,
-    percentage: '0.9901'
-  },
-  { name: 'Yellow Summer Jacket', count: 6, percentage: '0.9901' },
-  { name: 'Yellow Varsity Jacket', count: 4, percentage: '0.6601' },
-  { name: 'Yellow Winter Scarf', count: 2, percentage: '0.3300' }
+  { name: 'Black Investor Vest', count: 1, percentage: '3.8462' },
+  { name: 'Brown Investor Vest', count: 1, percentage: '3.8462' },
+  { name: 'Jasmine Winter Scarf', count: 1, percentage: '3.8462' },
+  { name: 'Orange Fur Collar Coat', count: 2, percentage: '7.6923' },
+  { name: 'Orange Investor Vest', count: 2, percentage: '7.6923' },
+  { name: 'Pink Red Winter Scarf', count: 1, percentage: '3.8462' },
+  { name: 'Red Varsity Jacket', count: 1, percentage: '3.8462' },
+  { name: 'Sakura Winter Scarf', count: 1, percentage: '3.8462' },
+  { name: 'Steel Grey Vintage Coat', count: 1, percentage: '3.8462' },
+  { name: 'White Light Autumn Wear', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Hawaiian Shirt', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Ears' }
 [
-  { name: 'Cream Inner Ears', count: 47, percentage: '7.7558' },
-  { name: 'Light Green Inner Ears', count: 41, percentage: '6.7657' },
-  { name: 'Light Orange Inner Ears', count: 61, percentage: '10.0660' },
-  { name: 'Light Pink Inner Ears', count: 46, percentage: '7.5908' },
-  { name: 'Light Yellow Inner Ears', count: 50, percentage: '8.2508' },
-  { name: 'Orange Peach Inner Ears', count: 55, percentage: '9.0759' }
+  { name: 'Cream Inner Ears', count: 1, percentage: '3.8462' },
+  { name: 'Light Green Inner Ears', count: 2, percentage: '7.6923' },
+  { name: 'Light Orange Inner Ears', count: 2, percentage: '7.6923' },
+  { name: 'Light Pink Inner Ears', count: 3, percentage: '11.5385' },
+  { name: 'Light Yellow Inner Ears', count: 1, percentage: '3.8462' },
+  { name: 'Orange Peach Inner Ears', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Expression' }
 [
-  { name: 'Aggresive Feminine', count: 22, percentage: '3.6304' },
-  { name: 'Aggresive Masculine', count: 27, percentage: '4.4554' },
-  { name: 'Aggressive Feminine', count: 26, percentage: '4.2904' },
-  { name: 'Aggressive Masculine', count: 23, percentage: '3.7954' },
-  { name: 'Devious Feminine', count: 55, percentage: '9.0759' },
-  { name: 'Devious Masculine', count: 42, percentage: '6.9307' },
-  { name: 'Optimistic Feminine', count: 56, percentage: '9.2409' },
-  { name: 'Optimistic Masculine', count: 40, percentage: '6.6007' },
-  { name: 'Regretful Feminine', count: 63, percentage: '10.3960' },
-  { name: 'Regretful Masculine', count: 55, percentage: '9.0759' },
-  { name: 'Skepitcal Feminine', count: 23, percentage: '3.7954' },
-  { name: 'Skepitcal Masculine', count: 18, percentage: '2.9703' },
-  { name: 'Skeptical Feminine', count: 27, percentage: '4.4554' },
-  { name: 'Skeptical Masculine', count: 24, percentage: '3.9604' },
-  { name: 'Smug Feminine', count: 46, percentage: '7.5908' },
-  { name: 'Smug Masculine', count: 53, percentage: '8.7459' }
+  { name: 'Aggressive Masculine', count: 1, percentage: '3.8462' },
+  { name: 'Devious Feminine', count: 1, percentage: '3.8462' },
+  { name: 'Devious Masculine', count: 2, percentage: '7.6923' },
+  { name: 'Optimistic Feminine', count: 2, percentage: '7.6923' },
+  { name: 'Optimistic Masculine', count: 1, percentage: '3.8462' },
+  { name: 'Regretful Feminine', count: 3, percentage: '11.5385' },
+  { name: 'Regretful Masculine', count: 2, percentage: '7.6923' },
+  { name: 'Skeptical Feminine', count: 1, percentage: '3.8462' },
+  { name: 'Skeptical Masculine', count: 2, percentage: '7.6923' },
+  { name: 'Smug Feminine', count: 3, percentage: '11.5385' },
+  { name: 'Smug Masculine', count: 2, percentage: '7.6923' }
 ]
 { trait: 'Eyewear' }
 [
-  {
-    name: 'Algae Green Summer Glasses',
-    count: 3,
-    percentage: '0.4950'
-  },
-  { name: 'Bean Red Summer Glasses', count: 1, percentage: '0.1650' },
-  { name: 'Black Circle Glasses', count: 12, percentage: '1.9802' },
-  { name: 'Black Rectangular Glasses', count: 9, percentage: '1.4851' },
-  { name: 'Black Summar Shades', count: 64, percentage: '10.5611' },
-  { name: 'Blue Circle Glasses', count: 8, percentage: '1.3201' },
-  { name: 'Blue Square Glasses', count: 37, percentage: '6.1056' },
-  {
-    name: 'Bright Lilac Summer Glasses',
-    count: 4,
-    percentage: '0.6601'
-  },
-  {
-    name: 'Bright Purple Rectangular Glasses',
-    count: 6,
-    percentage: '0.9901'
-  },
-  {
-    name: 'Bright White Rounded Glasses',
-    count: 13,
-    percentage: '2.1452'
-  },
-  { name: 'Bronze Rounded Glasses', count: 14, percentage: '2.3102' },
-  { name: 'Brown Circle Glasses', count: 7, percentage: '1.1551' },
-  { name: 'Brown Square Glasses', count: 14, percentage: '2.3102' },
-  {
-    name: 'Dijon Yellow Small Round Glasses',
-    count: 15,
-    percentage: '2.4752'
-  },
-  {
-    name: 'Golden Rectangular Glasses',
-    count: 3,
-    percentage: '0.4950'
-  },
-  { name: 'Golden Rounded Glasses', count: 15, percentage: '2.4752' },
-  { name: 'Green Circle Glasses', count: 9, percentage: '1.4851' },
-  { name: 'Green CyberGlass', count: 11, percentage: '1.8152' },
-  { name: 'Grey Cyber Visor', count: 59, percentage: '9.7360' },
-  { name: 'Indigo Summer Glasses', count: 5, percentage: '0.8251' },
-  { name: 'Light Blue Summer Glasses', count: 3, percentage: '0.4950' },
-  {
-    name: 'Light Green Rectangular Glasses',
-    count: 4,
-    percentage: '0.6601'
-  },
-  {
-    name: 'Light Green Summer Glasses',
-    count: 3,
-    percentage: '0.4950'
-  },
-  {
-    name: 'Neon Fuchsia Summer Glasses',
-    count: 3,
-    percentage: '0.4950'
-  },
-  {
-    name: 'Olympic Blue Small Round Glasses',
-    count: 18,
-    percentage: '2.9703'
-  },
-  { name: 'Orange Summer Glasses', count: 4, percentage: '0.6601' },
-  {
-    name: 'Pastel Green Summer Glasses',
-    count: 5,
-    percentage: '0.8251'
-  },
-  { name: 'Purple CyberGlass', count: 8, percentage: '1.3201' },
-  { name: 'Red Circle Glasses', count: 4, percentage: '0.6601' },
-  { name: 'Red CyberGlass', count: 10, percentage: '1.6502' },
-  { name: 'Royal Blue CyberGlass', count: 15, percentage: '2.4752' },
-  { name: 'Royal Blue Summer Glasses', count: 4, percentage: '0.6601' },
+  { name: 'Black Circle Glasses', count: 1, percentage: '3.8462' },
+  { name: 'Black Summar Shades', count: 2, percentage: '7.6923' },
+  { name: 'Blue Square Glasses', count: 2, percentage: '7.6923' },
+  { name: 'Brown Square Glasses', count: 2, percentage: '7.6923' },
+  { name: 'Golden Rounded Glasses', count: 1, percentage: '3.8462' },
+  { name: 'Grey Cyber Visor', count: 2, percentage: '7.6923' },
+  { name: 'Indigo Summer Glasses', count: 1, percentage: '3.8462' },
+  { name: 'Royal Blue CyberGlass', count: 1, percentage: '3.8462' },
   {
     name: 'Steel Grey Small Round Glasses',
-    count: 19,
-    percentage: '3.1353'
+    count: 1,
+    percentage: '3.8462'
   },
-  {
-    name: 'Strong Blue Rectangular Glasses',
-    count: 6,
-    percentage: '0.9901'
-  },
-  {
-    name: 'Teracotta Brown Rectangular Glasses',
-    count: 4,
-    percentage: '0.6601'
-  },
-  { name: 'White Rectangular Glasses', count: 9, percentage: '1.4851' },
-  { name: 'Yellow Circle Glasses', count: 12, percentage: '1.9802' },
-  { name: 'Yellow CyberGlass', count: 10, percentage: '1.6502' },
-  { name: 'Yellow Summer Glasses', count: 4, percentage: '0.6601' }
+  { name: 'Yellow CyberGlass', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Summer Glasses', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Flair' }
 [
-  { name: 'Blue Pirate', count: 1, percentage: '0.1650' },
-  { name: 'Charcoal Pirate', count: 1, percentage: '0.1650' },
-  { name: 'Orange Pirate', count: 1, percentage: '0.1650' },
-  { name: 'Yakuza Lawyer', count: 3, percentage: '0.4950' }
+  { name: 'Blue Pirate', count: 1, percentage: '3.8462' },
+  { name: 'Charcoal Pirate', count: 1, percentage: '3.8462' },
+  { name: 'Orange Pirate', count: 1, percentage: '3.8462' },
+  { name: 'Yakuza Lawyer', count: 3, percentage: '11.5385' }
 ]
 { trait: 'Hair' }
 [
-  { name: 'Ash Brown Pompadour', count: 4, percentage: '0.6601' },
-  { name: "Barrister's wig", count: 26, percentage: '4.2904' },
-  { name: 'Black Bun Updo', count: 11, percentage: '1.8152' },
-  { name: 'Black Curly Ponytail', count: 4, percentage: '0.6601' },
-  { name: 'Black Curly Twin Bun ', count: 5, percentage: '0.8251' },
-  { name: 'Black Locs With Bun', count: 2, percentage: '0.3300' },
-  { name: 'Black Messy Bob Cut', count: 5, percentage: '0.8251' },
-  { name: 'Black Messy Short Cut', count: 8, percentage: '1.3201' },
-  { name: 'Black Pixie Cut', count: 3, percentage: '0.4950' },
-  { name: 'Black Shoulder Length', count: 10, percentage: '1.6502' },
-  { name: 'Blonde Bun Updo', count: 5, percentage: '0.8251' },
-  { name: 'Blonde Curly Ponytail', count: 3, percentage: '0.4950' },
-  { name: 'Blonde Locs With Bun', count: 4, percentage: '0.6601' },
-  { name: 'Blonde Messy Bob Cut', count: 6, percentage: '0.9901' },
-  { name: 'Blonde Messy Short Cut', count: 1, percentage: '0.1650' },
-  { name: 'Blonde Pixie Cut', count: 1, percentage: '0.1650' },
-  { name: 'Blonde Wild Longhair', count: 4, percentage: '0.6601' },
-  { name: 'Blue Bun Updo', count: 5, percentage: '0.8251' },
-  { name: 'Blue Messy Bob Cut', count: 3, percentage: '0.4950' },
-  { name: 'Blue Wild Longhair', count: 4, percentage: '0.6601' },
-  { name: 'Bright Red Fluffy Hair', count: 1, percentage: '0.1650' },
-  { name: 'Brown Afro', count: 2, percentage: '0.3300' },
-  { name: 'Brown Braid', count: 3, percentage: '0.4950' },
-  { name: 'Brown Fluffy Hair', count: 2, percentage: '0.3300' },
-  { name: 'Brown Pixie Cut', count: 2, percentage: '0.3300' },
-  { name: 'Brown Wild Longhair', count: 2, percentage: '0.3300' },
-  { name: 'Brunette Bun Updo', count: 4, percentage: '0.6601' },
-  { name: 'Brunette Curly Ponytail', count: 3, percentage: '0.4950' },
-  { name: 'Brunette Curly Twin Bun ', count: 8, percentage: '1.3201' },
-  { name: 'Brunette Locs With Bun', count: 4, percentage: '0.6601' },
-  { name: 'Brunette Messy Bob Cut', count: 3, percentage: '0.4950' },
-  { name: 'Brunette Messy Short Cut', count: 2, percentage: '0.3300' },
-  { name: 'Brunette Pompadour', count: 7, percentage: '1.1551' },
-  { name: 'Cream Yellow Fluffy Hair', count: 4, percentage: '0.6601' },
-  { name: 'Cyan Hair', count: 3, percentage: '0.4950' },
-  { name: 'Dark Brown Afro', count: 4, percentage: '0.6601' },
-  { name: 'Dark Brown Wild Longhair', count: 2, percentage: '0.3300' },
-  { name: 'Dark Grey Pompadour', count: 5, percentage: '0.8251' },
-  { name: 'Ginger Bun Updo', count: 3, percentage: '0.4950' },
-  { name: 'Ginger Curly Ponytail', count: 3, percentage: '0.4950' },
-  { name: 'Ginger Curly Twin Bun ', count: 5, percentage: '0.8251' },
-  { name: 'Ginger Messy Bob Cut', count: 5, percentage: '0.8251' },
-  { name: 'Ginger Messy Short Cut', count: 1, percentage: '0.1650' },
-  { name: 'Ginger Pompadour', count: 2, percentage: '0.3300' },
-  { name: 'Grey Curly Ponytail', count: 5, percentage: '0.8251' },
-  { name: 'Hazelnut Brown Afro', count: 1, percentage: '0.1650' },
-  { name: 'Hazelnut Brown Braid', count: 2, percentage: '0.3300' },
-  {
-    name: 'Hazelnut Brown Fluffy Hair',
-    count: 2,
-    percentage: '0.3300'
-  },
-  { name: 'Lemon Yellow Afro', count: 2, percentage: '0.3300' },
-  { name: 'Lemon Yellow Fluffy Hair', count: 4, percentage: '0.6601' },
-  { name: 'Mahogany Red Braid', count: 2, percentage: '0.3300' },
-  { name: 'Maroon Curly Twin Bun ', count: 2, percentage: '0.3300' },
-  { name: 'Maroon Locs With Bun', count: 1, percentage: '0.1650' },
-  { name: 'Maroon Messy Bob Cut', count: 4, percentage: '0.6601' },
-  { name: 'Maroon Messy Short Cut', count: 4, percentage: '0.6601' },
-  { name: 'Maroon Pixie Cut', count: 3, percentage: '0.4950' },
-  { name: 'Neon Blue Curly Ponytail', count: 2, percentage: '0.3300' },
-  { name: 'Orange Afro', count: 1, percentage: '0.1650' },
-  { name: 'Orange Braid', count: 1, percentage: '0.1650' },
-  { name: 'Orange Fluffy Hair', count: 2, percentage: '0.3300' },
-  { name: 'Orange Pixie Cut', count: 2, percentage: '0.3300' },
-  { name: 'Pink Bun Updo', count: 2, percentage: '0.3300' },
-  { name: 'Pink Wild Longhair', count: 1, percentage: '0.1650' },
-  { name: 'Purple Afro', count: 5, percentage: '0.8251' },
-  { name: 'Purple Braid', count: 2, percentage: '0.3300' },
-  { name: 'Purple Fluffy Hair', count: 2, percentage: '0.3300' },
-  { name: 'Red Curly Ponytail', count: 2, percentage: '0.3300' },
-  { name: 'Red Shoulder Length', count: 8, percentage: '1.3201' },
-  { name: 'Red Wild Longhair', count: 2, percentage: '0.3300' },
-  { name: 'Rose Grey Wild Longhair', count: 4, percentage: '0.6601' },
-  { name: 'Scarlet Red Afro', count: 1, percentage: '0.1650' },
-  { name: 'Silver White Pompadour', count: 6, percentage: '0.9901' },
-  { name: 'Sunlight Yellow Afro', count: 1, percentage: '0.1650' },
-  { name: 'Sunlight Yellow Braid', count: 2, percentage: '0.3300' },
-  { name: 'Teal Green Afro', count: 3, percentage: '0.4950' },
-  { name: 'Teal Green Braid', count: 6, percentage: '0.9901' },
-  { name: 'Teal Green Fluffy Hair', count: 3, percentage: '0.4950' },
-  { name: 'White Afro', count: 4, percentage: '0.6601' },
-  { name: 'White Bun Updo', count: 2, percentage: '0.3300' },
-  { name: 'White Fluffy Hair', count: 3, percentage: '0.4950' },
-  { name: 'White Messy Bob Cut', count: 3, percentage: '0.4950' },
-  { name: 'White Messy Short Cut', count: 5, percentage: '0.8251' },
-  { name: 'White Pixie Cut', count: 2, percentage: '0.3300' },
-  { name: 'White Pompadour', count: 3, percentage: '0.4950' },
-  { name: 'White Wild Longhair', count: 7, percentage: '1.1551' },
-  { name: 'Yellow Shoulder Length', count: 11, percentage: '1.8152' },
-  { name: 'Zaffre Blue Afro', count: 1, percentage: '0.1650' },
-  { name: 'Zaffre Blue Braid', count: 3, percentage: '0.4950' },
-  { name: 'Zaffre Blue Fluffy Hair', count: 6, percentage: '0.9901' }
+  { name: "Barrister's wig", count: 3, percentage: '11.5385' },
+  { name: 'Black Pixie Cut', count: 1, percentage: '3.8462' },
+  { name: 'Brunette Curly Twin Bun ', count: 1, percentage: '3.8462' },
+  { name: 'Cyan Hair', count: 3, percentage: '11.5385' },
+  { name: 'Ginger Bun Updo', count: 1, percentage: '3.8462' },
+  { name: 'Maroon Messy Bob Cut', count: 1, percentage: '3.8462' },
+  { name: 'Orange Fluffy Hair', count: 1, percentage: '3.8462' },
+  { name: 'Red Curly Ponytail', count: 1, percentage: '3.8462' },
+  { name: 'Sunlight Yellow Braid', count: 1, percentage: '3.8462' },
+  { name: 'White Afro', count: 1, percentage: '3.8462' },
+  { name: 'Zaffre Blue Afro', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Hat' }
 [
-  { name: 'Black Classic Cap', count: 5, percentage: '0.8251' },
-  { name: 'Blue Beanie', count: 1, percentage: '0.1650' },
-  { name: 'Blue Berret', count: 7, percentage: '1.1551' },
-  { name: 'Blue Cap', count: 2, percentage: '0.3300' },
-  { name: 'Blue Classic Cap', count: 6, percentage: '0.9901' },
-  { name: 'Blue Pirate Hat', count: 1, percentage: '0.1650' },
-  { name: 'Brown Beanie', count: 5, percentage: '0.8251' },
-  { name: 'Brown Borsalino Hat', count: 9, percentage: '1.4851' },
-  { name: 'Brown Cap', count: 1, percentage: '0.1650' },
-  { name: 'Dark Gray Borsalino Hat', count: 9, percentage: '1.4851' },
-  { name: 'Dark Grey Beanie', count: 3, percentage: '0.4950' },
-  { name: 'Green Beanie', count: 1, percentage: '0.1650' },
-  { name: 'Green Berret', count: 2, percentage: '0.3300' },
-  { name: 'Green Cap', count: 1, percentage: '0.1650' },
-  { name: 'Green Classic Cap', count: 4, percentage: '0.6601' },
-  { name: 'Grey Beanie', count: 1, percentage: '0.1650' },
-  { name: 'Grey Berret', count: 5, percentage: '0.8251' },
-  { name: 'Grey Cap', count: 1, percentage: '0.1650' },
-  { name: 'Maroon Classic Cap', count: 5, percentage: '0.8251' },
-  { name: 'Navy Blue Beanie', count: 3, percentage: '0.4950' },
-  { name: 'Orange Beanie', count: 2, percentage: '0.3300' },
-  { name: 'Pink Classic Cap', count: 4, percentage: '0.6601' },
-  { name: 'Purple Berret', count: 2, percentage: '0.3300' },
-  { name: 'Purple Classic Cap', count: 4, percentage: '0.6601' },
-  { name: 'Red Beanie', count: 2, percentage: '0.3300' },
-  { name: 'Red Cap', count: 4, percentage: '0.6601' },
-  { name: 'Red Pirate Hat', count: 1, percentage: '0.1650' },
-  { name: 'Sky Blue Cap', count: 1, percentage: '0.1650' },
-  { name: 'Soft Brown Borsalino Hat', count: 4, percentage: '0.6601' },
-  { name: 'Violet Beanie', count: 1, percentage: '0.1650' },
-  { name: 'White Beanie', count: 4, percentage: '0.6601' },
-  { name: 'White Berret', count: 2, percentage: '0.3300' },
-  { name: 'White Borsalino Hat', count: 12, percentage: '1.9802' },
-  { name: 'White Cap', count: 4, percentage: '0.6601' },
-  { name: 'White Pirate Hat', count: 1, percentage: '0.1650' },
-  { name: 'Yelllow Cap', count: 2, percentage: '0.3300' },
-  { name: 'Yellow Beanie', count: 3, percentage: '0.4950' },
-  { name: 'Yellow Classic Cap', count: 3, percentage: '0.4950' }
+  { name: 'Blue Pirate Hat', count: 1, percentage: '3.8462' },
+  { name: 'Purple Berret', count: 1, percentage: '3.8462' },
+  { name: 'Purple Classic Cap', count: 1, percentage: '3.8462' },
+  { name: 'Red Pirate Hat', count: 1, percentage: '3.8462' },
+  { name: 'Soft Brown Borsalino Hat', count: 1, percentage: '3.8462' },
+  { name: 'White Pirate Hat', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Hat Modifier' }
 [
-  { name: 'Brown Feather Earing', count: 1, percentage: '0.1650' },
-  { name: 'Green Feather Earing', count: 1, percentage: '0.1650' },
-  { name: 'Red Feather Earing', count: 1, percentage: '0.1650' }
+  { name: 'Brown Feather Earing', count: 1, percentage: '3.8462' },
+  { name: 'Green Feather Earing', count: 1, percentage: '3.8462' },
+  { name: 'Red Feather Earing', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Inner Cloths' }
 [
-  { name: 'Blue Inner Detailing', count: 1, percentage: '0.1650' },
-  { name: 'Green Inner Detailing', count: 1, percentage: '0.1650' },
-  { name: 'Red Inner Detailing', count: 1, percentage: '0.1650' }
+  { name: 'Blue Inner Detailing', count: 1, percentage: '3.8462' },
+  { name: 'Green Inner Detailing', count: 1, percentage: '3.8462' },
+  { name: 'Red Inner Detailing', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Jacket' }
 [
-  { name: 'Black Waistcoat', count: 1, percentage: '0.1650' },
-  { name: 'Blue Pirate Coat', count: 1, percentage: '0.1650' },
-  { name: 'Brown Waistcoat', count: 1, percentage: '0.1650' },
-  { name: 'Dark Blue Waistcoat', count: 1, percentage: '0.1650' },
-  { name: 'Red Pirate Coat', count: 1, percentage: '0.1650' },
-  { name: 'White Pirate Coat', count: 1, percentage: '0.1650' }
+  { name: 'Black Waistcoat', count: 1, percentage: '3.8462' },
+  { name: 'Blue Pirate Coat', count: 1, percentage: '3.8462' },
+  { name: 'Brown Waistcoat', count: 1, percentage: '3.8462' },
+  { name: 'Dark Blue Waistcoat', count: 1, percentage: '3.8462' },
+  { name: 'Red Pirate Coat', count: 1, percentage: '3.8462' },
+  { name: 'White Pirate Coat', count: 1, percentage: '3.8462' }
 ]
 { trait: 'LineArt' }
 [
-  { name: 'Base_Body_line_art_A', count: 300, percentage: '49.5050' },
-  { name: 'Body Line Art', count: 6, percentage: '0.9901' },
-  { name: 'Tertiary', count: 300, percentage: '49.5050' }
+  { name: 'Base_Body_line_art_A', count: 10, percentage: '38.4615' },
+  { name: 'Body Line Art', count: 6, percentage: '23.0769' },
+  { name: 'Tertiary', count: 10, percentage: '38.4615' }
 ]
 { trait: 'Mask' }
 [
-  { name: 'Black Kitsune Mask', count: 1, percentage: '0.1650' },
-  { name: 'Red Kitsune Mask', count: 1, percentage: '0.1650' },
-  { name: 'Yellow Kitsune Mask', count: 1, percentage: '0.1650' }
+  { name: 'Black Kitsune Mask', count: 1, percentage: '3.8462' },
+  { name: 'Red Kitsune Mask', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Kitsune Mask', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Mask Modifier' }
-[ { name: 'MaskHole', count: 3, percentage: '0.4950' } ]
+[ { name: 'MaskHole', count: 3, percentage: '11.5385' } ]
 { trait: 'Multiply' }
 [
-  { name: 'Cloth_03Shadow_Multi', count: 49, percentage: '8.0858' },
-  { name: 'Cloths_07_shadow_', count: 26, percentage: '4.2904' },
-  { name: 'FaceMsc_06Shadow', count: 31, percentage: '5.1155' },
-  { name: 'Hat_03Shadow_Multi', count: 17, percentage: '2.8053' }
+  { name: 'Cloth_03Shadow_Multi', count: 1, percentage: '3.8462' },
+  { name: 'FaceMsc_06Shadow', count: 2, percentage: '7.6923' },
+  { name: 'Hat_03Shadow_Multi', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Personality' }
 [
-  { name: 'Aggressive', count: 100, percentage: '16.5017' },
-  { name: 'Devious', count: 97, percentage: '16.0066' },
-  { name: 'Optimistic', count: 96, percentage: '15.8416' },
-  { name: 'Regretful', count: 118, percentage: '19.4719' },
-  { name: 'Skeptical', count: 92, percentage: '15.1815' },
-  { name: 'Smug', count: 100, percentage: '16.5017' }
+  { name: 'Aggressive', count: 1, percentage: '3.8462' },
+  { name: 'Devious', count: 3, percentage: '11.5385' },
+  { name: 'Optimistic', count: 5, percentage: '19.2308' },
+  { name: 'Regretful', count: 5, percentage: '19.2308' },
+  { name: 'Skeptical', count: 4, percentage: '15.3846' },
+  { name: 'Smug', count: 5, percentage: '19.2308' }
 ]
 { trait: 'Primary Coat' }
 [
-  { name: 'Black', count: 48, percentage: '7.9208' },
-  { name: 'Blue', count: 44, percentage: '7.2607' },
-  { name: 'Brown', count: 71, percentage: '11.7162' },
-  { name: 'Charcoal ', count: 34, percentage: '5.6106' },
-  { name: 'Green', count: 36, percentage: '5.9406' },
-  { name: 'Grey', count: 47, percentage: '7.7558' },
-  { name: 'Light Silver', count: 49, percentage: '8.0858' },
-  { name: 'Olive', count: 46, percentage: '7.5908' },
-  { name: 'Pink', count: 40, percentage: '6.6007' },
-  { name: 'Red', count: 103, percentage: '16.9967' },
-  { name: 'White', count: 36, percentage: '5.9406' },
-  { name: 'Yellow', count: 46, percentage: '7.5908' }
+  { name: 'Black', count: 2, percentage: '7.6923' },
+  { name: 'Blue', count: 1, percentage: '3.8462' },
+  { name: 'Brown', count: 2, percentage: '7.6923' },
+  { name: 'Charcoal ', count: 4, percentage: '15.3846' },
+  { name: 'Green', count: 1, percentage: '3.8462' },
+  { name: 'Light Silver', count: 2, percentage: '7.6923' },
+  { name: 'Olive', count: 1, percentage: '3.8462' },
+  { name: 'Red', count: 4, percentage: '15.3846' },
+  { name: 'Yellow', count: 3, percentage: '11.5385' }
 ]
 { trait: 'Profession' }
 [
-  { name: 'Investor', count: 303, percentage: '50.0000' },
-  { name: 'Lawyer', count: 303, percentage: '50.0000' }
+  { name: 'Investor', count: 13, percentage: '50.0000' },
+  { name: 'Lawyer', count: 13, percentage: '50.0000' }
 ]
 { trait: 'Quote' }
 [
-  { name: 'Investor Aggressive 1', count: 11, percentage: '1.8152' },
-  { name: 'Investor Aggressive 2', count: 14, percentage: '2.3102' },
-  { name: 'Investor Aggressive 3', count: 24, percentage: '3.9604' },
-  { name: 'Investor Devious 1', count: 10, percentage: '1.6502' },
-  { name: 'Investor Devious 2', count: 9, percentage: '1.4851' },
-  { name: 'Investor Devious 3', count: 6, percentage: '0.9901' },
-  { name: 'Investor Devious 4', count: 5, percentage: '0.8251' },
-  { name: 'Investor Devious 5', count: 12, percentage: '1.9802' },
-  { name: 'Investor Optimistic 1', count: 7, percentage: '1.1551' },
-  { name: 'Investor Optimistic 2', count: 9, percentage: '1.4851' },
-  { name: 'Investor Optimistic 3', count: 12, percentage: '1.9802' },
-  { name: 'Investor Optimistic 4', count: 14, percentage: '2.3102' },
-  { name: 'Investor Optimistic 5', count: 10, percentage: '1.6502' },
-  { name: 'Investor Optimistic 6', count: 4, percentage: '0.6601' },
-  { name: 'Investor Regretful 1', count: 30, percentage: '4.9505' },
-  { name: 'Investor Regretful 2', count: 33, percentage: '5.4455' },
-  { name: 'Investor Skeptical 1', count: 15, percentage: '2.4752' },
-  { name: 'Investor Skeptical 2', count: 26, percentage: '4.2904' },
-  { name: 'Investor Smug 1', count: 9, percentage: '1.4851' },
-  { name: 'Investor Smug 2', count: 10, percentage: '1.6502' },
-  { name: 'Investor Smug 3', count: 7, percentage: '1.1551' },
-  { name: 'Investor Smug 4', count: 10, percentage: '1.6502' },
-  { name: 'Investor Smug 5', count: 8, percentage: '1.3201' },
-  { name: 'Investor Smug 6', count: 5, percentage: '0.8251' },
-  { name: 'Lawyer Aggressive 1', count: 1, percentage: '0.1650' },
-  { name: 'Lawyer Optimistic 4', count: 1, percentage: '0.1650' },
-  { name: 'Lawyer Smug 1', count: 1, percentage: '0.1650' }
+  { name: 'Investor Aggressive 2', count: 1, percentage: '3.8462' },
+  { name: 'Investor Devious 3', count: 1, percentage: '3.8462' },
+  { name: 'Investor Optimistic 1', count: 1, percentage: '3.8462' },
+  { name: 'Investor Optimistic 3', count: 1, percentage: '3.8462' },
+  { name: 'Investor Regretful 1', count: 2, percentage: '7.6923' },
+  { name: 'Investor Regretful 2', count: 1, percentage: '3.8462' },
+  { name: 'Investor Smug 1', count: 1, percentage: '3.8462' },
+  { name: 'Investor Smug 5', count: 2, percentage: '7.6923' },
+  { name: 'Lawyer Devious 3', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Smug 2', count: 2, percentage: '7.6923' }
 ]
 { trait: 'Rarity' }
 [
-  { name: 'Legendary', count: 299, percentage: '49.3399' },
-  { name: 'Mythic', count: 6, percentage: '0.9901' },
-  { name: 'Rare', count: 301, percentage: '49.6700' }
+  { name: 'Legendary', count: 3, percentage: '11.5385' },
+  { name: 'Mythic', count: 6, percentage: '23.0769' },
+  { name: 'Rare', count: 17, percentage: '65.3846' }
 ]
 { trait: 'Robe' }
 [
-  { name: 'Black Yukata', count: 1, percentage: '0.1650' },
-  { name: 'Dark Blue Yukata', count: 1, percentage: '0.1650' },
-  { name: 'Yellow Yukata ', count: 1, percentage: '0.1650' }
-]
-{ trait: 'Seconary Coat' }
-[
-  {
-    name: 'Cornsilk Yellow Inner Body',
-    count: 29,
-    percentage: '4.7855'
-  },
-  {
-    name: 'Cornsilk Yellow Inner Shade',
-    count: 21,
-    percentage: '3.4653'
-  },
-  { name: 'Cream Inner Body', count: 27, percentage: '4.4554' },
-  { name: 'Cream Inner Shade', count: 20, percentage: '3.3003' },
-  { name: 'Light Green Inner Body', count: 18, percentage: '2.9703' },
-  { name: 'Light Green Inner Shade', count: 23, percentage: '3.7954' },
-  { name: 'Light Orange Inner Body', count: 18, percentage: '2.9703' },
-  { name: 'Light Orange Inner Shade', count: 29, percentage: '4.7855' },
-  { name: 'Light Pink Inner Body', count: 32, percentage: '5.2805' },
-  { name: 'Light Pink Inner Shade', count: 28, percentage: '4.6205' },
-  { name: 'Orange Peach Inner Body', count: 29, percentage: '4.7855' },
-  { name: 'Orange Peach Inner Shade', count: 26, percentage: '4.2904' }
+  { name: 'Black Yukata', count: 1, percentage: '3.8462' },
+  { name: 'Dark Blue Yukata', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Yukata ', count: 1, percentage: '3.8462' }
 ]
 { trait: 'Secondary Coat' }
 [
-  { name: 'Cyan-Blue', count: 101, percentage: '16.6667' },
-  { name: 'Light Yellow', count: 104, percentage: '17.1617' },
-  { name: 'White', count: 95, percentage: '15.6766' }
+  {
+    name: 'Cornsilk Yellow Inner Shade',
+    count: 1,
+    percentage: '3.8462'
+  },
+  { name: 'Cream Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'Cyan-Blue', count: 6, percentage: '23.0769' },
+  { name: 'Light Green Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'Light Green Inner Shade', count: 1, percentage: '3.8462' },
+  { name: 'Light Orange Inner Body', count: 2, percentage: '7.6923' },
+  { name: 'Light Orange Inner Shade', count: 1, percentage: '3.8462' },
+  { name: 'Light Pink Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'Light Pink Inner Shade', count: 1, percentage: '3.8462' },
+  { name: 'Light Yellow', count: 2, percentage: '7.6923' },
+  { name: 'Orange Peach Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'White', count: 2, percentage: '7.6923' }
 ]
 { trait: 'Seniority' }
-[ { name: 'Analyst', count: 603, percentage: '99.5050' } ]
+[ { name: 'Analyst', count: 23, percentage: '88.4615' } ]
 { trait: 'Shirt' }
 [
-  { name: 'Orange Patterned Shirt', count: 1, percentage: '0.1650' },
-  { name: 'Red Patterned Shirt', count: 1, percentage: '0.1650' },
-  { name: 'Violet Patterned Shirt', count: 1, percentage: '0.1650' }
+  { name: 'Orange Patterned Shirt', count: 1, percentage: '3.8462' },
+  { name: 'Red Patterned Shirt', count: 1, percentage: '3.8462' },
+  { name: 'Violet Patterned Shirt', count: 1, percentage: '3.8462' }
 ]
 { trait: 'VFX' }
-[ { name: 'Sakura Petals', count: 3, percentage: '0.4950' } ]
+[ { name: 'Sakura Petals', count: 3, percentage: '11.5385' } ]
 { trait: 'Attribute Count' }
 [
-  { name: '10 Attributes', count: 2, percentage: 0.33 },
-  { name: '11 Attributes', count: 16, percentage: 2.64 },
-  { name: '12 Attributes', count: 56, percentage: 9.24 },
-  { name: '13 Attributes', count: 104, percentage: 17.16 },
-  { name: '14 Attributes', count: 138, percentage: 22.770000000000003 },
-  { name: '15 Attributes', count: 141, percentage: 23.27 },
-  { name: '16 Attributes', count: 115, percentage: 18.98 },
-  { name: '17 Attributes', count: 33, percentage: 5.45 },
-  { name: '18 Attributes', count: 1, percentage: 0.16999999999999998 }
+  { name: '11 Attributes', count: 3, percentage: 11.540000000000001 },
+  { name: '12 Attributes', count: 3, percentage: 11.540000000000001 },
+  { name: '13 Attributes', count: 5, percentage: 19.23 },
+  { name: '14 Attributes', count: 3, percentage: 11.540000000000001 },
+  { name: '15 Attributes', count: 6, percentage: 23.080000000000002 },
+  { name: '16 Attributes', count: 4, percentage: 15.379999999999999 },
+  { name: '17 Attributes', count: 1, percentage: 3.85 },
+  { name: '18 Attributes', count: 1, percentage: 3.85 }
 ]
-Done in 0.26s.
+Done in 0.50s.

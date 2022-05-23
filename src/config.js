@@ -36,7 +36,7 @@ const background = {
 };
 
 // Number to Generate
-const BASE_NUM_GENERATION = 150
+const BASE_NUM_GENERATION = 10
 
 const F_LAWYER_HAIR   = BASE_NUM_GENERATION
 const F_LAWYER_HAT    = Math.round(F_LAWYER_HAIR + (BASE_NUM_GENERATION * 0.2))
@@ -55,6 +55,25 @@ const M_GOBLIN_HAT    = Math.round(M_GOBLIN_HAIR + (BASE_NUM_GENERATION * 0.2))
 const GOBLIN_MYTHIC_1 = Math.round(M_GOBLIN_HAT + 1)
 const GOBLIN_MYTHIC_2 = Math.round(GOBLIN_MYTHIC_1 + 1)
 const GOBLIN_MYTHIC_3 = Math.round(GOBLIN_MYTHIC_2 + 1)
+
+
+// const F_LAWYER_HAIR   =  15 + 239
+// const F_LAWYER_HAT    =  10 + 160 + F_LAWYER_HAIR 
+// const M_LAWYER_HAIR   =  15 + 238 + F_LAWYER_HAT
+// const M_LAWYER_HAT    =  10 + 160 + M_LAWYER_HAIR
+ 
+// const LAWYER_MYTHIC_1 =  1 + M_LAWYER_HAT
+// const LAWYER_MYTHIC_2 =  1 + LAWYER_MYTHIC_1
+// const LAWYER_MYTHIC_3 =  1 + LAWYER_MYTHIC_2
+ 
+// const F_GOBLIN_HAIR   =  15 + 239 + LAWYER_MYTHIC_3
+// const F_GOBLIN_HAT    =  10 + 160 + F_GOBLIN_HAIR
+// const M_GOBLIN_HAIR   =  15 + 238 + F_GOBLIN_HAT
+// const M_GOBLIN_HAT    =  10 + 160 + M_GOBLIN_HAIR
+ 
+// const GOBLIN_MYTHIC_1 =  1 + M_GOBLIN_HAT
+// const GOBLIN_MYTHIC_2 =  1 + GOBLIN_MYTHIC_1
+// const GOBLIN_MYTHIC_3 =  1 + GOBLIN_MYTHIC_2
 
 const layerConfigurations = [
 
@@ -766,13 +785,13 @@ const incompatible = {
  * further in the stack
  */
 const forcedCombinations = {
-  // floral: ["MetallicShades", "Golden Sakura"],
-  "Aggresive Masculine": [
+  // Canine Male
+  "Aggresive Masculine Canine": [
     "Aggressive",
     "Lawyer Aggressive 1",
     "Lawyer Aggressive 2",
   ],
-  "Devious Masculine": [
+  "Devious Masculine Canine": [
     "Devious",
     "Lawyer Devious 1",
     "Lawyer Devious 2",
@@ -781,7 +800,7 @@ const forcedCombinations = {
     "Lawyer Devious 5",
     "Lawyer Devious 6",
   ],
-  "Optimistic Masculine": [
+  "Optimistic Masculine Canine": [
     "Optimistic",
     "Lawyer Optimistic 1",
     "Lawyer Optimistic 2",
@@ -789,8 +808,8 @@ const forcedCombinations = {
     "Lawyer Optimistic 4",
     "Lawyer Optimistic 5",
   ],
-  "Regretful Masculine": ["Regretful", "Lawyer Regretful 1"],
-  "Skeptical Masculine": [
+  "Regretful Masculine Canine": ["Regretful", "Lawyer Regretful 1"],
+  "Skeptical Masculine Canine": [
     "Skeptical",
     "Lawyer Skeptical 1",
     "Lawyer Skeptical 2",
@@ -798,12 +817,12 @@ const forcedCombinations = {
   "Smug Masculine": ["Smug", "Lawyer Smug 1", "Lawyer Smug 2", "Lawyer Smug 3"],
 
   // Canine Female
-  "Aggresive Feminine": [
+  "Aggresive Feminine Canine": [
     "Aggressive",
     "Lawyer Aggressive 1",
     "Lawyer Aggressive 2",
   ],
-  "Devious Feminine": [
+  "Devious Feminine Canine": [
     "Devious",
     "Lawyer Devious 1",
     "Lawyer Devious 2",
@@ -812,7 +831,7 @@ const forcedCombinations = {
     "Lawyer Devious 5",
     "Lawyer Devious 6",
   ],
-  "Optimistic Feminine": [
+  "Optimistic Feminine Canine": [
     "Optimistic",
     "Lawyer Optimistic 1",
     "Lawyer Optimistic 2",
@@ -820,13 +839,13 @@ const forcedCombinations = {
     "Lawyer Optimistic 4",
     "Lawyer Optimistic 5",
   ],
-  "Regretful Feminine": ["Regretful", "Lawyer Regretful 1"],
-  "Skeptical Feminine": [
+  "Regretful Feminine Canine": ["Regretful", "Lawyer Regretful 1"],
+  "Skeptical Feminine Canine": [
     "Skeptical",
     "Lawyer Skeptical 1",
     "Lawyer Skeptical 2",
   ],
-  "Smug Feminine": ["Smug", "Lawyer Smug 1", "Lawyer Smug 2", "Lawyer Smug 3"],
+  "Smug Feminine Canine": ["Smug", "Lawyer Smug 1", "Lawyer Smug 2", "Lawyer Smug 3"],
 
   // Goblin Forced Expressions
 
@@ -944,19 +963,19 @@ const forcedCombinations = {
 
   // Goblin Personality
 
-  "Aggressive Masculine": [
+  "Aggressive Masculine Goblin": [
     "Aggressive",
     "Investor Aggressive 1",
     "Investor Aggressive 2",
     "Investor Aggressive 3",
   ],
-  "Aggressive Feminine": [
+  "Aggressive Feminine Goblin": [
     "Aggressive",
     "Investor Aggressive 1",
     "Investor Aggressive 2",
     "Investor Aggressive 3",
   ],
-  "Devious Masculine": [
+  "Devious Masculine Goblin": [
     "Devious",
     "Investor Devious 1",
     "Investor Devious 2",
@@ -964,7 +983,7 @@ const forcedCombinations = {
     "Investor Devious 4",
     "Investor Devious 5",
   ],
-  "Devious Feminine": [
+  "Devious Feminine Goblin": [
     "Devious",
     "Investor Devious 1",
     "Investor Devious 2",
@@ -972,17 +991,17 @@ const forcedCombinations = {
     "Investor Devious 4",
     "Investor Devious 5",
   ],
-  "Regretful Masculine": [
+  "Regretful Masculine Goblin": [
     "Regretful",
     "Investor Regretful 1",
     "Investor Regretful 2",
   ],
-  "Regretful Feminine": [
+  "Regretful Feminine Goblin": [
     "Regretful",
     "Investor Regretful 1",
     "Investor Regretful 2",
   ],
-  "Smug Masculine": [
+  "Smug Masculine Goblin": [
     "Smug",
     "Investor Smug 1",
     "Investor Smug 2",
@@ -991,7 +1010,7 @@ const forcedCombinations = {
     "Investor Smug 5",
     "Investor Smug 6",
   ],
-  "Smug Feminine": [
+  "Smug Feminine Goblin": [
     "Smug",
     "Investor Smug 1",
     "Investor Smug 2",
@@ -1000,7 +1019,7 @@ const forcedCombinations = {
     "Investor Smug 5",
     "Investor Smug 6",
   ],
-  "Optimistic Masculine": [
+  "Optimistic Masculine Goblin": [
     "Optimistic",
     "Investor Optimistic 1",
     "Investor Optimistic 2",
@@ -1009,7 +1028,7 @@ const forcedCombinations = {
     "Investor Optimistic 5",
     "Investor Optimistic 6",
   ],
-  "Optimistic Feminine": [
+  "Optimistic Feminine Goblin": [
     "Optimistic",
     "Investor Optimistic 1",
     "Investor Optimistic 2",
@@ -1018,12 +1037,12 @@ const forcedCombinations = {
     "Investor Optimistic 5",
     "Investor Optimistic 6",
   ],
-  "Skepitcal Masculine": [
+  "Skepitcal Masculine Goblin": [
     "Skeptical",
     "Investor Skeptical 1",
     "Investor Skeptical 2",
   ],
-  "Skepitcal Feminine": [
+  "Skepitcal Feminine Goblin": [
     "Skeptical",
     "Investor Skeptical 1",
     "Investor Skeptical 2",
