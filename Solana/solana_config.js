@@ -16,7 +16,7 @@ const collectionFamily = "OpenFren"; // Many projects can belong to one family
 const symbol = "FFN"; // !!! Symbol can at max be 10 characters !!!
 
 const baseUriPrefix = ""; // OPTIONAL, if you need to prefix your image#.png with a baseURI
-const description = "The founding frens collections contains 1700 hand crafted NFTs of Investors & Lawyers in the OpenFren ecosystem";
+const description = "The Founding Frens collection contains 1700 handcrafted NFTs of investors & lawyers in the OpenFren ecosystem. Want to know more? Checkout nft.openfren.com.";
 const external_url = ""; // add optional external URL here, e.g, https://0n10nDivision.com
 
 const royaltyFee = 750; // This is 2% royalty fee
