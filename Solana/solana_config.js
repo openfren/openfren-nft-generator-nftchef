@@ -10,16 +10,16 @@
  * Credits:
  * Metaplex.js util by https://github.com/DawidAbram
  */
-const NFTName = "OpenFren Test NFT" //This is the name there will be showen on your NFTs !!! Name can at max be 32 characters !!!
-const collectionName = "Founding Fren Test"; //This is used if mutiple collection is needed
-const collectionFamily = "Genesis"; // Many projects can belong to one family
-const symbol = "OPN"; // !!! Symbol can at max be 10 characters !!!
+const NFTName = "Founding Frens" //This is the name there will be showen on your NFTs !!! Name can at max be 32 characters !!!
+const collectionName = "Founding Frens"; //This is used if mutiple collection is needed
+const collectionFamily = "OpenFren"; // Many projects can belong to one family
+const symbol = "FFN"; // !!! Symbol can at max be 10 characters !!!
 
 const baseUriPrefix = ""; // OPTIONAL, if you need to prefix your image#.png with a baseURI
-const description = "Default Solana Description";
+const description = "The founding frens collections contains 1700 hand crafted NFTs of Investors & Lawyers in the OpenFren ecosystem";
 const external_url = ""; // add optional external URL here, e.g, https://0n10nDivision.com
 
-const royaltyFee = 900; // This is 2% royalty fee
+const royaltyFee = 750; // This is 2% royalty fee
 
 /**
  * Array of Creators.
