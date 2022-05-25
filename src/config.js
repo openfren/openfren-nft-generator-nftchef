@@ -24,8 +24,9 @@ const outputJPEG = false; // if false, the generator outputs png's
  */
 const startIndex = 0;
 
+// Orginal Aspect Format 1748 * 2480, lowest 437 * 620
 const format = {
-  width: 1748,
+  width: 1748, 
   height: 2480,
   smoothing: true, // set to false when up-scaling pixel art.
 };
@@ -36,45 +37,45 @@ const background = {
 };
 
 // Number to Generate
-// const BASE_NUM_GENERATION = 2;
+const BASE_NUM_GENERATION = 2;
 
-// const F_LAWYER_HAIR = BASE_NUM_GENERATION;
-// const F_LAWYER_HAT = Math.round(F_LAWYER_HAIR + BASE_NUM_GENERATION * 0.2);
-// const M_LAWYER_HAIR = Math.round(F_LAWYER_HAT + BASE_NUM_GENERATION * 1);
-// const M_LAWYER_HAT = Math.round(M_LAWYER_HAIR + BASE_NUM_GENERATION * 0.2);
+const F_LAWYER_HAIR = BASE_NUM_GENERATION;
+const F_LAWYER_HAT = Math.round(F_LAWYER_HAIR + BASE_NUM_GENERATION * 0.2);
+const M_LAWYER_HAIR = Math.round(F_LAWYER_HAT + BASE_NUM_GENERATION * 1);
+const M_LAWYER_HAT = Math.round(M_LAWYER_HAIR + BASE_NUM_GENERATION * 0.2);
 
-// const LAWYER_MYTHIC_1 = Math.round(M_LAWYER_HAT + 1);
-// const LAWYER_MYTHIC_2 = Math.round(LAWYER_MYTHIC_1 + 1);
-// const LAWYER_MYTHIC_3 = Math.round(LAWYER_MYTHIC_2 + 1);
+const LAWYER_MYTHIC_1 = Math.round(M_LAWYER_HAT + 1);
+const LAWYER_MYTHIC_2 = Math.round(LAWYER_MYTHIC_1 + 1);
+const LAWYER_MYTHIC_3 = Math.round(LAWYER_MYTHIC_2 + 1);
 
-// const F_GOBLIN_HAIR = Math.round(LAWYER_MYTHIC_3 + BASE_NUM_GENERATION * 1);
-// const F_GOBLIN_HAT = Math.round(F_GOBLIN_HAIR + BASE_NUM_GENERATION * 0.2);
-// const M_GOBLIN_HAIR = Math.round(F_GOBLIN_HAT + BASE_NUM_GENERATION * 1);
-// const M_GOBLIN_HAT = Math.round(M_GOBLIN_HAIR + BASE_NUM_GENERATION * 0.2);
+const F_GOBLIN_HAIR = Math.round(LAWYER_MYTHIC_3 + BASE_NUM_GENERATION * 1);
+const F_GOBLIN_HAT = Math.round(F_GOBLIN_HAIR + BASE_NUM_GENERATION * 0.2);
+const M_GOBLIN_HAIR = Math.round(F_GOBLIN_HAT + BASE_NUM_GENERATION * 1);
+const M_GOBLIN_HAT = Math.round(M_GOBLIN_HAIR + BASE_NUM_GENERATION * 0.2);
 
-// const GOBLIN_MYTHIC_1 = Math.round(M_GOBLIN_HAT + 1);
-// const GOBLIN_MYTHIC_2 = Math.round(GOBLIN_MYTHIC_1 + 1);
-// const GOBLIN_MYTHIC_3 = Math.round(GOBLIN_MYTHIC_2 + 1);
+const GOBLIN_MYTHIC_1 = Math.round(M_GOBLIN_HAT + 1);
+const GOBLIN_MYTHIC_2 = Math.round(GOBLIN_MYTHIC_1 + 1);
+const GOBLIN_MYTHIC_3 = Math.round(GOBLIN_MYTHIC_2 + 1);
 
 // Production Numbers
 
-const F_LAWYER_HAIR   =  15 + 239
-const F_LAWYER_HAT    =  10 + 160 + F_LAWYER_HAIR
-const M_LAWYER_HAIR   =  15 + 238 + F_LAWYER_HAT
-const M_LAWYER_HAT    =  10 + 160 + M_LAWYER_HAIR
+// const F_LAWYER_HAIR   =  15 + 239
+// const F_LAWYER_HAT    =  10 + 160 + F_LAWYER_HAIR
+// const M_LAWYER_HAIR   =  15 + 238 + F_LAWYER_HAT
+// const M_LAWYER_HAT    =  10 + 160 + M_LAWYER_HAIR
 
-const LAWYER_MYTHIC_1 =  1 + M_LAWYER_HAT
-const LAWYER_MYTHIC_2 =  1 + LAWYER_MYTHIC_1
-const LAWYER_MYTHIC_3 =  1 + LAWYER_MYTHIC_2
+// const LAWYER_MYTHIC_1 =  1 + M_LAWYER_HAT
+// const LAWYER_MYTHIC_2 =  1 + LAWYER_MYTHIC_1
+// const LAWYER_MYTHIC_3 =  1 + LAWYER_MYTHIC_2
 
-const F_GOBLIN_HAIR   =  15 + 239 + LAWYER_MYTHIC_3
-const F_GOBLIN_HAT    =  10 + 160 + F_GOBLIN_HAIR
-const M_GOBLIN_HAIR   =  15 + 238 + F_GOBLIN_HAT
-const M_GOBLIN_HAT    =  10 + 160 + M_GOBLIN_HAIR
+// const F_GOBLIN_HAIR   =  15 + 239 + LAWYER_MYTHIC_3
+// const F_GOBLIN_HAT    =  10 + 160 + F_GOBLIN_HAIR
+// const M_GOBLIN_HAIR   =  15 + 238 + F_GOBLIN_HAT
+// const M_GOBLIN_HAT    =  10 + 160 + M_GOBLIN_HAIR
 
-const GOBLIN_MYTHIC_1 =  1 + M_GOBLIN_HAT
-const GOBLIN_MYTHIC_2 =  1 + GOBLIN_MYTHIC_1
-const GOBLIN_MYTHIC_3 =  1 + GOBLIN_MYTHIC_2
+// const GOBLIN_MYTHIC_1 =  1 + M_GOBLIN_HAT
+// const GOBLIN_MYTHIC_2 =  1 + GOBLIN_MYTHIC_1
+// const GOBLIN_MYTHIC_3 =  1 + GOBLIN_MYTHIC_2
 
 const layerConfigurations = [
   // // Female Canine Hair

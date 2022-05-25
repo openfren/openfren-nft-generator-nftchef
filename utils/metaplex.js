@@ -105,6 +105,10 @@ jsonFiles.forEach((file) => {
       creators: creators,
       compiler: "OpenFren Art Engine",
     },
+    collection: {
+      name: collectionName,
+      family: collectionFamily
+    }
   };
   fs.writeFileSync(
     path.join(`${metaplexDir}`, "json", `${newEditionCount}.json`),

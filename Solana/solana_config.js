@@ -17,7 +17,7 @@
  
  const baseUriPrefix = ""; // OPTIONAL, if you need to prefix your image#.png with a baseURI
  const description = "The Founding Frens collection contains 1700 handcrafted NFTs of investors & lawyers in the OpenFren ecosystem. Want to know more? Checkout nft.openfren.com.";
- const external_url = ""; // add optional external URL here, e.g, https://0n10nDivision.com
+ const external_url = "nft.openfren.com"; // add optional external URL here, e.g, https://0n10nDivision.com
  
  const royaltyFee = 750; // This is 2% royalty fee
  
