@@ -104,10 +104,6 @@ jsonFiles.forEach((file) => {
       category: "image",
       creators: creators,
       compiler: "OpenFren Art Engine",
-    },
-    collection: {
-      name: collectionName,
-      family: collectionFamily
     }
   };
   fs.writeFileSync(
