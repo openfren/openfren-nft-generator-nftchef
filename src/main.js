@@ -758,12 +758,13 @@ const postProcessMetadata = (layerData) => {
 
   // if there's a prefix for the current configIndex, then
   // start count back at 1 for the name, only.
-  console.log(layerConfigurations[layerConfigIndex])
   const _prefix = layerConfigurations[layerConfigIndex].namePrefix
     ? layerConfigurations[layerConfigIndex].namePrefix
     : null;
   // if resetNameIndex is turned on, calculate the offset and send it
   // with the prefix
+  // previousOffset is a global variable that keeps track of the last offset
+  // this allows gives us the correct offset once there's been a reset
   let _offset = previousOffset;
   if (layerConfigurations[layerConfigIndex].resetNameIndex) {
     _offset = layerConfigurations[layerConfigIndex - 1].growEditionSizeTo;
