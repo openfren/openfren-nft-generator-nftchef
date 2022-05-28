@@ -43,6 +43,7 @@ ctxMain.imageSmoothingEnabled = format.smoothing;
 
 let metadataList = [];
 let attributesList = [];
+let previousOffset = 0; // this keeps track of the resetNameIndex
 
 let dnaList = new Set();
 const DNA_DELIMITER = "*";
@@ -173,10 +174,6 @@ const getElements = (path, layer) => {
         path: `${path}${i}`,
         zindex,
       };
-
-      if (name.includes("Multi")) {
-        debug;
-      }
 
       if (sublayer) {
         element.path = `${path}${i}`;
@@ -761,14 +758,17 @@ const postProcessMetadata = (layerData) => {
 
   // if there's a prefix for the current configIndex, then
   // start count back at 1 for the name, only.
+  console.log(layerConfigurations[layerConfigIndex])
   const _prefix = layerConfigurations[layerConfigIndex].namePrefix
     ? layerConfigurations[layerConfigIndex].namePrefix
     : null;
   // if resetNameIndex is turned on, calculate the offset and send it
   // with the prefix
-  let _offset = 0;
+  let _offset = previousOffset;
   if (layerConfigurations[layerConfigIndex].resetNameIndex) {
     _offset = layerConfigurations[layerConfigIndex - 1].growEditionSizeTo;
+    
+    previousOffset = _offset;
   }
 
   return {
