@@ -16,10 +16,10 @@
  const symbol = "FFN"; // !!! Symbol can at max be 10 characters !!!
  
  const baseUriPrefix = ""; // OPTIONAL, if you need to prefix your image#.png with a baseURI
- const description = "The Founding Frens collection contains 1700 handcrafted NFTs of investors & lawyers in the OpenFren ecosystem. Want to know more? Checkout nft.openfren.com.";
+ const description = "The Founding Frens collection contains 1700 handcrafted NFTs of investors & lawyers in the OpenFren ecosystem. Want to know more? Checkout nft.openfren.com";
  const external_url = "nft.openfren.com"; // add optional external URL here, e.g, https://0n10nDivision.com
  
- const royaltyFee = 750; // This is 2% royalty fee
+ const royaltyFee = 750; // This is 7.5% royalty fee
  
  /**
   * Array of Creators.
@@ -27,7 +27,7 @@
   */
  const creators = [
    {
-     address: "8DAT4vBjpDixqswJUuFgxtQnCPSQKzUVGPZBmUtofVvL", // Wallet address for royalties
+     address: "3iC8Khui5VDDFKA3NE4RdVHVt62m7x1d1ThuRwVhtzit", // Wallet address for royalties
      share: 100, // Amount of shares for this wallet, can be more than one, all have to add up to 100 together !!! And a maximum of 4 creators !!!
    },
    // uncomment and edit for additional creator.

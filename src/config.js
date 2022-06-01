@@ -13,7 +13,7 @@ const layersDir = path.join(basePath, "/layers");
  ***********************/
 
 const description =
-  "The Founding Frens collection contains 1700 handcrafted NFTs of investors & lawyers in the OpenFren ecosystem. Want to know more? Checkout nft.openfren.com.";
+  "The Founding Frens collection contains 1700 handcrafted NFTs of investors & lawyers in the OpenFren ecosystem. Want to know more? Checkout nft.openfren.com";
 const baseUri = "ipfs://NewUriToReplace";
 
 const outputJPEG = false; // if false, the generator outputs png's
@@ -24,10 +24,10 @@ const outputJPEG = false; // if false, the generator outputs png's
  */
 const startIndex = 0;
 
-// Orginal Aspect Format 1748 * 2480, lowest 437 * 620
+// Orginal Aspect Format 1748 * 2480, lowest 437 * 620, mid 874 * 1240
 const format = {
-  width: 1748,
-  height: 2480,
+  width: 874,
+  height: 1240,
   smoothing: true, // set to false when up-scaling pixel art.
 };
 
@@ -36,25 +36,25 @@ const background = {
   brightness: "80%",
 };
 
-const BASE_NUM_GENERATION = 2;
+// const BASE_NUM_GENERATION = 2;
 
-const F_LAWYER_HAIR = 1;
-const F_LAWYER_HAT = 2;
-const M_LAWYER_HAIR = 3;
-const M_LAWYER_HAT = 4;
+// const F_LAWYER_HAIR = 1;
+// const F_LAWYER_HAT = 2;
+// const M_LAWYER_HAIR = 3;
+// const M_LAWYER_HAT = 4;
 
-const F_GOBLIN_HAIR = 5;
-const F_GOBLIN_HAT = 6;
-const M_GOBLIN_HAIR = 7;
-const M_GOBLIN_HAT = 8;
+// const F_GOBLIN_HAIR = 5;
+// const F_GOBLIN_HAT = 6;
+// const M_GOBLIN_HAIR = 7;
+// const M_GOBLIN_HAT = 8;
 
-const LAWYER_MYTHIC_1 = 9;
-const LAWYER_MYTHIC_2 = 10;
-const LAWYER_MYTHIC_3 = 11;
+// const LAWYER_MYTHIC_1 = 9;
+// const LAWYER_MYTHIC_2 = 10;
+// const LAWYER_MYTHIC_3 = 11;
 
-const GOBLIN_MYTHIC_1 = 12;
-const GOBLIN_MYTHIC_2 = 13;
-const GOBLIN_MYTHIC_3 = 14;
+// const GOBLIN_MYTHIC_1 = 12;
+// const GOBLIN_MYTHIC_2 = 13;
+// const GOBLIN_MYTHIC_3 = 14;
 
 // Number to Generate
 // const BASE_NUM_GENERATION = 2;
@@ -79,23 +79,23 @@ const GOBLIN_MYTHIC_3 = 14;
 
 // Production Numbers
 
-// const F_LAWYER_HAIR   =  15 + 239
-// const F_LAWYER_HAT    =  10 + 160 + F_LAWYER_HAIR
-// const M_LAWYER_HAIR   =  15 + 238 + F_LAWYER_HAT
-// const M_LAWYER_HAT    =  10 + 160 + M_LAWYER_HAIR
+const F_LAWYER_HAIR   =  15 + 239
+const F_LAWYER_HAT    =  10 + 160 + F_LAWYER_HAIR
+const M_LAWYER_HAIR   =  15 + 238 + F_LAWYER_HAT
+const M_LAWYER_HAT    =  10 + 160 + M_LAWYER_HAIR
 
-// const F_GOBLIN_HAIR   =  15 + 239 + M_LAWYER_HAT
-// const F_GOBLIN_HAT    =  10 + 160 + F_GOBLIN_HAIR
-// const M_GOBLIN_HAIR   =  15 + 238 + F_GOBLIN_HAT
-// const M_GOBLIN_HAT    =  10 + 160 + M_GOBLIN_HAIR
+const F_GOBLIN_HAIR   =  15 + 239 + M_LAWYER_HAT
+const F_GOBLIN_HAT    =  10 + 160 + F_GOBLIN_HAIR
+const M_GOBLIN_HAIR   =  15 + 238 + F_GOBLIN_HAT
+const M_GOBLIN_HAT    =  10 + 160 + M_GOBLIN_HAIR
 
-// const LAWYER_MYTHIC_1 =  1 + M_GOBLIN_HAT
-// const LAWYER_MYTHIC_2 =  1 + LAWYER_MYTHIC_1
-// const LAWYER_MYTHIC_3 =  1 + LAWYER_MYTHIC_2
+const LAWYER_MYTHIC_1 =  1 + M_GOBLIN_HAT
+const LAWYER_MYTHIC_2 =  1 + LAWYER_MYTHIC_1
+const LAWYER_MYTHIC_3 =  1 + LAWYER_MYTHIC_2
 
-// const GOBLIN_MYTHIC_1 =  1 + LAWYER_MYTHIC_3
-// const GOBLIN_MYTHIC_2 =  1 + GOBLIN_MYTHIC_1
-// const GOBLIN_MYTHIC_3 =  1 + GOBLIN_MYTHIC_2
+const GOBLIN_MYTHIC_1 =  1 + LAWYER_MYTHIC_3
+const GOBLIN_MYTHIC_2 =  1 + GOBLIN_MYTHIC_1
+const GOBLIN_MYTHIC_3 =  1 + GOBLIN_MYTHIC_2
 
 const layerConfigurations = [
   // Female Canine Hair
@@ -659,7 +659,7 @@ const layerConfigurations = [
   // Use Investor Smug 6 for the pirate quote
   {
     growEditionSizeTo: GOBLIN_MYTHIC_1,
-    namePrefix: "Mythic Investor",
+    namePrefix: "MythicInvestor",
     resetNameIndex: true,
     layersOrder: [
       {
@@ -706,7 +706,7 @@ const layerConfigurations = [
   },
   {
     growEditionSizeTo: GOBLIN_MYTHIC_2,
-    namePrefix: "Mythic Investor",
+    namePrefix: "MythicInvestor",
     resetNameIndex: false,
     layersOrder: [
       {
@@ -754,7 +754,7 @@ const layerConfigurations = [
 
   {
     growEditionSizeTo: GOBLIN_MYTHIC_3,
-    namePrefix: "Mythic Investor",
+    namePrefix: "MythicInvestor",
     resetNameIndex: false,
     layersOrder: [
       {
