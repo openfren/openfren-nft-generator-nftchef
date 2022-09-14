@@ -1,0 +1,674 @@
+yarn run v1.22.17
+$ node utils/rarity.js
+/Users/mo/code/openfren/openfren-nft-generator-nftchef/src/config.js
+/Users/mo/code/openfren/openfren-nft-generator-nftchef/src/config.js
+how many attributes: 13
+how many attributes: 15
+how many attributes: 13
+how many attributes: 12
+how many attributes: 15
+how many attributes: 13
+how many attributes: 13
+how many attributes: 13
+how many attributes: 12
+how many attributes: 12
+how many attributes: 16
+how many attributes: 16
+how many attributes: 16
+how many attributes: 15
+how many attributes: 14
+how many attributes: 14
+how many attributes: 18
+how many attributes: 17
+how many attributes: 16
+how many attributes: 14
+how many attributes: 15
+how many attributes: 15
+how many attributes: 15
+how many attributes: 11
+how many attributes: 11
+how many attributes: 11
+attributeCounts 11
+attributeCounts 12
+attributeCounts 13
+attributeCounts 14
+attributeCounts 15
+attributeCounts 16
+attributeCounts 17
+attributeCounts 18
+{ count: 26 }
+{
+  '1_Layer': {
+    FaceAggressivePrimary_aggressive_A: { count: 1, percentage: '3.8462' },
+    FaceDeviousPrimary_devious_G: { count: 1, percentage: '3.8462' },
+    FaceOptimisticPrimary_02_optimistic_2_C: { count: 1, percentage: '3.8462' },
+    FaceOptimisticPrimary_02_optimistic_2_F: { count: 1, percentage: '3.8462' },
+    FaceRegretfulPrimary_regretful_2_A: { count: 1, percentage: '3.8462' },
+    FaceRegretfulPrimary_regretful_2_C: { count: 1, percentage: '3.8462' },
+    FaceRegretfulPrimary_regretful_2_E: { count: 1, percentage: '3.8462' },
+    FaceSmugSecondary_smug_C: { count: 1, percentage: '3.8462' },
+    FaceSmugSecondary_smug_D: { count: 1, percentage: '3.8462' },
+    FaceSmugSecondary_smug_F: { count: 1, percentage: '3.8462' }
+  },
+  '2_Layer': {
+    FaceSmugPrimary_smug_A: { count: 1, percentage: '3.8462' },
+    FaceSmugPrimary_smug_C: { count: 1, percentage: '3.8462' },
+    FaceSmugPrimary_smug_G: { count: 1, percentage: '3.8462' }
+  },
+  '6_LA': {
+    'FaceAccessories_01_line_art_-': { count: 1, percentage: '3.8462' }
+  },
+  Accessory: {
+    'Black Diamond Ear Ring': { count: 1, percentage: '3.8462' },
+    'Black Face Mask': { count: 1, percentage: '3.8462' },
+    'Blue Chewing Gum': { count: 1, percentage: '3.8462' },
+    'Blue Octopus': { count: 1, percentage: '3.8462' },
+    'Bright Purple Boba Tea': { count: 1, percentage: '3.8462' },
+    'Bright Yellow Boba Tea': { count: 1, percentage: '3.8462' },
+    'Grey Octopus': { count: 1, percentage: '3.8462' },
+    'Maroon Ribbon': { count: 1, percentage: '3.8462' },
+    'Mint Green Earcuff': { count: 1, percentage: '3.8462' },
+    'Orange Face Mask': { count: 1, percentage: '3.8462' },
+    'Orange Octopus': { count: 1, percentage: '3.8462' },
+    'Pink Cigarette': { count: 1, percentage: '3.8462' },
+    'Pink Ribbon': { count: 1, percentage: '3.8462' },
+    'Ruby Red Face Mask': { count: 2, percentage: '7.6923' },
+    'Tawny Brown Face Mask': { count: 1, percentage: '3.8462' },
+    'Violet Ribbon': { count: 1, percentage: '3.8462' },
+    'White Boba Tea': { count: 1, percentage: '3.8462' },
+    'Yellow Face Mask': { count: 1, percentage: '3.8462' }
+  },
+  Background: {
+    Amethyst: { count: 1, percentage: '3.8462' },
+    'Azur Lane': { count: 1, percentage: '3.8462' },
+    'Back to Earth': { count: 1, percentage: '3.8462' },
+    Blooker20: { count: 1, percentage: '3.8462' },
+    Candy: { count: 1, percentage: '3.8462' },
+    'Cherry Blossom': { count: 1, percentage: '3.8462' },
+    'Cocoaa Ice': { count: 1, percentage: '3.8462' },
+    'Golden Ship Deck': { count: 3, percentage: '11.5385' },
+    Hazel: { count: 2, percentage: '7.6923' },
+    Horizon: { count: 1, percentage: '3.8462' },
+    'Kanagawa Crimson Sunset': { count: 1, percentage: '3.8462' },
+    'Kanagawa Crimson Sunset ': { count: 2, percentage: '7.6923' },
+    'Mango Pulp': { count: 1, percentage: '3.8462' },
+    'Master Card': { count: 2, percentage: '7.6923' },
+    'Neon Life': { count: 1, percentage: '3.8462' },
+    Shore: { count: 1, percentage: '3.8462' },
+    'Teal Love': { count: 1, percentage: '3.8462' },
+    'The Blue Lagoon': { count: 1, percentage: '3.8462' },
+    Vanusa: { count: 1, percentage: '3.8462' },
+    'Vice City': { count: 1, percentage: '3.8462' },
+    Wiretap: { count: 1, percentage: '3.8462' }
+  },
+  Beard: {
+    'Black Beard': { count: 1, percentage: '3.8462' },
+    'Brown Beard': { count: 1, percentage: '3.8462' },
+    'Yellow Beard': { count: 1, percentage: '3.8462' }
+  },
+  'Character Quote': {
+    'Lawyer Devious 1': { count: 1, percentage: '3.8462' },
+    'Lawyer Devious 6': { count: 1, percentage: '3.8462' },
+    'Lawyer Optimistic 4': { count: 2, percentage: '7.6923' },
+    'Lawyer Regretful 1': { count: 1, percentage: '3.8462' },
+    'Lawyer Skeptical 1': { count: 2, percentage: '7.6923' },
+    'Lawyer Skeptical 2': { count: 3, percentage: '11.5385' }
+  },
+  Clothing: {
+    'Black Investor Vest': { count: 1, percentage: '3.8462' },
+    'Brown Investor Vest': { count: 1, percentage: '3.8462' },
+    'Jasmine Winter Scarf': { count: 1, percentage: '3.8462' },
+    'Orange Fur Collar Coat': { count: 2, percentage: '7.6923' },
+    'Orange Investor Vest': { count: 2, percentage: '7.6923' },
+    'Pink Red Winter Scarf': { count: 1, percentage: '3.8462' },
+    'Red Varsity Jacket': { count: 1, percentage: '3.8462' },
+    'Sakura Winter Scarf': { count: 1, percentage: '3.8462' },
+    'Steel Grey Vintage Coat': { count: 1, percentage: '3.8462' },
+    'White Light Autumn Wear': { count: 1, percentage: '3.8462' },
+    'Yellow Hawaiian Shirt': { count: 1, percentage: '3.8462' }
+  },
+  Ears: {
+    'Cream Inner Ears': { count: 1, percentage: '3.8462' },
+    'Light Green Inner Ears': { count: 2, percentage: '7.6923' },
+    'Light Orange Inner Ears': { count: 2, percentage: '7.6923' },
+    'Light Pink Inner Ears': { count: 3, percentage: '11.5385' },
+    'Light Yellow Inner Ears': { count: 1, percentage: '3.8462' },
+    'Orange Peach Inner Ears': { count: 1, percentage: '3.8462' }
+  },
+  Expression: {
+    'Aggressive Masculine': { count: 1, percentage: '3.8462' },
+    'Devious Feminine': { count: 1, percentage: '3.8462' },
+    'Devious Masculine': { count: 2, percentage: '7.6923' },
+    'Optimistic Feminine': { count: 2, percentage: '7.6923' },
+    'Optimistic Masculine': { count: 1, percentage: '3.8462' },
+    'Regretful Feminine': { count: 3, percentage: '11.5385' },
+    'Regretful Masculine': { count: 2, percentage: '7.6923' },
+    'Skeptical Feminine': { count: 1, percentage: '3.8462' },
+    'Skeptical Masculine': { count: 2, percentage: '7.6923' },
+    'Smug Feminine': { count: 3, percentage: '11.5385' },
+    'Smug Masculine': { count: 2, percentage: '7.6923' }
+  },
+  Eyewear: {
+    'Black Circle Glasses': { count: 1, percentage: '3.8462' },
+    'Black Summar Shades': { count: 2, percentage: '7.6923' },
+    'Blue Square Glasses': { count: 2, percentage: '7.6923' },
+    'Brown Square Glasses': { count: 2, percentage: '7.6923' },
+    'Golden Rounded Glasses': { count: 1, percentage: '3.8462' },
+    'Grey Cyber Visor': { count: 2, percentage: '7.6923' },
+    'Indigo Summer Glasses': { count: 1, percentage: '3.8462' },
+    'Royal Blue CyberGlass': { count: 1, percentage: '3.8462' },
+    'Steel Grey Small Round Glasses': { count: 1, percentage: '3.8462' },
+    'Yellow CyberGlass': { count: 1, percentage: '3.8462' },
+    'Yellow Summer Glasses': { count: 1, percentage: '3.8462' }
+  },
+  Flair: {
+    'Blue Pirate': { count: 1, percentage: '3.8462' },
+    'Charcoal Pirate': { count: 1, percentage: '3.8462' },
+    'Orange Pirate': { count: 1, percentage: '3.8462' },
+    'Yakuza Lawyer': { count: 3, percentage: '11.5385' }
+  },
+  Hair: {
+    "Barrister's wig": { count: 3, percentage: '11.5385' },
+    'Black Pixie Cut': { count: 1, percentage: '3.8462' },
+    'Brunette Curly Twin Bun ': { count: 1, percentage: '3.8462' },
+    'Cyan Hair': { count: 3, percentage: '11.5385' },
+    'Ginger Bun Updo': { count: 1, percentage: '3.8462' },
+    'Maroon Messy Bob Cut': { count: 1, percentage: '3.8462' },
+    'Orange Fluffy Hair': { count: 1, percentage: '3.8462' },
+    'Red Curly Ponytail': { count: 1, percentage: '3.8462' },
+    'Sunlight Yellow Braid': { count: 1, percentage: '3.8462' },
+    'White Afro': { count: 1, percentage: '3.8462' },
+    'Zaffre Blue Afro': { count: 1, percentage: '3.8462' }
+  },
+  Hat: {
+    'Blue Pirate Hat': { count: 1, percentage: '3.8462' },
+    'Purple Berret': { count: 1, percentage: '3.8462' },
+    'Purple Classic Cap': { count: 1, percentage: '3.8462' },
+    'Red Pirate Hat': { count: 1, percentage: '3.8462' },
+    'Soft Brown Borsalino Hat': { count: 1, percentage: '3.8462' },
+    'White Pirate Hat': { count: 1, percentage: '3.8462' }
+  },
+  'Hat Modifier': {
+    'Brown Feather Earing': { count: 1, percentage: '3.8462' },
+    'Green Feather Earing': { count: 1, percentage: '3.8462' },
+    'Red Feather Earing': { count: 1, percentage: '3.8462' }
+  },
+  'Inner Cloths': {
+    'Blue Inner Detailing': { count: 1, percentage: '3.8462' },
+    'Green Inner Detailing': { count: 1, percentage: '3.8462' },
+    'Red Inner Detailing': { count: 1, percentage: '3.8462' }
+  },
+  Jacket: {
+    'Black Waistcoat': { count: 1, percentage: '3.8462' },
+    'Blue Pirate Coat': { count: 1, percentage: '3.8462' },
+    'Brown Waistcoat': { count: 1, percentage: '3.8462' },
+    'Dark Blue Waistcoat': { count: 1, percentage: '3.8462' },
+    'Red Pirate Coat': { count: 1, percentage: '3.8462' },
+    'White Pirate Coat': { count: 1, percentage: '3.8462' }
+  },
+  LineArt: {
+    Base_Body_line_art_A: { count: 10, percentage: '38.4615' },
+    'Body Line Art': { count: 6, percentage: '23.0769' },
+    Tertiary: { count: 10, percentage: '38.4615' }
+  },
+  Mask: {
+    'Black Kitsune Mask': { count: 1, percentage: '3.8462' },
+    'Red Kitsune Mask': { count: 1, percentage: '3.8462' },
+    'Yellow Kitsune Mask': { count: 1, percentage: '3.8462' }
+  },
+  'Mask Modifier': { MaskHole: { count: 3, percentage: '11.5385' } },
+  Multiply: {
+    Cloth_03Shadow_Multi: { count: 1, percentage: '3.8462' },
+    FaceMsc_06Shadow: { count: 2, percentage: '7.6923' },
+    Hat_03Shadow_Multi: { count: 1, percentage: '3.8462' }
+  },
+  Personality: {
+    Aggressive: { count: 1, percentage: '3.8462' },
+    Devious: { count: 3, percentage: '11.5385' },
+    Optimistic: { count: 5, percentage: '19.2308' },
+    Regretful: { count: 5, percentage: '19.2308' },
+    Skeptical: { count: 4, percentage: '15.3846' },
+    Smug: { count: 5, percentage: '19.2308' }
+  },
+  'Primary Coat': {
+    Black: { count: 2, percentage: '7.6923' },
+    Blue: { count: 1, percentage: '3.8462' },
+    Brown: { count: 2, percentage: '7.6923' },
+    'Charcoal ': { count: 4, percentage: '15.3846' },
+    Green: { count: 1, percentage: '3.8462' },
+    'Light Silver': { count: 2, percentage: '7.6923' },
+    Olive: { count: 1, percentage: '3.8462' },
+    Red: { count: 4, percentage: '15.3846' },
+    Yellow: { count: 3, percentage: '11.5385' }
+  },
+  Profession: {
+    Investor: { count: 13, percentage: '50.0000' },
+    Lawyer: { count: 13, percentage: '50.0000' }
+  },
+  Quote: {
+    'Investor Aggressive 2': { count: 1, percentage: '3.8462' },
+    'Investor Devious 3': { count: 1, percentage: '3.8462' },
+    'Investor Optimistic 1': { count: 1, percentage: '3.8462' },
+    'Investor Optimistic 3': { count: 1, percentage: '3.8462' },
+    'Investor Regretful 1': { count: 2, percentage: '7.6923' },
+    'Investor Regretful 2': { count: 1, percentage: '3.8462' },
+    'Investor Smug 1': { count: 1, percentage: '3.8462' },
+    'Investor Smug 5': { count: 2, percentage: '7.6923' },
+    'Lawyer Devious 3': { count: 1, percentage: '3.8462' },
+    'Lawyer Smug 2': { count: 2, percentage: '7.6923' }
+  },
+  Rarity: {
+    Legendary: { count: 3, percentage: '11.5385' },
+    Mythic: { count: 6, percentage: '23.0769' },
+    Rare: { count: 17, percentage: '65.3846' }
+  },
+  Robe: {
+    'Black Yukata': { count: 1, percentage: '3.8462' },
+    'Dark Blue Yukata': { count: 1, percentage: '3.8462' },
+    'Yellow Yukata ': { count: 1, percentage: '3.8462' }
+  },
+  'Secondary Coat': {
+    'Cornsilk Yellow Inner Shade': { count: 1, percentage: '3.8462' },
+    'Cream Inner Body': { count: 1, percentage: '3.8462' },
+    'Cyan-Blue': { count: 6, percentage: '23.0769' },
+    'Light Green Inner Body': { count: 1, percentage: '3.8462' },
+    'Light Green Inner Shade': { count: 1, percentage: '3.8462' },
+    'Light Orange Inner Body': { count: 2, percentage: '7.6923' },
+    'Light Orange Inner Shade': { count: 1, percentage: '3.8462' },
+    'Light Pink Inner Body': { count: 1, percentage: '3.8462' },
+    'Light Pink Inner Shade': { count: 1, percentage: '3.8462' },
+    'Light Yellow': { count: 2, percentage: '7.6923' },
+    'Orange Peach Inner Body': { count: 1, percentage: '3.8462' },
+    White: { count: 2, percentage: '7.6923' }
+  },
+  Seniority: { Analyst: { count: 23, percentage: '88.4615' } },
+  Shirt: {
+    'Orange Patterned Shirt': { count: 1, percentage: '3.8462' },
+    'Red Patterned Shirt': { count: 1, percentage: '3.8462' },
+    'Violet Patterned Shirt': { count: 1, percentage: '3.8462' }
+  },
+  VFX: { 'Sakura Petals': { count: 3, percentage: '11.5385' } },
+  'Attribute Count': {
+    '11 Attributes': { count: 3, percentage: 11.540000000000001 },
+    '12 Attributes': { count: 3, percentage: 11.540000000000001 },
+    '13 Attributes': { count: 5, percentage: 19.23 },
+    '14 Attributes': { count: 3, percentage: 11.540000000000001 },
+    '15 Attributes': { count: 6, percentage: 23.080000000000002 },
+    '16 Attributes': { count: 4, percentage: 15.379999999999999 },
+    '17 Attributes': { count: 1, percentage: 3.85 },
+    '18 Attributes': { count: 1, percentage: 3.85 }
+  }
+}
+{
+  '11': 3,
+  '12': 3,
+  '13': 5,
+  '14': 3,
+  '15': 6,
+  '16': 4,
+  '17': 1,
+  '18': 1
+}
+┌─────────┬────────────────┬────────────────────┐
+│ (index) │      name      │     raritySum      │
+├─────────┼────────────────┼────────────────────┤
+│    0    │ 'Investor #23' │      134.6157      │
+│    1    │ 'Investor #24' │      134.6157      │
+│    2    │ 'Investor #25' │      134.6157      │
+│    3    │  'Lawyer #1'   │ 265.38480000000004 │
+│    4    │ 'Investor #21' │      265.3849      │
+│    5    │  'Lawyer #11'  │      280.7695      │
+│    6    │ 'Investor #18' │      280.7695      │
+│    7    │  'Lawyer #12'  │ 280.76959999999997 │
+│    8    │  'Lawyer #10'  │      280.7696      │
+│    9    │ 'Investor #14' │ 300.00020000000006 │
+│   10    │ 'Investor #0'  │ 300.00030000000004 │
+│   11    │  'Lawyer #9'   │      307.6924      │
+│   12    │  'Lawyer #3'   │      311.5386      │
+│   13    │  'Lawyer #7'   │ 315.38470000000007 │
+│   14    │ 'Investor #19' │      315.3848      │
+│   15    │ 'Investor #13' │ 315.38480000000004 │
+│   16    │  'Lawyer #5'   │      319.2308      │
+│   17    │  'Lawyer #0'   │      323.077       │
+│   18    │  'Lawyer #8'   │      326.9231      │
+│   19    │ 'Investor #15' │ 326.92319999999995 │
+│   20    │ 'Investor #20' │ 326.92330000000004 │
+│   21    │ 'Investor #0'  │      326.9234      │
+│   22    │  'Lawyer #2'   │      334.6155      │
+│   23    │  'Lawyer #4'   │      334.6156      │
+│   24    │  'Lawyer #6'   │      338.4616      │
+│   25    │ 'Investor #16' │ 346.15409999999997 │
+└─────────┴────────────────┴────────────────────┘
+{ trait: '1_Layer' }
+[
+  {
+    name: 'FaceAggressivePrimary_aggressive_A',
+    count: 1,
+    percentage: '3.8462'
+  },
+  {
+    name: 'FaceDeviousPrimary_devious_G',
+    count: 1,
+    percentage: '3.8462'
+  },
+  {
+    name: 'FaceOptimisticPrimary_02_optimistic_2_C',
+    count: 1,
+    percentage: '3.8462'
+  },
+  {
+    name: 'FaceOptimisticPrimary_02_optimistic_2_F',
+    count: 1,
+    percentage: '3.8462'
+  },
+  {
+    name: 'FaceRegretfulPrimary_regretful_2_A',
+    count: 1,
+    percentage: '3.8462'
+  },
+  {
+    name: 'FaceRegretfulPrimary_regretful_2_C',
+    count: 1,
+    percentage: '3.8462'
+  },
+  {
+    name: 'FaceRegretfulPrimary_regretful_2_E',
+    count: 1,
+    percentage: '3.8462'
+  },
+  { name: 'FaceSmugSecondary_smug_C', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugSecondary_smug_D', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugSecondary_smug_F', count: 1, percentage: '3.8462' }
+]
+{ trait: '2_Layer' }
+[
+  { name: 'FaceSmugPrimary_smug_A', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugPrimary_smug_C', count: 1, percentage: '3.8462' },
+  { name: 'FaceSmugPrimary_smug_G', count: 1, percentage: '3.8462' }
+]
+{ trait: '6_LA' }
+[
+  {
+    name: 'FaceAccessories_01_line_art_-',
+    count: 1,
+    percentage: '3.8462'
+  }
+]
+{ trait: 'Accessory' }
+[
+  { name: 'Black Diamond Ear Ring', count: 1, percentage: '3.8462' },
+  { name: 'Black Face Mask', count: 1, percentage: '3.8462' },
+  { name: 'Blue Chewing Gum', count: 1, percentage: '3.8462' },
+  { name: 'Blue Octopus', count: 1, percentage: '3.8462' },
+  { name: 'Bright Purple Boba Tea', count: 1, percentage: '3.8462' },
+  { name: 'Bright Yellow Boba Tea', count: 1, percentage: '3.8462' },
+  { name: 'Grey Octopus', count: 1, percentage: '3.8462' },
+  { name: 'Maroon Ribbon', count: 1, percentage: '3.8462' },
+  { name: 'Mint Green Earcuff', count: 1, percentage: '3.8462' },
+  { name: 'Orange Face Mask', count: 1, percentage: '3.8462' },
+  { name: 'Orange Octopus', count: 1, percentage: '3.8462' },
+  { name: 'Pink Cigarette', count: 1, percentage: '3.8462' },
+  { name: 'Pink Ribbon', count: 1, percentage: '3.8462' },
+  { name: 'Ruby Red Face Mask', count: 2, percentage: '7.6923' },
+  { name: 'Tawny Brown Face Mask', count: 1, percentage: '3.8462' },
+  { name: 'Violet Ribbon', count: 1, percentage: '3.8462' },
+  { name: 'White Boba Tea', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Face Mask', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Background' }
+[
+  { name: 'Amethyst', count: 1, percentage: '3.8462' },
+  { name: 'Azur Lane', count: 1, percentage: '3.8462' },
+  { name: 'Back to Earth', count: 1, percentage: '3.8462' },
+  { name: 'Blooker20', count: 1, percentage: '3.8462' },
+  { name: 'Candy', count: 1, percentage: '3.8462' },
+  { name: 'Cherry Blossom', count: 1, percentage: '3.8462' },
+  { name: 'Cocoaa Ice', count: 1, percentage: '3.8462' },
+  { name: 'Golden Ship Deck', count: 3, percentage: '11.5385' },
+  { name: 'Hazel', count: 2, percentage: '7.6923' },
+  { name: 'Horizon', count: 1, percentage: '3.8462' },
+  { name: 'Kanagawa Crimson Sunset', count: 1, percentage: '3.8462' },
+  { name: 'Kanagawa Crimson Sunset ', count: 2, percentage: '7.6923' },
+  { name: 'Mango Pulp', count: 1, percentage: '3.8462' },
+  { name: 'Master Card', count: 2, percentage: '7.6923' },
+  { name: 'Neon Life', count: 1, percentage: '3.8462' },
+  { name: 'Shore', count: 1, percentage: '3.8462' },
+  { name: 'Teal Love', count: 1, percentage: '3.8462' },
+  { name: 'The Blue Lagoon', count: 1, percentage: '3.8462' },
+  { name: 'Vanusa', count: 1, percentage: '3.8462' },
+  { name: 'Vice City', count: 1, percentage: '3.8462' },
+  { name: 'Wiretap', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Beard' }
+[
+  { name: 'Black Beard', count: 1, percentage: '3.8462' },
+  { name: 'Brown Beard', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Beard', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Character Quote' }
+[
+  { name: 'Lawyer Devious 1', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Devious 6', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Optimistic 4', count: 2, percentage: '7.6923' },
+  { name: 'Lawyer Regretful 1', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Skeptical 1', count: 2, percentage: '7.6923' },
+  { name: 'Lawyer Skeptical 2', count: 3, percentage: '11.5385' }
+]
+{ trait: 'Clothing' }
+[
+  { name: 'Black Investor Vest', count: 1, percentage: '3.8462' },
+  { name: 'Brown Investor Vest', count: 1, percentage: '3.8462' },
+  { name: 'Jasmine Winter Scarf', count: 1, percentage: '3.8462' },
+  { name: 'Orange Fur Collar Coat', count: 2, percentage: '7.6923' },
+  { name: 'Orange Investor Vest', count: 2, percentage: '7.6923' },
+  { name: 'Pink Red Winter Scarf', count: 1, percentage: '3.8462' },
+  { name: 'Red Varsity Jacket', count: 1, percentage: '3.8462' },
+  { name: 'Sakura Winter Scarf', count: 1, percentage: '3.8462' },
+  { name: 'Steel Grey Vintage Coat', count: 1, percentage: '3.8462' },
+  { name: 'White Light Autumn Wear', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Hawaiian Shirt', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Ears' }
+[
+  { name: 'Cream Inner Ears', count: 1, percentage: '3.8462' },
+  { name: 'Light Green Inner Ears', count: 2, percentage: '7.6923' },
+  { name: 'Light Orange Inner Ears', count: 2, percentage: '7.6923' },
+  { name: 'Light Pink Inner Ears', count: 3, percentage: '11.5385' },
+  { name: 'Light Yellow Inner Ears', count: 1, percentage: '3.8462' },
+  { name: 'Orange Peach Inner Ears', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Expression' }
+[
+  { name: 'Aggressive Masculine', count: 1, percentage: '3.8462' },
+  { name: 'Devious Feminine', count: 1, percentage: '3.8462' },
+  { name: 'Devious Masculine', count: 2, percentage: '7.6923' },
+  { name: 'Optimistic Feminine', count: 2, percentage: '7.6923' },
+  { name: 'Optimistic Masculine', count: 1, percentage: '3.8462' },
+  { name: 'Regretful Feminine', count: 3, percentage: '11.5385' },
+  { name: 'Regretful Masculine', count: 2, percentage: '7.6923' },
+  { name: 'Skeptical Feminine', count: 1, percentage: '3.8462' },
+  { name: 'Skeptical Masculine', count: 2, percentage: '7.6923' },
+  { name: 'Smug Feminine', count: 3, percentage: '11.5385' },
+  { name: 'Smug Masculine', count: 2, percentage: '7.6923' }
+]
+{ trait: 'Eyewear' }
+[
+  { name: 'Black Circle Glasses', count: 1, percentage: '3.8462' },
+  { name: 'Black Summar Shades', count: 2, percentage: '7.6923' },
+  { name: 'Blue Square Glasses', count: 2, percentage: '7.6923' },
+  { name: 'Brown Square Glasses', count: 2, percentage: '7.6923' },
+  { name: 'Golden Rounded Glasses', count: 1, percentage: '3.8462' },
+  { name: 'Grey Cyber Visor', count: 2, percentage: '7.6923' },
+  { name: 'Indigo Summer Glasses', count: 1, percentage: '3.8462' },
+  { name: 'Royal Blue CyberGlass', count: 1, percentage: '3.8462' },
+  {
+    name: 'Steel Grey Small Round Glasses',
+    count: 1,
+    percentage: '3.8462'
+  },
+  { name: 'Yellow CyberGlass', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Summer Glasses', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Flair' }
+[
+  { name: 'Blue Pirate', count: 1, percentage: '3.8462' },
+  { name: 'Charcoal Pirate', count: 1, percentage: '3.8462' },
+  { name: 'Orange Pirate', count: 1, percentage: '3.8462' },
+  { name: 'Yakuza Lawyer', count: 3, percentage: '11.5385' }
+]
+{ trait: 'Hair' }
+[
+  { name: "Barrister's wig", count: 3, percentage: '11.5385' },
+  { name: 'Black Pixie Cut', count: 1, percentage: '3.8462' },
+  { name: 'Brunette Curly Twin Bun ', count: 1, percentage: '3.8462' },
+  { name: 'Cyan Hair', count: 3, percentage: '11.5385' },
+  { name: 'Ginger Bun Updo', count: 1, percentage: '3.8462' },
+  { name: 'Maroon Messy Bob Cut', count: 1, percentage: '3.8462' },
+  { name: 'Orange Fluffy Hair', count: 1, percentage: '3.8462' },
+  { name: 'Red Curly Ponytail', count: 1, percentage: '3.8462' },
+  { name: 'Sunlight Yellow Braid', count: 1, percentage: '3.8462' },
+  { name: 'White Afro', count: 1, percentage: '3.8462' },
+  { name: 'Zaffre Blue Afro', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Hat' }
+[
+  { name: 'Blue Pirate Hat', count: 1, percentage: '3.8462' },
+  { name: 'Purple Berret', count: 1, percentage: '3.8462' },
+  { name: 'Purple Classic Cap', count: 1, percentage: '3.8462' },
+  { name: 'Red Pirate Hat', count: 1, percentage: '3.8462' },
+  { name: 'Soft Brown Borsalino Hat', count: 1, percentage: '3.8462' },
+  { name: 'White Pirate Hat', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Hat Modifier' }
+[
+  { name: 'Brown Feather Earing', count: 1, percentage: '3.8462' },
+  { name: 'Green Feather Earing', count: 1, percentage: '3.8462' },
+  { name: 'Red Feather Earing', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Inner Cloths' }
+[
+  { name: 'Blue Inner Detailing', count: 1, percentage: '3.8462' },
+  { name: 'Green Inner Detailing', count: 1, percentage: '3.8462' },
+  { name: 'Red Inner Detailing', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Jacket' }
+[
+  { name: 'Black Waistcoat', count: 1, percentage: '3.8462' },
+  { name: 'Blue Pirate Coat', count: 1, percentage: '3.8462' },
+  { name: 'Brown Waistcoat', count: 1, percentage: '3.8462' },
+  { name: 'Dark Blue Waistcoat', count: 1, percentage: '3.8462' },
+  { name: 'Red Pirate Coat', count: 1, percentage: '3.8462' },
+  { name: 'White Pirate Coat', count: 1, percentage: '3.8462' }
+]
+{ trait: 'LineArt' }
+[
+  { name: 'Base_Body_line_art_A', count: 10, percentage: '38.4615' },
+  { name: 'Body Line Art', count: 6, percentage: '23.0769' },
+  { name: 'Tertiary', count: 10, percentage: '38.4615' }
+]
+{ trait: 'Mask' }
+[
+  { name: 'Black Kitsune Mask', count: 1, percentage: '3.8462' },
+  { name: 'Red Kitsune Mask', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Kitsune Mask', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Mask Modifier' }
+[ { name: 'MaskHole', count: 3, percentage: '11.5385' } ]
+{ trait: 'Multiply' }
+[
+  { name: 'Cloth_03Shadow_Multi', count: 1, percentage: '3.8462' },
+  { name: 'FaceMsc_06Shadow', count: 2, percentage: '7.6923' },
+  { name: 'Hat_03Shadow_Multi', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Personality' }
+[
+  { name: 'Aggressive', count: 1, percentage: '3.8462' },
+  { name: 'Devious', count: 3, percentage: '11.5385' },
+  { name: 'Optimistic', count: 5, percentage: '19.2308' },
+  { name: 'Regretful', count: 5, percentage: '19.2308' },
+  { name: 'Skeptical', count: 4, percentage: '15.3846' },
+  { name: 'Smug', count: 5, percentage: '19.2308' }
+]
+{ trait: 'Primary Coat' }
+[
+  { name: 'Black', count: 2, percentage: '7.6923' },
+  { name: 'Blue', count: 1, percentage: '3.8462' },
+  { name: 'Brown', count: 2, percentage: '7.6923' },
+  { name: 'Charcoal ', count: 4, percentage: '15.3846' },
+  { name: 'Green', count: 1, percentage: '3.8462' },
+  { name: 'Light Silver', count: 2, percentage: '7.6923' },
+  { name: 'Olive', count: 1, percentage: '3.8462' },
+  { name: 'Red', count: 4, percentage: '15.3846' },
+  { name: 'Yellow', count: 3, percentage: '11.5385' }
+]
+{ trait: 'Profession' }
+[
+  { name: 'Investor', count: 13, percentage: '50.0000' },
+  { name: 'Lawyer', count: 13, percentage: '50.0000' }
+]
+{ trait: 'Quote' }
+[
+  { name: 'Investor Aggressive 2', count: 1, percentage: '3.8462' },
+  { name: 'Investor Devious 3', count: 1, percentage: '3.8462' },
+  { name: 'Investor Optimistic 1', count: 1, percentage: '3.8462' },
+  { name: 'Investor Optimistic 3', count: 1, percentage: '3.8462' },
+  { name: 'Investor Regretful 1', count: 2, percentage: '7.6923' },
+  { name: 'Investor Regretful 2', count: 1, percentage: '3.8462' },
+  { name: 'Investor Smug 1', count: 1, percentage: '3.8462' },
+  { name: 'Investor Smug 5', count: 2, percentage: '7.6923' },
+  { name: 'Lawyer Devious 3', count: 1, percentage: '3.8462' },
+  { name: 'Lawyer Smug 2', count: 2, percentage: '7.6923' }
+]
+{ trait: 'Rarity' }
+[
+  { name: 'Legendary', count: 3, percentage: '11.5385' },
+  { name: 'Mythic', count: 6, percentage: '23.0769' },
+  { name: 'Rare', count: 17, percentage: '65.3846' }
+]
+{ trait: 'Robe' }
+[
+  { name: 'Black Yukata', count: 1, percentage: '3.8462' },
+  { name: 'Dark Blue Yukata', count: 1, percentage: '3.8462' },
+  { name: 'Yellow Yukata ', count: 1, percentage: '3.8462' }
+]
+{ trait: 'Secondary Coat' }
+[
+  {
+    name: 'Cornsilk Yellow Inner Shade',
+    count: 1,
+    percentage: '3.8462'
+  },
+  { name: 'Cream Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'Cyan-Blue', count: 6, percentage: '23.0769' },
+  { name: 'Light Green Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'Light Green Inner Shade', count: 1, percentage: '3.8462' },
+  { name: 'Light Orange Inner Body', count: 2, percentage: '7.6923' },
+  { name: 'Light Orange Inner Shade', count: 1, percentage: '3.8462' },
+  { name: 'Light Pink Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'Light Pink Inner Shade', count: 1, percentage: '3.8462' },
+  { name: 'Light Yellow', count: 2, percentage: '7.6923' },
+  { name: 'Orange Peach Inner Body', count: 1, percentage: '3.8462' },
+  { name: 'White', count: 2, percentage: '7.6923' }
+]
+{ trait: 'Seniority' }
+[ { name: 'Analyst', count: 23, percentage: '88.4615' } ]
+{ trait: 'Shirt' }
+[
+  { name: 'Orange Patterned Shirt', count: 1, percentage: '3.8462' },
+  { name: 'Red Patterned Shirt', count: 1, percentage: '3.8462' },
+  { name: 'Violet Patterned Shirt', count: 1, percentage: '3.8462' }
+]
+{ trait: 'VFX' }
+[ { name: 'Sakura Petals', count: 3, percentage: '11.5385' } ]
+{ trait: 'Attribute Count' }
+[
+  { name: '11 Attributes', count: 3, percentage: 11.540000000000001 },
+  { name: '12 Attributes', count: 3, percentage: 11.540000000000001 },
+  { name: '13 Attributes', count: 5, percentage: 19.23 },
+  { name: '14 Attributes', count: 3, percentage: 11.540000000000001 },
+  { name: '15 Attributes', count: 6, percentage: 23.080000000000002 },
+  { name: '16 Attributes', count: 4, percentage: 15.379999999999999 },
+  { name: '17 Attributes', count: 1, percentage: 3.85 },
+  { name: '18 Attributes', count: 1, percentage: 3.85 }
+]
+Done in 0.50s.
